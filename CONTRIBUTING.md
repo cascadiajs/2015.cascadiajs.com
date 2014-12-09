@@ -76,26 +76,15 @@ Everything has bugs, including conferences. If you see something that you think 
 
 ## Be willing to add to your toolbelt
 
-A major factor that often keeps developers from contributing to open source projects is a lack of comfort with the tools and workflows that are typically employed. The most common stumbling blocks for newcomers tend to be
-
-the command line
-version control
-local development
-Depending on your background, these may be normal parts of your everyday workflow, or they may be intimidating obstacles that send you running in the opposite direction every time you scan a README. Before delving into a bit more detail about each of these and why it's important, here are some important things to keep in mind.
+A major factor that often keeps developers from participating in community events is a lack of comfort with the tools and workflows that are typically employed.  Depending on your background, these may be things that you have experience with or they may be intimidating obstacles that send you running for the hills. Try to keep an open mind and remember that it's ok to ask questions.
 
 ## Share your experiences 
 
-If you’ve ever tried to debug a frustrating problem with a piece of software, you’ve probably gone to Google to find the answer. Google doesn’t know the answer, of course. It can only point you to web pages that others have created. That’s where you come in.
-
-Write up something in your blog about how you’ve used the software, especially if it describes a problem you had and how you solved it. For example, I once spent a day debugging problems getting Solr to run under the Tomcat engine. After I’d pieced together the answer from many different sources, I created a single page that dealt with the problem for future Solr users to find. As you can see from the comments on the page, it seems to be working, and I take great satisfaction in that.
-
-Writing up the story of your problem and solution adds to the body of knowledge of the project, even if it’s not part of the project’s official documentation.
+Many would-be organizers or contributors never even figure out how to get started because Google fails to provide much insight on how community events actually work. This document is an "ok" first step, but ultimately we are ALL responsible for documenting the things we've learned and posting them online where they can be indexed and curated into collections of useful information.
 
 ## Be a good citizen 
 
-Open source projects are small communities of like-minded individuals coming together over a common interest or skill set. As with any community, there are appropriate ways to conduct yourself when interacting with other members of that group. Treating others with respect is not just courteous, but it helps encourage new people that may have important contributions to feel comfortable enough to put themselves out there and take that first step toward getting involved.
-
-Whether you're answering questions in a forum, chatting with someone at a conference or commenting on a section of someone's code, keep in mind that your words and your actions have real consequences. Treat others how you would like to be treated and keep in mind that we were all beginners at some point. When you encounter a community member that doesn't follow or understand the mores, just remember that someone once helped you and pass on the kindness.
+Finally, before you dive into contributing to CascadiaJS please read our [Code of Coduct](/COC.md). 
 
 ## Appendix
 
