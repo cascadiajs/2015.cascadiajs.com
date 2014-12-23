@@ -16,7 +16,7 @@ CascadiaJS is a not-for-profit conference by web developers for web developers. 
 
 ## The Good, The Bad and The Ugly
 
-Contributing to CascadiaJS (or any community conference) can be a truly rewarding experience. It is an opportunity to create a shared experience that brings hundreds of people together to share knowledge, get to know one another and have a great time. You will play a part in giving brilliant people who have never spoken before a platform to express their ideas to the world. Products, platforms and companies will spin out of the conversations over Whiskey.js that you help faciliate.
+Contributing to CascadiaJS (or any community conference) can be a truly rewarding experience. It is an opportunity to create a shared experience that brings hundreds of people together to share knowledge, get to know one another and have a great time. You will play a part in giving brilliant people who have never spoken before a platform to express their ideas to the world. Products, platforms and companies will spin out of the conversations over Whiskey.js that you help facilitate.
 
 But it's not all roses. In fact, it's often hard, dull, detailed-oriented work that starts 6-9 months prior to the conference. The tip of the iceberg that you can see (the conference) barely hints at the total amount of person-hours that go in to making it happen. Take an honest assessment of the spare time you have. 
 
@@ -84,7 +84,7 @@ Many would-be organizers or contributors never even figure out how to get starte
 
 ## Be a good citizen 
 
-Finally, before you dive into contributing to CascadiaJS please read our [Code of Coduct](/COC.md). 
+Finally, before you dive into contributing to CascadiaJS please read our [Code of Conduct](/COC.md). 
 
 ## Appendix
 
