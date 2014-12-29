@@ -53,3 +53,5 @@ brain dump from <http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/R
  * banning the harasser from future events (either indefinitely or for a certain time period)
  * removing a harasser from membership of relevant organizations
  * publishing an account of the harassment and calling for the resignation of the harasser from their responsibilities (usually pursued by people without formal authority: may be called for if the harasser is the event leader, or refuses to stand aside from the conflict of interest, or similar, typically event staff have sufficient governing rights over their space that this isn't as useful) 
+
+Also helpful: blog.izs.me/post/30036893703/policy-on-trolling
