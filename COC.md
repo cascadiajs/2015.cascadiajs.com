@@ -21,10 +21,18 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by a black conference shirt with a pink or black square JSConf EU logo.
-
-In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr0) is always there for you.
-
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+
+## Reporting
+
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by [@TODO How are we identifying staff members].
+
+You can also send a text message to [@TODO need a number that works for CAN and USA phones].
+
+You can also send an email to [@TODO need an email address].
+
+In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr0) is always there for you.
+
+## Enforcement
