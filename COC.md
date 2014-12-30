@@ -6,9 +6,9 @@ All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are 
 
 ## Need Help?
 
-Text: [@TODO need text number]  
-Email: [@TODO need email address]  
-In person: Any organizer [@TODO have link to website]
+Text: [@TODO need text number, make it a tel: link]  
+Email: [@TODO need email address, make it a mailto:]  
+In person: Any organizer [@TODO website, http: link]
 
 ## The Quick Version
 
@@ -39,17 +39,13 @@ Any offensive comments (or behavior, images, physical contact, and online media)
 
 Sponsors and speakers should not use sexualized or inappropriate images, activities, or other material in their advertisements or talks. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-Any participant asked to stop any harassing behavior is expected to comply immediately.
-
-We expect participants to follow these rules at conference and workshop venues, as well as conference-related social events.
+Any participant asked to stop any harassing behavior is expected to comply immediately. We expect all participants to follow these rules at conference and workshop venues, as well as conference-related social events.
 
 ## Reporting
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by [@TODO How are we identifying staff members].
 
-You can also send a text message to [@TODO need a number that works for CAN and USA phones].
-
-You can also send an email to [@TODO need an email address].
+You can also send a text message to [@TODO need a number that works for CAN and USA phones]. or email to [@TODO need an email address].
 
 In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr0) is always there for you.
 
@@ -58,5 +54,3 @@ In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr
 Any participants that are asked to stop any harassing behavior are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the the participant or expulsion from the conference with no refund, or being banned from any future CascadiaJS conferences or associated events.
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
-
-Also helpful: blog.izs.me/post/30036893703/policy-on-trolling
