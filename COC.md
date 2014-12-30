@@ -6,13 +6,15 @@ All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are 
 
 ## Need Help?
 
+If you have any questions, comments, concerns, or report anything that makes you uncomfortable, you can use these channels:
+
 Text: [@TODO need text number, make it a tel: link]  
 Email: [@TODO need email address, make it a mailto:]  
 In person: Any organizer [@TODO website, http: link]
 
 ## The Quick Version
 
-CascadiaJS is dedicated to providing a comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+CascadiaJS is dedicated to providing a safe and comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ## The Less Quick Version
 
@@ -53,4 +55,4 @@ In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr
 
 Any participants that are asked to stop any harassing behavior are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the the participant or expulsion from the conference with no refund, or being banned from any future CascadiaJS conferences or associated events.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Our foremost concerns in this case is the safety and comfort of all our particpants. We will evaluate any possible sanctions with regard to whether or not they provide the safety needed.
