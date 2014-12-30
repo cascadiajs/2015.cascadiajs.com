@@ -2,30 +2,46 @@
 
 *tl;dr: Don’t be a jerk*
 
-All organizers, attendees, speakers, sponsors and volunteers at CascadiaJS are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe environment for everybody.
+All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe environment for everybody.
 
 ## Need Help?
-Contact [Carter Rabasa](http://twitter.com/crtr0).
+
+Text: [@TODO need text number]
+Email: [@TODO need email address]
+In person: Any organizer [@TODO have link to website]
 
 ## The Quick Version
 
-CascadiaJS is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+CascadiaJS is dedicated to providing a comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ## The Less Quick Version
 
-Everyone, including attendees, sponsors, speakers, and organizers are subject to the anti-harassment policy.
+Everyone, including attendees, sponsors, speakers, and organizers are expected to follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated. 
 
-Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+Any offensive comments (or behavior, images, physical contact, and online media) related to the following is not appropriate.
 
-Spponsors should not use sexualized or inappropriate images, activities, or other material in their advertisements. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+* gender (including binary (male, female) or any non-binary gender alignment)
+* sexual orientation
+* sexual imagery
+* disability
+* physical appearance
+* body size
+* race
+* religion
+* deliberate intimidation
+* stalking
+* following [@TODO clarify]
+* harassing photography or recording
+* sustained disruption of talks or other events
+* inappropriate physical contact
+* unwelcome sexual attention
+* anything that would make someone think, "Hm, that's inappropriate".
 
-Speakers should not use sexualized or inappropriate images, text, or comments in their talks.
+Sponsors and speakers should not use sexualized or inappropriate images, activities, or other material in their advertisements or talks. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
 Any participant asked to stop any harassing behavior is expected to comply immediately.
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
-
-We expect participants to follow these rules at conference and workshop venues and conference-related social events.
+We expect participants to follow these rules at conference and workshop venues, as well as conference-related social events.
 
 ## Reporting
 
@@ -40,5 +56,7 @@ In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr
 ## Enforcement
 
 Any participants that are asked to stop any harassing behavior are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the the participant or expulsion from the conference with no refund, or being banned from any future CascadiaJS conferences or associated events.
+
+Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Also helpful: blog.izs.me/post/30036893703/policy-on-trolling
