@@ -6,8 +6,8 @@ All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are 
 
 ## Need Help?
 
-Text: [@TODO need text number]
-Email: [@TODO need email address]
+Text: [@TODO need text number]  
+Email: [@TODO need email address]  
 In person: Any organizer [@TODO have link to website]
 
 ## The Quick Version
