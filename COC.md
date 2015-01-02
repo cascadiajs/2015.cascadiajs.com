@@ -1,20 +1,18 @@
 # The CascadiaJS Code of Conduct
 
-*tl;dr: Don’t be a jerk*
+## The Quick Version
+
+CascadiaJS is dedicated to providing a safe and comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We will not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We are expecting cooporation from all participants to help ensuring a safe environment for everybody.
 
 ## Need Help?
 
-If you have any questions, comments, concerns, or report anything that makes you uncomfortable, you can use these channels:
+If you have any questions, comments, concerns, or report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
 Text: [@TODO need text number, make it a tel: link]  
 Email: [@TODO need email address, make it a mailto:]  
 In person: Any organizer [@TODO website, http: link]
-
-## The Quick Version
-
-CascadiaJS is dedicated to providing a safe and comfortable environment for all our particpants. We will not tolerate any inappropriate behavior, remarks, images, or online posts. We do not tolerate harassment in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter, and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 ## The Less Quick Version
 
