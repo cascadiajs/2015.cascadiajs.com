@@ -10,13 +10,15 @@ All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are 
 
 If you have any questions, comments, concerns, or report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
-Text: [@TODO need text number, make it a tel: link]  
-Email: [@TODO need email address, make it a mailto:]  
+Text: [@TODO need text number, make it a tel: link]<br />
+Email: [@TODO need email address, make it a mailto:]<br />
 In person: Any organizer [@TODO website, http: link]
+
+You can also contact Carter Rabasa (@crtr0, carter@example.com) or Tracy Hinds (@hackygolucky, tracy@example.com) at any time as well.
 
 ## The Less Quick Version
 
-Everyone, including attendees, sponsors, speakers, and organizers are expected to follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated. 
+Everyone, including attendees, sponsors, speakers, and organizers are expected to follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated.
 
 Any offensive comments (or behavior, images, physical contact, and online media) related to the following is not appropriate.
 
