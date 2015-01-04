@@ -20,26 +20,13 @@ You can also contact Carter Rabasa (@crtr0, carter@example.com) or Tracy Hinds (
 
 Everyone, including attendees, sponsors, speakers, and organizers are expected to follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated.
 
-Any offensive comments (or behavior, images, physical contact, and online media) related to the following is not appropriate.
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-* gender (including binary (male, female) or any non-binary gender alignment)
-* sexual orientation
-* sexual imagery
-* disability
-* physical appearance
-* body size
-* race
-* religion
-* deliberate intimidation
-* stalking
-* following [@TODO clarify]
-* harassing photography or recording
-* sustained disruption of talks or other events
-* inappropriate physical contact
-* unwelcome sexual attention
-* anything that would make someone think, "Hm, that's inappropriate".
+Harassment includes: harmful or prejudicial verbal or written comments related to gender (including binary (male, female) or any non-binary gender alignment); sexual orientation; race; religion; disability; physical appearance or body size; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation; stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention.
 
-Sponsors and speakers should not use sexualized or inappropriate images, activities, or other material in their advertisements or talks. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
+Finally, anything that would make someone think "Hmmm, that's inappropriate" may also be unacceptable behavior.
+
+Sponsors and speakers should not use sexualized or inappropriate images, activities, or other material in their advertisements or talks. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. We reserve the right to review all materials and remove them from distribution if they are determined to be inappropriate.
 
 Any participant asked to stop any harassing behavior is expected to comply immediately. We expect all participants to follow these rules at conference and workshop venues, as well as conference-related social events.
 
