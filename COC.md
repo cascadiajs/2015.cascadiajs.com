@@ -11,10 +11,10 @@ All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are 
 If you have any questions, comments, concerns, or report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
 Text: [@TODO need text number, make it a tel: link]<br />
-Email: [@TODO need email address, make it a mailto:]<br />
+Email: [info@cascadiajs.com](mailto:info@cascadiajs.com)<br />
 In person: Any organizer [@TODO website, http: link]
 
-You can also contact Carter Rabasa (@crtr0, carter@example.com) or Tracy Hinds (@hackygolucky, tracy@example.com) at any time as well.
+You can also contact Carter Rabasa ([@crtr0](http://twitter.com/crtr0), [carter@cascadiajs.com](mailto:carter@cascadiajs.com)) or Tracy Hinds ([@hackygolucky](http://twitter.com/hackygolucky), [tracy@cascadiajs.com](mailto:tracy@cascadiajs.com)) at any time as well.
 
 ## The Less Quick Version
 
@@ -36,7 +36,7 @@ If you feel uncomfortable, are being harassed, notice that someone else is being
 
 You can also send a text message to [@TODO need a number that works for CAN and USA phones]. or email to [@TODO need an email address].
 
-In case you can’t find a staff member, [Carter Rabasa](http://twitter.com/crtr0) is always there for you.
+In case you can’t find a staff member, [CascadisJS on twitter](http://twitter.com/cascadiajs) is always there for you.
 
 ## Enforcement
 
