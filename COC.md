@@ -34,7 +34,7 @@ Any participant asked to stop any harassing behavior is expected to comply immed
 
 If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by [@TODO How are we identifying staff members].
 
-You can also send a text message to [@TODO need a number that works for CAN and USA phones]. or email to [@TODO need an email address].
+You can also send a text message to [@TODO need a number that works for CAN and USA phones]. or email to [info@cascadiajs.com](mailto:info@cascadiajs.com).
 
 In case you can’t find a staff member, [CascadisJS on twitter](http://twitter.com/cascadiajs) is always there for you.
 
