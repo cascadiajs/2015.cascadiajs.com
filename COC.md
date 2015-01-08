@@ -38,8 +38,12 @@ You can also send a text message to [@TODO need a number that works for CAN and 
 
 If you can’t find a staff member, [CascadisJS on twitter](http://twitter.com/cascadiajs) is always there for you.
 
+[@TODO add a statement about confidentiality and the reporting process here]
+
 ## Enforcement
 
 If a participant is asked to stop harassing or inappropriate behavior, they are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate; this may inculde warning the participant, immediate expulsion from the conference with no refund, and/or banning from any future CascadiaJS conferences or associated events.
 
 Our foremost concern is the safety and comfort of all our particpants. We will evaluate any possible sanctions with regard to whether or not they provide the safety needed.
+
+[@TODO need a paragraph here explaining the enforcement process. An attendee who might want to report needs to know what steps will be taken after a report is submitted. Another good thing to keep in mind is having an explicit process that the reporter can opt-in and opt-out of to follow up (i.e., a reporter might just want to report the incident and be assured that action is taken with a follow up from an organizer or a reporter might just want to report and have no action taken.)]
