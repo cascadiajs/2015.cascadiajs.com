@@ -16,6 +16,8 @@ In person: Any organizer [@TODO website, http: link]
 
 You can also contact Carter Rabasa ([@crtr0](http://twitter.com/crtr0), [carter@cascadiajs.com](mailto:carter@cascadiajs.com)) or Tracy Hinds ([@hackygolucky](http://twitter.com/hackygolucky), [tracy@cascadiajs.com](mailto:tracy@cascadiajs.com)) at any time as well.
 
+[@TODO It might also be a good idea to clarify why an attendee would want to contact Carter Rabasa or Tracy Hinds. That is, who are these people and why should they be contacted? Are they the main organizers? Are they on a COC enforcement team?]
+
 ## The Less Quick Version
 
 Everyone - including attendees, sponsors, speakers, and organizers - is required to agree to and follow this Code of Conduct. Inappropriate behavior or harassment of any kind is not tolerated.
