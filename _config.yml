@@ -1,0 +1,20 @@
+# Site settings
+name: CascadiaJS 2015
+title: Your awesome title
+email: info@cascadiajs.com
+description: "Conference about cats"
+baseurl: ""
+url: "http://2015.casciajs.com.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title
+
+exclude:
+  - lib
+
+stylesheet: css/style.css
+
+scripts:
+  # - /assets/js/jquery-2.1.0.min.js
+  # - /assets/js/bootstrap.min.js
