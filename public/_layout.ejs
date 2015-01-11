@@ -1,8 +1,12 @@
 <!doctype html>
 <html>
-  <head>
-  </head>
-  <body>
-    <%- yield %>
-  </body>
+	<%- partial("_partials/head") %>
+
+	<body>
+		<%- partial("_partials/header") %>
+
+		<%- yield %>
+
+		<%- partial("_partials/footer") %>
+	</body>
 </html>

@@ -1,6 +1,17 @@
 {
-  "globals": {
-    "title": "CascadiaJS Fest 2015",
-    "uri": "http://2015.cascadiajs.com"
-  }
+	"globals": {
+		"site": {
+			"name": "CascadiaJS Fest 2015",
+			"uri": "http://2015.cascadiajs.com"
+		},
+		"title": "CascadiaJS Fest 2015",
+		"stylesheet": "/assets/css/style.css",
+		"description": "CascadiaJS is a three-day, community-driven conference on the cutting edge of JavaScript.",
+		"scripts": [
+			"/assets/js/bootstrap.min.js"
+		]
+	},
+	"temp": {
+		"0": "/assets/js/jquery-1.11.2.min.js"
+	}
 }
