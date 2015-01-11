@@ -13,6 +13,7 @@
     "deploy": "npm run compile && surge -p ./www -d godly-work.surge.sh"
   },
   "devDependencies": {
-    "harp": "^0.14.0"
+    "harp": "^0.14.0",
+    "surge": "^0.5.2"
   }
 }
