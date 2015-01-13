@@ -2,7 +2,7 @@
 
 ## Read this document
 
-CascadiaJS is a not-for-profit conference by web developers for web developers. It has been run by volunteers since its inception in 2012, but has never made it clear how people can participate and contribute to the experience. This document, influenced heavily by the open source software community, hopes to [document explicitly](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#eaf0-117692598f79) how someone can contribute to CascadiaJS. Please read this document in its entirety if you're thinking about getting involved. If you have any questions or concerns about this document, please file an issue and we will respond promptly. 
+CascadiaJS is a community run conference by web developers for web developers. It has been run by volunteers since its inception in 2012, but has never made it clear how people can participate and contribute to the experience. This document, influenced heavily by the open source software community, hopes to [document explicitly](https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5#eaf0-117692598f79) how someone can contribute to CascadiaJS. Please read this document in its entirety if you're thinking about getting involved. If you have any questions or concerns about this document, please file an issue and we will respond promptly. 
 
 ## Contents
 * [The good, the bad and the ugly](#the-good--the-bad-and-the-ugly)
