@@ -1,6 +1,14 @@
 // Import core bootstrap.
 @import "./_bootstrap/bootstrap.less";
 
+@mq-big: ~"screen and (min-width: 30em)";
+
+@media @mq-big {
+	.container-fluid {
+		max-width: 60em;
+	}
+}
+
 header {
 	text-transform: uppercase;
 }
@@ -11,8 +19,31 @@ header {
 	color: white;
 }
 
+#cjs2015-venue {
+	background: url("/assets/img/cjs2015-venue-big.jpg") no-repeat center top;
+	background-size: cover;
+
+	padding-bottom: 20em;
+
+	address {
+		font-size: 1.3em;
+	}
+
+	@media @mq-big {
+		background-position: center -12em;
+
+		address {
+			// margin-bottom: 10em;
+		}
+	}
+}
+
 footer {
 	text-align: center;
 	color: white;
 	background: #1b2e4c;
+
+	p {
+		margin: 1.5em 0;
+	}
 }
