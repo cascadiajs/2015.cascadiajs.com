@@ -45,8 +45,8 @@ discussions. You can indicate your format in the CfP submission.
 *OPTION #1*  
 First, make sure you're available to attend the conference. It will be held on July 8-10, 2015.
 * Create a [GitHub account](github.com) if you don't have one already
-* Copy [this template from below](link to Issues template with all required fields)
-* Then go [HERE](link to Issues) to paste the template, modify at will, and submit your proposal!(Don't worry, you can keep editing so turning that truck around isn't too bad if you forgot something)
+* Copy the template from below. All fields are required.
+* Then go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues) to paste the template, modify at will, and submit your proposal!(Don't worry, you can keep editing so turning that truck around isn't too bad if you forgot something)
 
 *OPTION #2*  
 Knowing that your talk proposal is going to get put under a microscope in public is daunting for a lot of people (especially those who have never spoken before). Try this alternative by following the below template format and sending it to [speak@cascadiajs.com](mailto:speak@cascadiajs.com)
@@ -72,6 +72,7 @@ Knowing that your talk proposal is going to get put under a microscope in public
 
 I'm an example bio. I'm a magical sloth that likes to crawl and climb through the forest and sit in the stream and I write code sometimes.
 ```
+**Template ends before this line** *All fields are required*
 
 * Format for avatar should be PNG, 256x256.
 * When you're ready, submit! You can go back and edit!
@@ -108,7 +109,7 @@ slide-decks. Not everybody is a live-demo-god. Not everybody knows they have
 something great to talk about.
 
 There are about a million reasons why you don’t consider yourself a speaker,
-let alone at CascadiaJS. We are here to prove you wrong. If all you have is a
+let alone at Cascadia. We are here to prove you wrong. If all you have is a
 gut feeling that you should be on stage, we are here to reach out and help you
 to develop or hone the skills you think you lack to deliver a great
 presentation.  We are happy to brainstorm your interests to see if a great
