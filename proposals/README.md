@@ -1,26 +1,37 @@
 ## CJSFEST CALL FOR PROPOSALS – THE DETAILS
 
-We are inviting the JavaScript community to submit talks for CascadiaJS 2015 in [TBD]. This Call for Proposals will close on March 8. When you’re ready to submit a proposal, go [HERE](add link to Issues section here).
+This year at Cascadia, we've added a day of excitement and mixed it up a bit with a modified format. In the past CJS, was a 2-day, 1-track conference that covered the gamut of JavaScript. In 2015, we are going to break down the event into 3 distinct days:
 
-Diversity of voices is important to our community, so please don't think that you need to be a JS celebrity in order to speak at CascadiaJS. The deadline to submit a proposal is **March 8, 2014 11:59pm UTC-1200**. If it's still March 8th, no matter where you are in the world, you still have time!
+* CSS Day
+* Browser Day
+* Server-side Day
+
+The entire event is Cascadia JSFest and we're stoked you're considering contributing to the fun! 
+
+We invite the CSS and JavaScript community to submit talks for CJSFest 2015 at the Semiahoo Resort in Washington. This Call for Proposals will close on March 15th. When you’re ready to submit a proposal and you've read the instructions below that include the required template, go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues).
+
+Diversity of voices is important to our community, so please don't think that you need to be a programming celebrity in order to speak at CJSFest 2015. The deadline to submit a proposal is **March 15, 2014 11:59pm UTC-1200**. If it's still March 15th, no matter where you are in the world, you still have time!
 
 You are free to submit (and even revise) proposals up until that date. Please follow the instructions below and help us spread the word!
 
 ### PERKS
-The following items are taken care of by us:
+If you're accepted as a speaker, the following items are taken care of by us:
 
-* Travel (up to $500)
-* Hotel accomodations for 3 nights
+* Travel
+* Hotel accomodations
+* a few surprises
 
 ### TOPICS
 To get a feel for what we might be interested in hearing about, take a look at
-the previous years, 2012, 2013 and 2014 . We are looking for JavaScript topics and
-technologies that interest JS nerds. A few ideas:
+the previous years, 2012, 2013 and 2014. We are looking for CSS and JavaScript topics--
+technologies that interest CSS and JS nerds. A few ideas:
 - ES6
+- UX
+- CSS tomfoolery
 - security
 - production setups(deployments, monitoring, etc.)
 - the Makers community--visual art, hardware, robots, music
-- server side JS
+- server side JS shenanigans
 - tooling
 - civic hacking
 - testing
@@ -32,14 +43,13 @@ discussions. You can indicate your format in the CfP submission.
 
 ### HOW TO SUBMIT A PROPOSAL
 *OPTION #1*  
-First, make sure you're available to attend the conference. It will be held in
-[TBD] on July 8-10, 2015.
+First, make sure you're available to attend the conference. It will be held on July 8-10, 2015.
 * Create a [GitHub account](github.com) if you don't have one already
-* Copy and paste [this template](link to Issues template with all required fields)
-* [Submit your proposal!](link to Issues)
+* Copy [this template from below](link to Issues template with all required fields)
+* Then go [HERE](link to Issues) to paste the template, modify at will, and submit your proposal!(Don't worry, you can keep editing so turning that truck around isn't too bad if you forgot something)
 
 *OPTION #2*  
-Knowing that your talk proposal is going to get put under a microscope in public is daunting for a lot of people (especially those who have never spoken before). Try this alternative by following the below format and sending it to [speak@cascadiajs.com](mailto:speak@cascadiajs.com)
+Knowing that your talk proposal is going to get put under a microscope in public is daunting for a lot of people (especially those who have never spoken before). Try this alternative by following the below template format and sending it to [speak@cascadiajs.com](mailto:speak@cascadiajs.com)
 
 **Copy this template:** *All fields are required*
 ```
@@ -85,8 +95,8 @@ If you have any other artifacts that relate to your presentation, like slide dec
 code samples, videos, etc--link to them!
 
 ### What are we looking for?
-We're looking for anything related to the open web, which includes: browser,
-Node.js, Windows 8, Firefox OS, tooling, robots, you name it. Please, no vendor
+We're looking for anything related to the open web, which includes: CSS, accessibility, UX, browser,
+Node.js, io.js, Windows 8, Firefox OS, tooling, robots, you name it. Please, no vendor
 pitches (i.e. How to Use Product X). A great talk should address issues that
 developers struggle with, break down and explain complicated topics and cover
 new ground in JS technology.  All the talks will be 30 minutes. We don't permit
@@ -119,10 +129,10 @@ If you need more encouragement, check out the following:
 - Chris Williams, [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/)
 
 ### THE SELECTION PROCESS
-Submission closes March 8th. We will be convening the committee to select by April 8th and will aim for speakers knowing approximately 3 months prior to the conference.
+Submission closes March 15th. We will be convening the committee to select by April 8th and will aim for speakers knowing approximately 3 months prior to the conference. Our reviewers will be scanning along the way for those ambitious enough to submit proposals early so we can make suggestions to get to a successful talk acceptance. We will be applying labels for talks we think will fit well into a particular day but no talk is accepted until a confirmation email is received from the committee.
 
 ### MISC
-We have a wonderful [Code of Conduct](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/COC.md). Check it out! Everyone who participates in our conference agrees to the enforcement of our CoC, and includes our friends, speakers, staff, sponsors, and attendees.
+We have a rad [Code of Conduct](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/COC.md). Check it out! Everyone who participates in our conference agrees to the enforcement of our CoC, and includes our friends, speakers, staff, sponsors, and attendees.
 
 If you have any questions about this process, need more information or need
 assistance with travel and/or lodging, don't hesitate to reach out to us at
