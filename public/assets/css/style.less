@@ -1,6 +1,37 @@
 // Import core bootstrap.
 @import "./_bootstrap/bootstrap.less";
 
+@cjs-color-primary: #0b4f4d;
+@cjs-color-secondary: #33a143;
+@cjs-color-alt: #fff105;
+
+// Override bootstrap variables
+@navbar-border-radius: 0;
+@navbar-height: 5rem;
+@navbar-margin-bottom: 0;
+
+@navbar-default-bg: white;
+@navbar-default-border: white;
+@navbar-default-color: @cjs-color-primary;
+@navbar-default-brand-color: @cjs-color-primary;
+@navbar-default-link-color: @cjs-color-primary;
+
+@headings-font-family: "Nanami Rounded";
+@headings-font-weight: normal;
+@headings-color: @cjs-color-primary;
+@font-size-h2: 1.8rem;
+@font-size-h3: 2.4rem;
+
+@btn-primary-bg: #1c2e4c;
+@btn-primary-border: #2f4e80;
+
+@padding-large-vertical: .7rem;
+@padding-large-horizontal: 1rem;
+@font-size-large: 2rem;
+@line-height-large: 1.7;
+@border-radius-large: .25em;
+
+
 @mq-big: ~"screen and (min-width: 30em)";
 
 @media @mq-big {
@@ -9,14 +40,76 @@
 	}
 }
 
+.btn.btn-large {
+	border-width: .5rem;
+}
+
+h2.tagline {
+	color: #222;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+hr {
+	border-width: 2px;
+}
+
+p a {
+	text-decoration: underline;
+}
+
+a.btn {
+	text-decoration: none;
+}
+
 header {
 	text-transform: uppercase;
+
+	.navbar-brand img {
+		display: inline;
+		height: 3.6rem;
+	}
+
+	.navbar .navbar-nav a {
+		text-decoration: underline;
+		font-weight: bold;
+	}
+
 }
 
 .hero {
 	text-align: center;
-	background: #062a03;
+	background: url("/assets/img/cjs2015-forest.jpg") no-repeat center top;
+	background-size: cover;
 	color: white;
+
+	font-size: 2.2rem;
+	padding-top: 4rem;
+	padding-bottom: 2rem;
+
+	h1 {
+		font-weight: normal;
+		font-size: 7.2rem;
+		margin-top: 0;
+		margin-bottom: 3rem;
+		color: inherit;
+
+		em {
+			font-style: normal;
+			color: @cjs-color-alt;
+		}
+	}
+
+	p em {
+		color: @cjs-color-secondary;
+		font-style: normal;
+	}
+
+	img {
+		height: 16rem;
+	}
 }
 
 #cjs2015-venue {
