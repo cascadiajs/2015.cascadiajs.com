@@ -31,6 +31,12 @@
 @line-height-large: 1.7;
 @border-radius-large: .25em;
 
+@well-bg: rgba(0, 0, 0, .8);
+@well-border: transparent;
+@border-radius-base: 0;
+.well {
+	padding: 3.6rem;
+}
 
 @mq-big: ~"screen and (min-width: 30em)";
 
@@ -40,7 +46,7 @@
 	}
 }
 
-.btn.btn-large {
+.btn.btn-lg {
 	border-width: .5rem;
 }
 
@@ -116,10 +122,18 @@ header {
 	background: url("/assets/img/cjs2015-venue-big.jpg") no-repeat center top;
 	background-size: cover;
 
-	padding-bottom: 20em;
+	padding-bottom: 16em;
+	color: white;
 
 	address {
-		font-size: 1.3em;
+		font-family: @headings-font-family;
+		font-size: 1.8rem;
+
+		strong {
+			font-size: 2.4rem;
+		}
+
+		text-transform: uppercase;
 	}
 
 	@media @mq-big {
