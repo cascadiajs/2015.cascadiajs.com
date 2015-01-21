@@ -46,7 +46,10 @@ discussions. You can indicate your format in the CfP submission.
 First, make sure you're available to attend the conference. It will be held on July 8-10, 2015.
 * Create a [GitHub account](https://github.com/join) if you don't have one already
 * Copy the template from below. All fields are required.
-* Then go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues) to paste the template, modify at will, and submit your proposal!(Don't worry, you can keep editing so turning that truck around isn't too bad if you forgot something)
+* Then go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues) 
+1. Create a new issue. 
+2. Paste the template and modify at will. 
+3. Submit your proposal!(Don't worry, you can keep editing so turning that truck around isn't too bad if you forgot something)
 
 *OPTION #2*  
 Knowing that your talk proposal is going to get put under a microscope in public is daunting for a lot of people (especially those who have never spoken before). Try this alternative by following the below template format and sending it to [speak@cascadiajs.com](mailto:speak@cascadiajs.com)
