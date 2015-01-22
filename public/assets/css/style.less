@@ -65,7 +65,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   padding-top: 6px;
 }
 
-@media (min-width: @screen-lg-min) {
+@media (min-width: @screen-md-min) {
   .container-fluid {
     max-width: 60em;
   }
@@ -145,6 +145,10 @@ header {
     font-style: normal;
   }
 
+  span.spacer {
+    padding: 0 .75em;
+  }
+
   img {
     height: 16rem;
   }
@@ -168,7 +172,7 @@ header {
     text-transform: uppercase;
   }
 
-  @media (min-width: @screen-lg-min) {
+  @media (min-width: @screen-md-min) {
     background-position: center -12em;
   }
 }
@@ -177,7 +181,15 @@ header {
   background: url("/assets/img/cjs2015-family-1400.jpg") no-repeat center top;
   background-size: cover;
 
-  padding-bottom: 20em;
+  @media (min-width: @screen-sm-min) {
+    background-image: url("/assets/img/cjs2015-family-1000.jpg");
+  }
+
+  @media (min-width: @screen-xs-min) {
+    background-image: url("/assets/img/cjs2015-family-600.jpg");
+  }
+
+  padding-bottom: 16em;
 
   .well {
     margin: 2em 0;
