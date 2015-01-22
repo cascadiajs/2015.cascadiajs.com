@@ -134,10 +134,14 @@ header {
   h1 {
     font-family: "Nanami-Rounded-Lt";
     font-weight: normal;
-    font-size: 7.2rem;
+    font-size: 3.2rem;
     margin-top: 0;
     margin-bottom: 3rem;
     color: inherit;
+  }
+
+  p span {
+    display: block;
   }
 
   span.thin {
@@ -146,20 +150,59 @@ header {
   }
 
   span.spacer {
-    padding: 0 .75em;
+    display: none;
   }
 
   img {
-    height: 16rem;
+    height: 8rem;
+  }
+
+  @media (min-width: @screen-sm-min) {
+    h1 {
+      font-size: 7.2rem;
+    }
+
+    span.spacer {
+      padding: 0 .75em;
+      display: inline;
+    }
+
+    p span {
+      display: inline;
+    }
+
+    img {
+      height: 16rem;
+    }
+  }
+
+  @media (min-width: @screen-md-min) {
+    h1 {
+      font-size: 7.2rem;
+    }
   }
 }
 
 #cjs2015-venue {
-  background: url("/assets/img/cjs2015-venue-big.jpg") no-repeat center top;
+  background: url("/assets/img/cjs2015-venue-600.jpg") no-repeat center top;
   background-size: cover;
 
-  padding-bottom: 6em;
+
   color: white;
+
+  @media (min-width: @screen-sm-min) {
+    padding-bottom: 6em;
+    background-position: center -6em;
+  }
+
+  @media (min-width: @screen-md-min) {
+    background-position: center -12em;
+    background-image: url("/assets/img/cjs2015-venue-1000.jpg");
+  }
+
+  @media (min-width: @screen-lg-min) {
+    background-image: url("/assets/img/cjs2015-venue-big.jpg");
+  }
 
   address {
     font-family: @headings-font-family;
@@ -171,22 +214,22 @@ header {
 
     text-transform: uppercase;
   }
-
-  @media (min-width: @screen-md-min) {
-    background-position: center -12em;
-  }
 }
 
 #cjs2015-coc {
-  background: url("/assets/img/cjs2015-family-1400.jpg") no-repeat center top;
+  background: url("") no-repeat center top;
   background-size: cover;
+
+  @media (min-width: @screen-xs-min) {
+    background-image: url("/assets/img/cjs2015-family-600.jpg");
+  }
 
   @media (min-width: @screen-sm-min) {
     background-image: url("/assets/img/cjs2015-family-1000.jpg");
   }
 
-  @media (min-width: @screen-xs-min) {
-    background-image: url("/assets/img/cjs2015-family-600.jpg");
+  @media (min-width: @screen-lg-min) {
+    background-image: url("/assets/img/cjs2015-family-1400.jpg");
   }
 
   padding-bottom: 16em;
