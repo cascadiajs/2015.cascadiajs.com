@@ -65,9 +65,7 @@ h1, .h1, h2, .h2, h3, .h3 {
   padding-top: 6px;
 }
 
-@mq-big: ~"screen and (min-width: 30em)";
-
-@media @mq-big {
+@media (min-width: @screen-lg-min) {
   .container-fluid {
     max-width: 60em;
   }
@@ -170,12 +168,8 @@ header {
     text-transform: uppercase;
   }
 
-  @media @mq-big {
+  @media (min-width: @screen-lg-min) {
     background-position: center -12em;
-
-    address {
-      // margin-bottom: 10em;
-    }
   }
 }
 
