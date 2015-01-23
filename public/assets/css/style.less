@@ -62,8 +62,13 @@ body {
 }
 
 h1, .h1, h2, .h2, h3, .h3 {
+  letter-spacing: 0.05em;
   margin-top: 1em;
   margin-bottom: 1em;
+}
+
+address {
+  letter-spacing: 0.05em;
 }
 
 .well {
@@ -104,6 +109,7 @@ hr {
 
 p a {
   text-decoration: underline;
+  font-weight: bold;
   &:hover {
     text-decoration: none;
   }
@@ -262,22 +268,23 @@ header {
 }
 
 #cjs2015-coc {
-  background: url("") no-repeat center top;
+  background: url("") no-repeat center bottom;
   background-size: cover;
 
   @media (min-width: @screen-xs-min) {
     background-image: url("/assets/img/cjs2015-family-600.jpg");
+    height: 450px;
   }
 
   @media (min-width: @screen-sm-min) {
     background-image: url("/assets/img/cjs2015-family-1000.jpg");
+    height: 550px;
   }
 
   @media (min-width: @screen-lg-min) {
     background-image: url("/assets/img/cjs2015-family-1400.jpg");
+    height: 650px;
   }
-
-  padding-bottom: 16em;
 
   .well {
     margin: 2em 0;
