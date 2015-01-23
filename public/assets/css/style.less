@@ -48,8 +48,17 @@
 @well-border: transparent;
 @border-radius-base: 0;
 
+html {
+  height: 100%;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+}
+
 .content .row {
   padding-bottom: 2em;
+  padding-top: 1em;
 }
 
 h1, .h1, h2, .h2, h3, .h3 {
@@ -78,10 +87,11 @@ h1, .h1, h2, .h2, h3, .h3 {
 
 h2.tagline {
   color: #222;
-  line-height: 1.3;
+  line-height: 1.5;
   font-family: Nanami-Rounded-Lt;
   font-weight: normal;
   font-style: normal;
+  font-size: 1.3em;
 }
 
 h3 {
@@ -123,9 +133,9 @@ header {
 .blue { color: @cjs-color-dk-blue; }
 
 .hero {
-	font-family: Nanami-Rounded-Lt;
-	font-weight: normal;
-	font-style: normal;
+  font-family: Nanami-Rounded-Lt;
+  font-weight: normal;
+  font-style: normal;
   text-align: center;
   background: url("/assets/img/cjs2015-forest.jpg") no-repeat center top;
   background-size: cover;
@@ -136,9 +146,9 @@ header {
   padding-bottom: 2rem;
 
   h1 {
-  	font-family: Nanami-Rounded-Lt;
-  	font-weight: normal;
-  	font-style: normal;
+    font-family: Nanami-Rounded-Lt;
+    font-weight: normal;
+    font-style: normal;
     font-size: 3.2rem;
     margin-top: 0;
     margin-bottom: 3rem;
@@ -150,10 +160,10 @@ header {
   }
 
   span.thin {
-  	font-family: Nanami-Rounded-Thin;
-  	font-weight: normal;
-  	font-style: normal;
-	}
+    font-family: Nanami-Rounded-Thin;
+    font-weight: normal;
+    font-style: normal;
+  }
 
   span.spacer {
     display: none;
@@ -186,6 +196,19 @@ header {
     h1 {
       font-size: 7.2rem;
     }
+    
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+  .speak-at {
+    margin-top: 4em;
+  }
+}
+
+@media (min-width: 992px) {
+  .container-fluid {
+    max-width: 70em;
   }
 }
 
@@ -193,32 +216,49 @@ header {
   background: url("/assets/img/cjs2015-venue-600.jpg") no-repeat center top;
   background-size: cover;
 
-  color: white;
-
-  @media (min-width: @screen-sm-min) {
-    padding-bottom: 6em;
-    background-position: center -6em;
+  .well {
+    color: white;
   }
 
+/*
+  @media (min-width: @screen-sm-min) {
+    background-position: center -6em;
+  }
+*/
+
   @media (min-width: @screen-md-min) {
-    background-position: center -12em;
+    padding-bottom: 6em;
+    background-position: center -10em;
     background-image: url("/assets/img/cjs2015-venue-1000.jpg");
   }
 
   @media (min-width: @screen-lg-min) {
+//     padding-bottom: 12em;
+    background-position: center -14em;
     background-image: url("/assets/img/cjs2015-venue-big.jpg");
   }
 
   address {
-    font-family: @headings-font-family;
-    font-size: 1.8rem;
+    font-family: Nanami-Rounded-Lt;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
 
     strong {
+      font-family: Nanami-Rounded-Med;
       font-size: 2.4rem;
     }
 
-    text-transform: uppercase;
+    @media (min-width: @screen-sm-min) {
+      margin-top: 3em;
+    }
   }
+}
+
+#cjs2015-sponsor {
+  background-color: @gray-lighter; 
 }
 
 #cjs2015-coc {
@@ -242,9 +282,16 @@ header {
   .well {
     margin: 2em 0;
     padding: 1em;
-
-    h3, h4, p {
-      color: white;
+    background-color: @cjs-color-lt-green;
+    background-color: rgba(51,161,67,0.8);
+    color: white;
+    a {
+      color: @cjs-color-dk-green;
+      text-decoration: underline;
+      font-weight: bold;
+      &:hover {
+        text-decoration: none;
+      }
     }
   }
 }
