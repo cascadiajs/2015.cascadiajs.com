@@ -4,9 +4,9 @@
 @import "./_bootstrap/bootstrap.less";
 
 // Event Colors.
-@cjs-color-primary: #0b4f4d;//Dark green;
+@cjs-color-primary: #0b4f4d; //Dark green;
 @cjs-color-secondary: #33a143;
-@cjs-color-alt: #fff105;
+@cjs-color-alt: hsl(57,100%,50%);
 
 @cjs-color-dk-green: #062B00;
 @cjs-color-lt-green: #33a143;
@@ -136,6 +136,8 @@ header {
 .gold { color: @cjs-color-alt; }
 .green { color: @cjs-color-secondary; }
 .blue { color: @cjs-color-dk-blue; }
+.lightblue { color: spin(@cjs-color-alt, 150); }
+.aqua { color: @cjs-color-aqua-blue; }
 
 .hero {
   font-family: Nanami-Rounded-Lt;
