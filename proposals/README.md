@@ -63,20 +63,20 @@ Knowing that your talk proposal is going to get put under a microscope in public
 
 **Copy this template:** *All fields are required*
 ```
-#Title of Talk
+# Title of Talk
 
-* Name      : Jane Doe
-* Location  : Cascadia, USA
-* Email     : janedoe@alltheemails.com
-* Twitter   : [@janedoe][url to twitter account]
-* GitHub    : [janedoe][url to GitHub account]
-* Url(s)    : [jane.doe.com][url to relevant sites]
+* Name: Jane Doe
+* Location: Cascadia, USA
+* Email: janedoe@alltheemails.com
+* Twitter: [@janedoe](url to twitter account)
+* GitHub: [janedoe](url to GitHub account)
+* Url(s): [jane.doe.com](url to relevant sites)
 
-##The story you'd like to tell
+## The story you'd like to tell
 
 [Presentation description goes here. Try to keep it under say, 500 words, but more than 140 characters]
 
-##Speaker Bio
+## Speaker Bio
 
 ![](url to avatar image goes here)*avatar is required*
 
