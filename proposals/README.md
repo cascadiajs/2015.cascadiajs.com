@@ -8,7 +8,7 @@ Each day is organized around a theme. Share your expertise with the Cascadia com
 
 The entire event is Cascadia JSFest and we're stoked that you're considering contributing to the fun! 
 
-We invite the CSS and JavaScript community to submit talks for CJSFest 2015 at the Semiamhoo Resort in Washington. This Call for Proposals will close on March 15th. Diversity of voices is important to our community, so please don't think that you need to be a programming celebrity in order to speak at CJSFest 2015. The deadline to submit a proposal is **March 15, 2014 11:59pm UTC-1200**. If it's still March 15th, no matter where you are in the world, you still have time! When you’re ready to submit a proposal and you've read the instructions below that include the required template, go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues).
+We invite the CSS and JavaScript community to submit talks for CJSFest 2015 at the Semiamhoo Resort in Washington. This Call for Proposals will close on March 15th. Diversity of voices is important to our community, so please don't think that you need to be a programming celebrity in order to speak at CJSFest 2015. The deadline to submit a proposal is **March 15, 2015 11:59pm UTC-1200**. If it's still March 15th, no matter where you are in the world, you still have time! When you’re ready to submit a proposal and you've read the instructions below that include the required template, go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues).
 
 You are free to submit (and even revise) proposals up until the deadline. Our reviewers will be offering feedback for those ambitious enough to get their talks submitted earlier. Please follow the instructions below and help us spread the word!
 
