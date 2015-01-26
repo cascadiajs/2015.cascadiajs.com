@@ -8,10 +8,8 @@
 		"stylesheet": "/assets/css/style.css",
 		"description": "CascadiaJS is a three-day, community-driven conference on the cutting edge of JavaScript.",
 		"scripts": [
+			"/assets/js/jquery-1.11.2.min.js",
 			"/assets/js/bootstrap.min.js"
 		]
-	},
-	"temp": {
-		"0": "/assets/js/jquery-1.11.2.min.js"
 	}
 }

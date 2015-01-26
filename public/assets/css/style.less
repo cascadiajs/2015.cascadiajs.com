@@ -1,10 +1,315 @@
+@import "MyFontsWebfontsKit.css";
+
 // Import core bootstrap.
 @import "./_bootstrap/bootstrap.less";
 
-// Override variables
+// Event Colors.
+@cjs-color-primary: #0b4f4d; //Dark green;
+@cjs-color-secondary: #33a143;
+@cjs-color-alt: hsl(57,100%,50%);
+
+@cjs-color-dk-green: #062B00;
+@cjs-color-lt-green: #33a143;
+@cjs-color-dk-blue: #1c2e4c;
+@cjs-color-lt-blue: #2f4e80;
+@cjs-color-aqua-blue: #0B4F4D;
+
+// Override bootstrap variables
 @font-size-base: 16px;
-@font-family-base: "Courier New", courier, monospace;
+@text-color: @gray-darker;
+
+@brand-primary: @cjs-color-lt-green;
+
+@navbar-border-radius: 0;
+@navbar-margin-bottom: 0;
+
+@navbar-default-bg: white;
+@navbar-default-border: white;
+@navbar-default-color: @cjs-color-primary;
+@navbar-default-brand-color: @cjs-color-primary;
+@navbar-default-link-color: @cjs-color-primary;
+
+@headings-font-family: "Nanami-Rounded-Med";
+@headings-font-weight: normal;
+@font-size-h2: 1.8rem;
+@font-size-h3: 2.4rem;
+
+@btn-primary-bg: @cjs-color-dk-blue;
+@btn-primary-border: @cjs-color-lt-blue;
+
+@padding-large-vertical: .7rem;
+@padding-large-horizontal: 1rem;
+@font-size-large: 2rem;
+@line-height-large: 1.7;
+@border-radius-large: .25em;
+
+@well-bg: rgba(0, 0, 0, .8);
+@well-border: transparent;
+@border-radius-base: 0;
+
+html {
+  height: 100%;
+}
 
 body {
-	margin: 1rem;
+  text-rendering: optimizeLegibility;
+}
+
+.content .row {
+  padding-bottom: 2em;
+  padding-top: 1em;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+  letter-spacing: 0.05em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+address {
+  letter-spacing: 0.05em;
+}
+
+.well {
+  padding: 3.6rem;
+}
+
+.navbar>.container-fluid .navbar-brand {
+  padding-top: 6px;
+}
+
+@media (min-width: @screen-md-min) {
+  .container-fluid {
+    max-width: 60em;
+  }
+}
+
+.btn-lg {
+  border-width: .5rem;
+  padding: .6rem 1.5rem;
+}
+
+h2.tagline {
+  color: #222;
+  line-height: 1.5;
+  font-family: Nanami-Rounded-Lt;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.3em;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+hr {
+  border-width: 2px;
+}
+
+p a {
+  text-decoration: underline;
+  font-weight: bold;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+a.btn {
+  text-decoration: none;
+}
+
+header {
+  text-transform: uppercase;
+
+  .navbar-brand img {
+    display: inline;
+    height: 3.6rem;
+  }
+
+  .navbar .navbar-nav a {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+}
+
+.gold { color: @cjs-color-alt; }
+.green { color: @cjs-color-secondary; }
+.blue { color: @cjs-color-dk-blue; }
+.lightblue { color: spin(@cjs-color-alt, 150); }
+.aqua { color: @cjs-color-aqua-blue; }
+
+.hero {
+  font-family: Nanami-Rounded-Lt;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  background: url("/assets/img/cjs2015-forest.jpg") no-repeat center top;
+  background-size: cover;
+  color: white;
+
+  font-size: 2.2rem;
+  padding-top: 4rem;
+
+  h1 {
+    font-family: Nanami-Rounded-Lt;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 3.2rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    color: inherit;
+  }
+
+  p span {
+    display: block;
+  }
+
+  span.thin {
+    font-family: Nanami-Rounded-Thin;
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  span.spacer {
+    display: none;
+  }
+
+  img {
+    height: 8rem;
+    margin-bottom: -1px;
+  }
+
+  @media (min-width: @screen-sm-min) {
+    h1 {
+      font-size: 7.2rem;
+    }
+
+    span.spacer {
+      padding: 0 .75em;
+      display: inline;
+    }
+
+    p span {
+      display: inline;
+    }
+
+    img {
+      height: 16rem;
+    }
+  }
+
+  @media (min-width: @screen-md-min) {
+    h1 {
+      font-size: 7.2rem;
+    }
+
+  }
+}
+
+@media (min-width: @screen-sm-min) {
+  .speak-at {
+    margin-top: 4em;
+  }
+}
+
+@media (min-width: 992px) {
+  .container-fluid {
+    max-width: 70em;
+  }
+}
+
+#cjs2015-venue {
+  background: url("/assets/img/cjs2015-venue-600.jpg") no-repeat center top;
+  background-size: cover;
+
+  .well {
+    color: white;
+  }
+
+/*
+  @media (min-width: @screen-sm-min) {
+    background-position: center -6em;
+  }
+*/
+
+  @media (min-width: @screen-md-min) {
+    padding-bottom: 6em;
+    background-position: center -10em;
+    background-image: url("/assets/img/cjs2015-venue-1000.jpg");
+  }
+
+  @media (min-width: @screen-lg-min) {
+//     padding-bottom: 12em;
+    background-position: center -14em;
+    background-image: url("/assets/img/cjs2015-venue-big.jpg");
+  }
+
+  address {
+    font-family: Nanami-Rounded-Lt;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2rem;
+    color: white;
+    text-transform: uppercase;
+
+    strong {
+      font-family: Nanami-Rounded-Med;
+      font-size: 2.4rem;
+    }
+
+    @media (min-width: @screen-sm-min) {
+      margin-top: 3em;
+    }
+  }
+}
+
+#cjs2015-sponsor {
+  background-color: @gray-lighter;
+}
+
+#cjs2015-coc {
+  background: url("") no-repeat center bottom;
+  background-size: cover;
+
+  @media (min-width: @screen-xs-min) {
+    background-image: url("/assets/img/cjs2015-family-600.jpg");
+    height: 450px;
+  }
+
+  @media (min-width: @screen-sm-min) {
+    background-image: url("/assets/img/cjs2015-family-1000.jpg");
+    height: 550px;
+  }
+
+  @media (min-width: @screen-lg-min) {
+    background-image: url("/assets/img/cjs2015-family-1400.jpg");
+    height: 650px;
+  }
+
+  .well {
+    margin: 2em 0;
+    padding: 1em;
+    background-color: @cjs-color-lt-green;
+    background-color: rgba(51,161,67,0.8);
+    color: white;
+    a {
+      color: @cjs-color-dk-green;
+      text-decoration: underline;
+      font-weight: bold;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background: #1b2e4c;
+
+  p {
+    margin: 1.5em 0;
+  }
 }
