@@ -6,17 +6,24 @@ Powered by [surge](http://surge.sh/).
 
 To check out:
 
-    $ git clone https://github.com/davethegr8/2015.cascadiajs.com.git
-    $ git branch gh-pages origin/gh-pages
-    $ git checkout gh-pages
+```sh
+git clone https://github.com/cascadiajs/2015.cascadiajs.com.git
+git checkout gh-pages
+```
 
 To get running:
 
-    $ ./serve.sh
+```sh
+npm install
+npm start
+# Visit http://localhost:9000
+```
 
 To deploy:
 
-    $ ./deploy.sh
+```sh
+npm run deploy
+```
 
 ## Made By
 
