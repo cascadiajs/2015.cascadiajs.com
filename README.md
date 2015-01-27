@@ -6,6 +6,13 @@
 
 Welcome to the official repo of CascadiaJS 2015, a conference for web developers by web developers that takes place in the Pacific Northwest. This repo contains information about the event (in the master branch) as well as the website for the event (in gh-pages). 
 
+
+## CFP and Ticket Sales
+
+[CFP: Speak at CascadiaJSFest](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md)
+
+Stay tuned for the sale of Early Bird tickets in early February!
+
 ## Contributing
 
 If you're interested in contributing to CJSFest 2015, please read the [CONTRIBUTING](CONTRIBUTING.md) document. If you have any question, please don't hesitate to file an issue.
@@ -20,6 +27,3 @@ This year we are going to experiment with a new format for CJS. In the past CJS 
 
 The entire event will be called Cascadia JSFest and will share infrastructure such as the event space, hotel, etc. As an attendee you'll have the option of purchasing a ticket to a single event or a bundle that includes entry to all of them. All-access tickets will be a priority in release and single events and lodging days will be announced closer to the event.
 
-## CFP and Ticket Sales
-
-Stay tuned for the announcement of our fabulous location for 2015, the opening of our CFP and the sale of Early Bird tickets in January!
