@@ -27,4 +27,5 @@ npm run deploy
 
 ## Made By
 
-@davethegr8
+- http://github.com/davethegr8
+- http://github.com/zachattack
