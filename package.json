@@ -1,14 +1,14 @@
 {
   "name": "2015.cascadiajs.com",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The website for the CascadiaJS 2015 conference",
   "homepage": "2015.cascadiajs.com",
-  "author": "Dave Poole",
+  "author": "Dave Poole, Zach Meyer",
   "private": true,
   "repository": "git@github.com:cascadiajs/2015.cascadiajs.com.git",
   "scripts": {
     "test": "echo \"Error: no test specified…yet! Pull requests on cascadiajs/2015.cascadiajs are greatly appreciated.\" && exit 1",
-    "start": "harp server",
+    "start": "harp server --port 9000",
     "compile": "harp compile",
     "deploy": "npm run compile && surge -p ./www -d godly-work.surge.sh"
   },
