@@ -6,10 +6,8 @@
     <meta name="description" content="<%= description %>">
 
     <meta property="og:image" content="http://2015.cascadiajs.com/assets/img/og_image.png" />
-    <meta property="og:title" content="CascadiaJS Fest 2015" />
-    <meta property="og:description" content="CascadiaJSFest is a three-day, community-driven conference on the cutting edge of JavaScript and CSS. Browser, server, OS – we cover it all." />
-
-    <link rel="icon shortcut" href="/assets/img/favico.png">
+    <meta property="og:title" content="<%= title %>" />
+    <meta property="og:description" content="<%= description %>" />
 
     <!-- iPad and iPad mini (with @2× display) iOS ≥ 8 -->
     <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/touch/apple-touch-icon-180x180-precomposed.png">
@@ -28,7 +26,9 @@
     <!-- Android Stock Browser and non-Retina iPhone and iPod Touch -->
     <link rel="apple-touch-icon-precomposed" href="/assets/img/touch/apple-touch-icon-57x57-precomposed.png">
     <!-- Fallback for everything else -->
-    <link rel="shortcut icon" href="/assets/img/touch/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="/assets/img/touch/apple-touch-icon.png" sizes="57x57">
+
+    <link rel="icon" type="image/png" href="/assets/img/favico.png" sizes="32x32">
 
     <!--
         Chrome 31+ has home screen icon 192×192 (the recommended size for multiple resolutions).
