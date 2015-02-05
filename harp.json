@@ -6,7 +6,7 @@
 		},
 		"title": "CascadiaJS Fest 2015",
 		"stylesheet": "/assets/css/style.css",
-		"description": "CascadiaJS is a three-day, community-driven conference on the cutting edge of JavaScript.",
+		"description": "CascadiaJSFest is a three-day, community-driven conference on the cutting edge of JavaScript. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
 		"scripts": [
 			"/assets/js/jquery-1.11.2.min.js",
 			"/assets/js/bootstrap.min.js"
