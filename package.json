@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified…yet! Pull requests on cascadiajs/2015.cascadiajs are greatly appreciated.\" && exit 1",
     "start": "harp server --port 9000",
     "compile": "harp compile",
-    "deploy": "npm run compile && surge -p ./www -d godly-work.surge.sh"
+    "deploy": "npm run compile && surge -p ./www -d 2015.cascadiajs.com"
   },
   "devDependencies": {
     "harp": "^0.14.0",
