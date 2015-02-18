@@ -29,9 +29,7 @@
     </div>
 
     <div class="row">
-      <div class="col-xs-12 col-sm-6 col-sm-push-3">
-        <%- partial("_partials/newsletter") %>
-      </div>
+      <%- partial("_partials/connect") %>
     </div>
 
     <hr />
@@ -39,52 +37,7 @@
   </div>
 </div>
 
-<div class="content">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-xs-12">
-        <h3 id="speaking" class="text-center">Speaking / Call For Proposals</h3>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-sm-push-8">
-        <p class="text-center">
-          <a class="btn btn-primary btn-lg speak-at" href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md">
-            Speak at CJSFest&nbsp;&nbsp;<i class="fa fa-microphone"></i>
-          </a>
-        </p>
-      </div>
-      <div class="text-justify col-xs-12 col-sm-8 col-sm-pull-4">
-
-        <p>Cascadia JSFest 2015 is July 8th, 9th, and 10th at the Semiahmoo Resort in Blaine, Washington; and
-        we'd love for you to be a part of it! Each day is organized around a
-        theme. Share your expertise with the Cascadia community on:</p>
-
-        <ul>
-          <li>CSS Day</li>
-          <li>BrowserJS Day</li>
-          <li>ServerJS Day</li>
-        </ul>
-
-        <p>The entire event is Cascadia JSFest and we're stoked that you're
-        considering contributing to the fun!</p>
-
-        <p>We invite the CSS and JavaScript community to submit talks for CJSFest
-        2015 at the Semiahmoo Resort in Washington. This Call for Proposals will
-        close on March 15th. Diversity of voices is important to our community,
-        so please don't think that you need to be a programming celebrity in
-        order to speak at CJSFest 2015. <strong class="blue">The deadline to submit a proposal is
-        March 15, 2015 11:59pm UTC-1200</strong>. If it's still March 15th, no matter
-        where you are in the world, you still have time! When you’re ready to
-        submit a proposal, read the
-        <a href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md">instructions on GitHub</a> to get started.</p>
-
-        <p>You are free to submit (and even revise) proposals up until the
-        deadline. Our reviewers will be offering feedback for those ambitious
-        enough to get their talks submitted earlier. Please help us spread the word!</p>
-
-      </div>
-    </div>
-  </div>
-</div>
+<%- partial("cfp.ejs") %>
 
 <div id="cjs2015-venue" class="content">
   <div class="container-fluid">
