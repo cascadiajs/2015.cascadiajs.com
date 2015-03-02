@@ -1,5 +1,14 @@
 {
 	"google78afdfd3b000d037": {
 		"layout": false
-	}
+	},
+  "css": {
+    "layout": "_interior"
+  },
+  "browser": {
+    "layout": "_interior"
+  },
+  "server": {
+    "layout": "_interior"
+  }
 }
