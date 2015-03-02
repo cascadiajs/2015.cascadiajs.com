@@ -8,7 +8,8 @@
 @cjs-color-secondary: #33a143;
 @cjs-color-alt: hsl(57,100%,50%);
 
-@cjs-color-dk-green: #062B00;
+@cjs-color-dark-green: #062c03;
+@cjs-color-green: #062B00;
 @cjs-color-lt-green: #33a143;
 @cjs-color-dk-blue: #1c2e4c;
 @cjs-color-lt-blue: #2f4e80;
@@ -28,6 +29,13 @@
 @navbar-default-color: @cjs-color-primary;
 @navbar-default-brand-color: @cjs-color-primary;
 @navbar-default-link-color: @cjs-color-primary;
+
+@navbar-inverse-bg: @cjs-color-dark-green;
+@navbar-inverse-border: @navbar-inverse-bg;
+@navbar-inverse-brand-color: white;
+@navbar-inverse-link-color: white;
+
+@navbar-padding-vertical: 21px;
 
 @headings-font-family: "Nanami-Rounded-Med";
 @headings-font-weight: normal;
@@ -81,11 +89,7 @@ address {
 }
 
 .navbar>.container-fluid .navbar-brand {
-  padding-top: 6px;
-}
 
-.navbar iframe {
-  margin: 10px 0;
 }
 
 @media (min-width: @screen-md-min) {
@@ -129,18 +133,53 @@ a.btn {
 }
 
 header {
-  text-transform: uppercase;
+  &.interior .navbar {
+    .navbar-brand {
+      height: 64px;
 
-  .navbar-brand img {
-    display: inline;
-    height: 3.6rem;
+      img {
+        margin-top: 0;
+      }
+    }
+
+    .navbar-nav a {
+      text-decoration: none;
+    }
   }
 
   .navbar .navbar-nav a {
+    font-family: Nanami-Rounded-Med;
     text-decoration: underline;
-    font-weight: bold;
   }
 
+  .navbar .navbar-brand {
+    font-family: Nanami-Rounded-Lt;
+    min-width: 20em;
+    padding-top: 15px;
+
+    p {
+      margin: 0;
+      line-height: 2rem;
+    }
+
+    img {
+      float: left;
+      height: 3.6rem;
+      margin-right: 1rem;
+      margin-top: -6px;
+    }
+
+    .small {
+      font-size: 1.1rem;
+    }
+  }
+
+}
+
+.thin {
+  font-family: Nanami-Rounded-Thin;
+  font-weight: normal;
+  font-style: normal;
 }
 
 .gold { color: @cjs-color-alt; }
@@ -173,12 +212,6 @@ header {
 
   p span {
     display: block;
-  }
-
-  span.thin {
-    font-family: Nanami-Rounded-Thin;
-    font-weight: normal;
-    font-style: normal;
   }
 
   span.spacer {
@@ -317,7 +350,7 @@ header {
     background-color: rgba(51,161,67,0.8);
     color: white;
     a {
-      color: @cjs-color-dk-green;
+      color: @cjs-color-green;
       text-decoration: underline;
       font-weight: bold;
       &:hover {
@@ -334,5 +367,21 @@ footer {
 
   p {
     margin: 1.5em 0;
+  }
+}
+
+@import "cssday.less";
+@import "serverday.less";
+@import "browserday.less";
+
+.banner {
+  padding: 3rem 0;
+
+  h1 {
+    margin: 0;
+  }
+
+  :last-child {
+    margin: 0;
   }
 }
