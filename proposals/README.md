@@ -1,6 +1,6 @@
 # CASCADIA FEST CALL FOR PROPOSALS – THE DETAILS
 
-Cascadia Fest 2015 is taking place July 8-10 in northen Washington State and we'd love for you to be a part of it! This is our first year running a Fest and it is made up of two events over 3 days:
+Cascadia Fest 2015 is taking place July 8-10 in northen Washington State and we'd love for you to be a part of it! Cascadia Fest is made up of two events over 3 days:
 * CascadiaCSS
 * CascadiaJS - Browser Day
 * CascadiaJS - Server Day
@@ -32,15 +32,16 @@ discussions. You can indicate your format in the CfP submission.
 
 ### CascadiaCSS
 
-CascadiaCSS is brand-new this year. We will spend a day exploring the latest and greatest technologies and techniques related to building amazing user experiences for the web, very much in the spirit of [CSSConf](http://2015.cssconf.com/). Some topics we'd like to explore:
+CascadiaCSS is an exciting addition to Cascadia this year. We will spend a full day exploring the latest and greatest technologies and techniques related to building amazing user experiences for the web, very much in the spirit of [CSSConf](http://2015.cssconf.com/). Some topics we'd like to explore:
 
 - User experience design
 - Advanced CSS
-- SCSS / SASS / LESS
+- Sass / LESS / Stylus / PostCSS
 - Responsive design
 - Cross-platform tips & tricks
 - SVG
 - Tooling
+- Accessibility
 
 ### CascadiaJS
 
