@@ -1,54 +1,66 @@
-## CASCADIAJSFEST CALL FOR PROPOSALS – THE DETAILS
+# CASCADIA FEST CALL FOR PROPOSALS – THE DETAILS
 
-CJSFest 2015 is July 8, 9, and 10th near Seattle, Washington, and we'd love for you to be a part of it!
-Each day is organized around a theme. Share your expertise with the Cascadia community on:  
-* CSS Day
-* BrowserJS Day
-* ServerJS Day
+Cascadia Fest 2015 is taking place July 8-10 in northen Washington State and we'd love for you to be a part of it! Cascadia Fest is made up of two events over 3 days:
+* CascadiaCSS
+* CascadiaJS - Browser Day
+* CascadiaJS - Server Day
 
-The entire event is Cascadia JSFest and we're stoked that you're considering contributing to the fun! 
-
-We invite the CSS and JavaScript community to submit talks for CJSFest 2015 at the Semiamhoo Resort in Washington. This Call for Proposals will close on March 15th. Diversity of voices is important to our community, so please don't think that you need to be a programming celebrity in order to speak at CJSFest 2015. The deadline to submit a proposal is **March 15, 2015 11:59pm UTC-1200**. If it's still March 15th, no matter where you are in the world, you still have time! When you’re ready to submit a proposal and you've read the instructions below that include the required template, go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues).
+As we always do, we are running a public Call for Presenters. Diversity of voices is important to our community, so please don't think that you need to be a programming celebrity in order to speak. The deadline to submit a proposal is **March 15, 2015 11:59pm UTC-1200**. If it's still March 15th, no matter where you are in the world, you still have time! When you’re ready to submit a proposal and you've read the instructions below that include the required template, go [HERE](https://github.com/cascadiajs/2015.cascadiajs.com/issues).
 
 You are free to submit (and even revise) proposals up until the deadline. Our reviewers will be offering feedback for those ambitious enough to get their talks submitted earlier. Please follow the instructions below and help us spread the word!
 
-### PERKS
+## PERKS
 If you're accepted as a speaker, the following items are taken care of by us:
-* one 3-day ticket to CJSFest
-* lodging
-* a few surprises
-* If you live outside the Seattle area we can also offer a travel stipend of $500 for domestic speakers and $1000 for international speakers.
+* One 3-day Fest ticket
+* Lodging
+* A travel stipend of $500 for domestic speakers and $1000 for international speakers.
+* A few surprises :)
 
-If your employer is willing to cover the cost of your attendance we can offer a modified version of our basic Cascadia sponsorship in return.
+If your employer is willing to cover the cost of your attendance we can offer a modified version of our basic Cascadia Fest sponsorship in return.
 
 Speakers who accept a stipend are asked kindly to refrain from promoting their employer during their talk.
 
-### TOPICS
-To get a feel for what we might be interested in hearing about, take a look at
-the previous years, [2012](http://2012.cascadiajs.com/#speakers), [2013](http://2013.cascadiajs.com/#speakers) and [2014](http://2014.cascadiajs.com/#id_speakers). We are looking for CSS and JavaScript topics--
-technologies that interest CSS and JS nerds. A few ideas:
-- ES6
-- UX
-- CSS tomfoolery
-- security
-- production setups (deployment, monitoring, etc.)
-- the Maker community--visual art, hardware, robots, music
-- server side JS shenanigans
-- tooling
-- civic hacking
-- testing
-- mobile web
-- education and outreach in JS programming and community
+## TOPICS
 
 We're looking for anything related to the open web, which includes: CSS, accessibility, UX, browser,
 Node.js, io.js, Windows 8, Firefox OS, tooling, robots, you name it. Please, no vendor
-pitches (i.e. How to Use Product X). A great talk weaves a story--it can address issues that
+pitches (i.e. How to Use Product X). A great talk weaves a story -- it can address issues that
 developers struggle with, break down and explain complicated topics, and cover
 new ground in JS technology.  All the talks will be 30 minutes. We don't offer
 Q&A following a talk. We are framework agnostic. We also accept non-talk proposals such as moderated
 discussions. You can indicate your format in the CfP submission.
 
-### HOW TO SUBMIT A PROPOSAL
+### CascadiaCSS
+
+CascadiaCSS is an exciting addition to Cascadia this year. We will spend a full day exploring the latest and greatest technologies and techniques related to building amazing user experiences for the web, very much in the spirit of [CSSConf](http://2015.cssconf.com/). Some topics we'd like to explore:
+
+- User experience design
+- Advanced CSS
+- Sass / LESS / Stylus / PostCSS
+- Responsive design
+- Cross-platform tips & tricks
+- SVG
+- Tooling
+- Accessibility
+
+### CascadiaJS
+
+To get a feel for what we might be interested in hearing about, take a look at
+the previous years, [2012](http://2012.cascadiajs.com/#speakers), [2013](http://2013.cascadiajs.com/#speakers) and [2014](http://2014.cascadiajs.com/#id_speakers). A few ideas:
+
+- ES6
+- Security
+- Production setups (deployment, monitoring, etc.)
+- The Maker community -- visual art, hardware, robots, music
+- Server side JS shenanigans
+- Tooling
+- Civic hacking
+- Testing
+- Mobile web
+- Education and outreach in JS programming and community
+
+
+## HOW TO SUBMIT A PROPOSAL
 *OPTION #1*  
 First, make sure you're available to attend the conference. It will be held on July 8-10, 2015.
 * Create a free [GitHub account](https://github.com/join) if you don't have one already
@@ -87,7 +99,7 @@ I'm an example bio. I'm a magical sloth that likes to crawl and climb through th
 * When you're ready, submit! You can go back and edit!
 * Wait patiently (and nicely) for us to get back to you. We will respond to everyone who submits a proposal even if it's just to say "You're awesome, but not this year".
 
-### What should be in the proposal?
+## WHAT SHOULD BE IN THE PROPOSAL?
 - Every proposal should have, at minimum, the following information:
 - Your Name
 - Your location(it helps us budget)
@@ -106,7 +118,7 @@ floats your boat. Bios are nice! :)
 If you have any other artifacts that relate to your presentation, like slide decks,
 code samples, videos, etc--link to them!
 
-### WE CAN HELP
+## WE CAN HELP
 Not everybody is a natural talent on stage. Not everybody can produce kick-ass
 slide-decks. Not everybody is a live-demo-god. Not everybody knows they have
 something great to talk about.
@@ -133,13 +145,14 @@ If you need more encouragement, check out the following:
 - Chris Williams, [An Addendum About Conference Proposals](http://blog.voodootikigod.com/an-addendum-about-conference-proposals/)
 - Zach Holman, [speaking.io](http://speaking.io/plan/writing-a-cfp/)
 
-### THE SELECTION PROCESS
-Submission closes March 15th. We will be convening the committee to select by April 8th and will aim for speakers knowing approximately 3 months prior to the conference. Our reviewers will be scanning along the way for those ambitious enough to submit proposals early so we can make suggestions to get to a successful talk acceptance. We will be applying labels for talks we think will fit well into a particular day but no talk is accepted until a confirmation email is received from the committee.
+## THE SELECTION PROCESS
+Submission closes March 15th. We hope to get back to all speakers by April 15th. Our reviewers will be scanning along the way for those ambitious enough to submit proposals early so we can make suggestions to get to a successful talk acceptance. We will be applying labels for talks we think will fit well into a particular day but no talk is accepted until a confirmation email is received from the committee.
 
-### MISC
+## MISC
 We have a rad [Code of Conduct](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/COC.md). Check it out! Everyone who participates in our conference agrees to the enforcement of our CoC, and includes our friends, speakers, staff, sponsors, and attendees.
 
 If you have any questions about this process, need more information or need
 assistance with travel and/or lodging, don't hesitate to reach out to us at
 [info@cascadiajs.com](info@cascadiajs.com).
-Thanks, The CascadiaJS Team
+
+Thanks, The Cascadia Fest Team
