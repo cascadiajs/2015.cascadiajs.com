@@ -6,7 +6,9 @@
   </div>
 </footer>
 
-<% scripts.forEach(function (script) { %>
+<%
+var scripts = scripts || public._data.scripts;
+scripts.forEach(function (script) { %>
 <script src="<%= script %>"></script>
 <% }) %>
 
