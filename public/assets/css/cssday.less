@@ -1,8 +1,55 @@
 #cssday {
   @daycolor: #639; // rebeccapurple
+  @daycolor-light: #745f8e;
+
+  p a {
+    font-weight: normal;
+  }
+
+  h2.first-title {
+    color: @daycolor-light;
+  } 
+
+  h3 {
+    color: #4c4c4c;
+  }
 
   .banner {
     background-color: @daycolor;
     color: white;
+  }
+
+  #sponsors {
+    h3 {
+      margin-top: 0;
+    }
+  }
+
+  #curators {
+  	background-color: @gray-lighter;
+  }
+
+  #speakers {
+    text-align: center;
+    h3 {
+      text-align: left;
+    }
+    .speaker {
+      text-align: left;
+      width: 180px;
+      margin: 0 1em;
+      display: inline-block;
+    }
+    h4 { margin-bottom: 3px; }  
+  }
+
+  .lower {
+    text-transform: lowercase;
+  }
+
+  table.schedule {
+    a.speaker {
+      color: @daycolor;
+    }
   }
 }

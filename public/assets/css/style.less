@@ -74,6 +74,8 @@ img {
   max-width: 100%;
 }
 
+h1, .h1 { font-family: Nanami-Rounded-Lt; }
+
 h1, .h1, h2, .h2, h3, .h3 {
   letter-spacing: 0.05em;
   margin-top: 1em;
@@ -88,7 +90,7 @@ address {
   padding: 3.6rem;
 }
 
-.navbar>.container-fluid .navbar-brand {
+.navbar > .container-fluid .navbar-brand {
 
 }
 
@@ -110,6 +112,11 @@ h2.tagline {
   font-weight: normal;
   font-style: normal;
   font-size: 1.25em;
+}
+
+h2.first-title {
+  font-size: 1.5em;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -143,7 +150,13 @@ header {
     }
 
     .navbar-nav a {
+      transition: background-color 0.5s ease;
       text-decoration: none;
+      background-color: transparent;
+
+      &:hover {
+        background-color: @cjs-color-lt-green;
+      }
     }
   }
 
@@ -272,8 +285,6 @@ header {
   }
 }
 
-
-
 #connect-github {
   a:hover {
     text-decoration: none;
@@ -363,10 +374,37 @@ header {
 footer {
   text-align: center;
   color: white;
-  background: #1b2e4c;
+  background: @cjs-color-dk-blue;
+  padding: 1rem 0;  
 
   p {
     margin: 1.5em 0;
+  }
+}
+
+// Schedules layout
+table.schedule {
+  font-size: 1.125em;
+  width: 100%;
+  tbody {
+    border-top: solid 1px #4c4c4c;
+  }
+  td {
+    padding: 0.5em 1em;
+    &.time {
+      padding-left: 0;
+      width: 80px;
+    }
+    &.title {
+      text-transform: uppercase;
+      width: 70%;
+      a.speaker {
+        font-family: Nanami-Rounded-Med;
+      }
+    }
+  }
+  tr {
+    border-bottom: solid 1px #4c4c4c;
   }
 }
 
@@ -381,7 +419,7 @@ footer {
     margin: 0;
   }
 
-  :last-child {
-    margin: 0;
-  }
+  // :last-child {
+  //   margin: 0;
+  // }
 }
