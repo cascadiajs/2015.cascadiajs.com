@@ -2,10 +2,27 @@
 	"google78afdfd3b000d037": {
 		"layout": false
 	},
-  "browser": {
-    "layout": "_interior"
-  },
-  "server": {
-    "layout": "_interior"
-  }
+  "title": "CascadiaJS Fest 2015",
+  "description": "CascadiaJSFest is a three-day, community-driven conference on the cutting edge of JavaScript. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
+  "stylesheet": "/assets/css/style.css",
+  "scripts": [
+    "/assets/js/jquery-1.11.2.min.js",
+    "/assets/js/bootstrap.min.js"
+  ],
+  "sponsors": [
+    {
+      "name": "CMYK",
+      "url": "http://cmyk",
+      "logo": "/assets/img/sponsors/cmyk.png",
+      "description": "Just one way of looking at things",
+      "visible": ["fest", "css", "server", "browser"]
+    },
+    {
+      "name": "RGB",
+      "url": "http://rgb",
+      "logo": "/assets/img/sponsors/rgb.png",
+      "description": "Another way of looking at things",
+      "visible": ["fest", "css", "server", "browser"]
+    }
+  ]
 }
