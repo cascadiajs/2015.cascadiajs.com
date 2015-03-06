@@ -6,17 +6,10 @@ CascadiaJS is dedicated to providing a safe and comfortable environment for all 
 
 All organizers, attendees, speakers, sponsors, and volunteers at CascadiaJS are required to agree with the following Code of Conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to ensure a safe environment for everybody.
 
-## Need Help?
-
 If you have any questions, comments, concerns, or to report anything that makes you feel uncomfortable or unsafe, you can use these channels:
 
-Text: [@TODO need text number, make it a tel: link]<br />
-Email: [info@cascadiajs.com](mailto:info@cascadiajs.com)<br />
-In person: Any organizer [@TODO website, http: link]
-
-You can also contact Carter Rabasa ([@crtr0](http://twitter.com/crtr0), [carter@cascadiajs.com](mailto:carter@cascadiajs.com)) or Tracy Hinds ([@hackygolucky](http://twitter.com/hackygolucky), [tracy@cascadiajs.com](mailto:tracy@cascadiajs.com)) at any time as well.
-
-[@TODO It might also be a good idea to clarify why an attendee would want to contact Carter Rabasa or Tracy Hinds. That is, who are these people and why should they be contacted? Are they the main organizers? Are they on a COC enforcement team?]
+* Email: [info@cascadiajs.com](mailto:info@cascadiajs.com)
+* In person: Any organizer
 
 ## The Less Quick Version
 
@@ -32,20 +25,14 @@ Finally, anything that would make someone think "Hmmm, that's inappropriate" may
 
 Any participant asked to stop any harassing behavior is expected to comply immediately. We expect all participants to follow these rules at conference and workshop venues, as well as conference-related social events.
 
-## Reporting
+### Reporting
 
-If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. Conference staff can be identified by [@TODO How are we identifying staff members].
+If you feel uncomfortable, are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately. 
 
-You can also send a text message to [@TODO need a number that works for CAN and USA phones] or email to [info@cascadiajs.com](mailto:info@cascadiajs.com).
+You can also send an email to [info@cascadiajs.com](mailto:info@cascadiajs.com).
 
-If you can’t find a staff member, [CascadisJS on twitter](http://twitter.com/cascadiajs) is always there for you.
-
-[@TODO add a statement about confidentiality and the reporting process here]
-
-## Enforcement
+### Enforcement
 
 If a participant is asked to stop harassing or inappropriate behavior, they are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate; this may inculde warning the participant, immediate expulsion from the conference with no refund, and/or banning from any future CascadiaJS conferences or associated events.
 
 Our foremost concern is the safety and comfort of all our particpants. We will evaluate any possible sanctions with regard to whether or not they provide the safety needed.
-
-[@TODO need a paragraph here explaining the enforcement process. An attendee who might want to report needs to know what steps will be taken after a report is submitted. Another good thing to keep in mind is having an explicit process that the reporter can opt-in and opt-out of to follow up (i.e., a reporter might just want to report the incident and be assured that action is taken with a follow up from an organizer or a reporter might just want to report and have no action taken.)]
