@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="48" viewBox="0 0 40 48">
+    <defs>
+        <path id="a" d="M0 12.454L20 .906l20 11.548v23.093L20 47.094 0 35.547z"/>
+    </defs>
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <path clip-path="url(#b)" fill="#639" d="M-2.354-2.586h47.11v53.842h-47.11z"/>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-1.226" y1="11.861" x2="47.362" y2="11.861" gradientTransform="matrix(.707 -.707 .707 .707 -4.698 31.926)">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <path opacity=".8" clip-path="url(#b)" fill="url(#c)" d="M54.64 24.284L20.285 58.64-14.64 23.717 19.717-10.64z"/>
+</svg>
