@@ -1,8 +1,22 @@
-#cssday {
-  @daycolor: #639; // rebeccapurple
+#browserday {
+  @daycolor: #4d6023; // rebeccapurple
+  @daycolor-alt: lighten(@daycolor, 22%);
+
+  h2.first-title {
+    color: @daycolor-alt;
+  }
 
   .banner {
     background-color: @daycolor;
-    color: white;
+  }
+
+  .day-sponsors {
+    background-color: @daycolor-alt;
+  }
+
+  table.schedule {
+    a.speaker {
+      color: @daycolor;
+    }
   }
 }

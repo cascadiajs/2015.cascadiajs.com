@@ -1,0 +1,20 @@
+<div class="day-sponsors text-center">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Sponsors</h3>
+
+        <%
+        var sponsor = {};
+        for(var index in sponsors) {
+          sponsor = sponsors[index];
+          %>
+            <%- partial("../sponsor", sponsor) %>
+          <%
+        }
+        %>
+
+      </div>
+    </div>
+  </div>
+</div>
