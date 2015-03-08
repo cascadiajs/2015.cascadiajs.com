@@ -1,8 +1,80 @@
 #cssday {
   @daycolor: #639; // rebeccapurple
+  @daycolor-light: #745f8e;
+
+  p a {
+    font-weight: normal;
+  }
+
+  h2.first-title {
+    color: @daycolor-light;
+  } 
+
+  h3 {
+    color: #4c4c4c;
+  }
 
   .banner {
     background-color: @daycolor;
     color: white;
+    h1 {
+      text-transform: uppercase;
+    }
+    .track-icon {
+      position: absolute;
+      top: -8px;
+      left: 310px;
+    }
   }
+
+  #side-bar-sponsors {
+    h3 {
+      margin-top: 0;
+    }
+    .sponsor-logo {
+      display: inline-block;
+      margin-bottom: .5em;
+    }
+  }
+
+  #cjs2015-sponsor {
+    background-color: @daycolor-light;
+    h3 {
+      color: #fff;
+    }
+    .sponsor-logo {
+      margin: 0 .5em .5em;
+    }
+  }
+
+  #curators {
+  	background-color: @gray-lighter;
+  }
+
+  #speakers {
+    text-align: center;
+    h3 {
+      text-align: left;
+      padding-bottom: .5em;
+      border-bottom: 1px solid #ddd;
+    }
+    .speaker {
+      text-align: left;
+      width: 180px;
+      margin: 0 1em;
+      display: inline-block;
+    }
+    h4 { margin-bottom: 3px; }  
+  }
+
+  .lower {
+    text-transform: lowercase;
+  }
+
+  table.schedule {
+    a.speaker {
+      color: @daycolor;
+    }
+  }
+
 }
