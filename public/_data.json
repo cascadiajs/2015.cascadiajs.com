@@ -14,15 +14,13 @@
       "name": "CMYK",
       "url": "http://cmyk",
       "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"]
+      "description": "Just one way of looking at things"
     },
     {
       "name": "RGB",
       "url": "http://rgb",
       "logo": "/assets/img/sponsors/rgb.png",
-      "description": "Another way of looking at things",
-      "visible": ["fest", "css", "server", "browser"]
+      "description": "Another way of looking at things"
     }
   ]
 }

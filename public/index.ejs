@@ -90,10 +90,9 @@
         var sponsor = {};
         for(var index in public._data.sponsors) {
           sponsor = public._data.sponsors[index];
-
-          if(sponsor.visible.indexOf('fest') >= 0) { %>
-            <!--<%- partial("_partials/sponsor", sponsor) %>-->
-          <% }
+          %>
+            <%- partial("_partials/sponsor", sponsor) %>
+          <%
         }
         %>
 
