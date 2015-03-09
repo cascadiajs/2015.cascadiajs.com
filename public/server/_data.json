@@ -4,20 +4,9 @@
     "description": "CascadiaCSS is a one-day speaking, training, demonstratnig cutting-edge CSS Techniques. July 9th 2015 at Semiahmoo Resort in Washington.",
     "schedule": {},
     "speakers": {},
-    "sponsors": [
-      {
-        "name": "CMYK",
-        "url": "http://cmyk",
-        "logo": "/assets/img/sponsors/cmyk.png",
-        "description": "Just one way of looking at things"
-      },
-      {
-        "name": "RGB",
-        "url": "http://rgb",
-        "logo": "/assets/img/sponsors/rgb.png",
-        "description": "Another way of looking at things"
-      }
-    ],
+    "sponsor_description": "",
+    "sponsor_button": "",
+    "sponsors": [],
     "staff": {
       "curator": {
         "name": "Ryan Roemer"
