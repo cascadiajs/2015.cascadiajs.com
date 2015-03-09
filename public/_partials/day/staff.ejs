@@ -10,18 +10,12 @@
       <div class="col-sm-6 col-md-8">
         <%- partial('../person', staff.curator) %>
 
-        <div class="col-xs-12 col-sm-4">
-          <img src="/assets/img/curator/demo-image-01.png" class="profile-image"/>
-          <h4>Tracy Hinds</h4>
-          <p><a href="#twitter">@nomdetwitter</a></p>
-        </div>
-
-        <div class="col-xs-12 col-sm-4">
-          <img src="/assets/img/curator/demo-image-03.png" class="profile-image"/>
-          <h4>Carter Rabasa</h4>
-          <p><a href="#twitter">@nomdetwitter</a></p>
-        </div>
+        <% for(var i=0;i<staff.organizers.length;i++) { %>
+          <%- partial('../person', staff.organizers[i]) %>
+        <% } %>
       </div>
+
+      <% if(typeof staff.reviewers !== 'undefined' && staff.reviewers.length) { %>
       <div class="col-sm-6 col-md-4">
         <h5 class="text-center">Talk Review Comittee</h5>
         <ul class="text-center list-unstyled">
@@ -31,6 +25,7 @@
           <li><a href="#">Nom De Plume</a> | <a class="blue" href="twitter">@nomdetwitter</a></li>
         </ul>
       </div>
+      <% } %>
     </div>
   </div>
 </div>
