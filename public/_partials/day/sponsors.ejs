@@ -4,6 +4,12 @@
       <div class="col-xs-12">
         <h3>Sponsors</h3>
 
+        <p><%- sponsor_description %></p>
+
+        <a class="btn btn-primary btn-lg" href="/assets/sponsor-brochure.pdf">
+          <%- sponsor_button %>
+        </a>
+
         <%
         var sponsor = {};
         for(var index in sponsors) {

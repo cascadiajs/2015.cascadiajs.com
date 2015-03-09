@@ -19,10 +19,12 @@
       <div class="col-sm-6 col-md-4">
         <h5 class="text-center">Talk Review Comittee</h5>
         <ul class="text-center list-unstyled">
-          <li><a href="#">Nom De Plume</a> | <a class="blue" href="twitter">@nomdetwitter</a></li>
-          <li><a href="#">Nom De Plume</a> | <a class="blue" href="twitter">@nomdetwitter</a></li>
-          <li><a href="#">Nom De Plume</a> | <a class="blue" href="twitter">@nomdetwitter</a></li>
-          <li><a href="#">Nom De Plume</a> | <a class="blue" href="twitter">@nomdetwitter</a></li>
+          <% staff.reviewers.forEach(function (person) { %>
+            <li>
+              <a href="http://twitter.com/<%- person.twitter %>"><%- person.name %></a> |
+              <a class="blue" href="twitter"><i class="fa fa-twitter"></i> <%- person.twitter %></a>
+            </li>
+          <% }); %>
         </ul>
       </div>
       <% } %>

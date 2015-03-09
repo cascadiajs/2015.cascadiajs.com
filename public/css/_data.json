@@ -1,7 +1,10 @@
 {
   "index": {
-    "title": "CascadiaCSS | CascadiaJS FEST 2015",
-    "description": "CascadiaCSS is a one-day speaking, training, demonstratnig cutting-edge CSS Techniques. July 9th 2015 at Semiahmoo Resort in Washington.",
+    "title": "CascadiaCSS | CascadiaFEST 2015",
+    "description": "CascadiaCSS is a one-day conference demonstratnig cutting-edge CSS Techniques. July 8th 2015 at Semiahmoo Resort in Washington.",
+    "sponsor_description": "Interested in supporting amazing local CSS Developers?",
+    "sponsor_button": "Help by sponsoring CascadiaCSS 2015!",
+    "sponsors": [],
     "staff": {
       "curator": {
         "name": "Alex Lande",
@@ -18,11 +21,30 @@
         },
         {
           "name": "Tracy Hinds",
-          "avatar": "",
-          "contact": {}
+          "avatar": "/assets/img/staff/tracy.png",
+          "contact": {
+            "twitter": "hackygolucky"
+          }
         }
       ],
-      "reviewers": []
+      "reviewers": [
+        {
+          "name": "Julie Ann Horvath",
+          "twitter": "nrrrdcore"
+        },
+        {
+          "name": "Katie Kurkoski",
+          "twitter": "katiek2"
+        },
+        {
+          "name": "Claudina Sarahe",
+          "twitter": "itsmisscs"
+        },
+        {
+          "name": "Alan Stearns",
+          "twitter": "alanstearns"
+        }
+      ]
     }
   }
 }
