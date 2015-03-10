@@ -1,56 +1,84 @@
 
-<div id="cssday" class="">
-  <div class="banner">
+<div id="cssday" class="cjsf-day">
+  <div id="about" class="banner">
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
-          <h1>CascadiaCSS</h1>
 
-          <p>CascadiaCSS is a one-day CSS conference.</p>
+            <h1>Cascadia<span class="thin">CSS</span></h1>
+            <p class="left lead"><%- description %></p>
+            <img src="/assets/img/cssday/css-hex-icon-ver02.png" class="track-icon" />
+
         </div>
       </div>
     </div>
   </div>
 
   <div class="content">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3>Sponsors</h3>
+    <%
+    if(typeof schedule !== 'undefined') { %>
+      <%- partial("../_partials/day/schedule", schedule) %>
+    <% }
+    %>
+
+    <%
+    if(typeof speakers !== 'undefined') { %>
+      <%- partial("../_partials/day/speakers", speakers) %>
+    <% }
+    %>
+
+
+    <div id="speaking" class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <h3 id="speaking" class="text-center">Speaking / Call For Proposals</h3>
+          </div>
+          <div class="col-xs-12 col-sm-4 col-sm-push-8">
+            <p class="text-center">
+              <a class="btn btn-primary btn-lg speak-at" href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md">
+                Speak at CascadiaCSS&nbsp;&nbsp;<i class="fa fa-microphone"></i>
+              </a>
+            </p>
+          </div>
+          <div class="text-justify col-xs-12 col-sm-8 col-sm-pull-4">
+
+            <p>CascadiaCSS 2015 is July 8th, at the <a href="/#venue">Semiahmoo Resort in Blaine, Washington</a>; and
+            we'd love for you to be a part of it!</p>
+
+            <p>The entire event is Cascadia JSFest and we're stoked that you're
+            considering contributing to the fun!</p>
+
+            <p>We invite the CSS community to submit talks for CJSFest
+            2015 at the Semiahmoo Resort in Washington. This Call for Proposals will
+            close on March 15th. Diversity of voices is important to our community,
+            so please don't think that you need to be a programming celebrity in
+            order to speak at CJSFest 2015. <strong class="blue">The deadline to submit a proposal is
+            March 15, 2015 11:59pm UTC-1200</strong>. If it's still March 15th, no matter
+            where you are in the world, you still have time! When you’re ready to
+            submit a proposal, read the
+            <a href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md">instructions on GitHub</a> to get started.</p>
+
+            <p>You are free to submit (and even revise) proposals up until the
+            deadline. Our reviewers will be offering feedback for those ambitious
+            enough to get their talks submitted earlier. Please help us spread the word!</p>
+
+          </div>
         </div>
       </div>
     </div>
 
+    <%
+    if(typeof sponsors !== 'undefined') { %>
+      <%- partial("../_partials/day/sponsors", sponsors) %>
+    <% }
+    %>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3>Curator &amp; Staff</h3>
-
-          <p>If you have any questions or comments aboout CascadiaCSS, talk
-          to these folks</p>
-        </div>
-
-        <div class="col-xs-3">
-          <h4>Alex Lande</h4>
-        </div>
-
-        <div class="col-xs-3">
-          <h4>Tracy Hinds</h4>
-        </div>
-
-        <div class="col-xs-3">
-          <h4>Carter Rabasa</h4>
-        </div>
-
-        <div class="col-xs-12">
-          <h5>Talk Review Comittee</h5>
-        </div>
-      </div>
-    </div>
-
+    <%
+    if(typeof staff !== 'undefined') { %>
+      <%- partial("../_partials/day/staff", staff) %>
+    <% }
+    %>
 
   </div>
-
-
 </div>

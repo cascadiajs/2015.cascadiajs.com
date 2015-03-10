@@ -2,10 +2,38 @@
 	"google78afdfd3b000d037": {
 		"layout": false
 	},
-  "browser": {
-    "layout": "_interior"
-  },
-  "server": {
-    "layout": "_interior"
+  "title": "Cascadia Fest 2015",
+  "description": "CascadiaFest is a three-day, community-driven conference on the cutting edge of JavaScript & CSS. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
+  "stylesheet": "/assets/css/style.css",
+  "scripts": [
+    "/assets/js/jquery-1.11.2.min.js",
+    "/assets/js/bootstrap.min.js"
+  ],
+  "sponsors": [],
+  "staff": {
+    "carter": {
+      "name": "Carter Rabasa",
+      "avatar": "/assets/img/staff/carter.jpg",
+      "contact": {}
+    },
+    "tracy": {
+      "name": "Tracy Hinds",
+      "avatar": "",
+      "contact": {}
+    },
+    "alex": {
+      "name": "Alex Lande",
+      "avatar": "/assets/img/staff/alex.png",
+      "contact": {
+        "twitter": "alexlande"
+      }
+    },
+    "katie": {
+      "name": "Katie Kurkoski",
+      "avatar": "/assets/img/staff/katie.png",
+      "contact": {
+        "twitter": "KatieK2"
+      }
+    }
   }
 }

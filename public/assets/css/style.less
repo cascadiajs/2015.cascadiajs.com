@@ -74,6 +74,8 @@ img {
   max-width: 100%;
 }
 
+h1, .h1 { font-family: Nanami-Rounded-Lt; }
+
 h1, .h1, h2, .h2, h3, .h3 {
   letter-spacing: 0.05em;
   margin-top: 1em;
@@ -88,9 +90,7 @@ address {
   padding: 3.6rem;
 }
 
-.navbar>.container-fluid .navbar-brand {
-
-}
+.navbar > .container-fluid .navbar-brand {}
 
 @media (min-width: @screen-md-min) {
   .container-fluid {
@@ -110,6 +110,11 @@ h2.tagline {
   font-weight: normal;
   font-style: normal;
   font-size: 1.25em;
+}
+
+h2.first-title {
+  font-size: 1.5em;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -132,6 +137,10 @@ a.btn {
   text-decoration: none;
 }
 
+.text-lower {
+  text-transform: lowercase;
+}
+
 header {
   &.interior .navbar {
     .navbar-brand {
@@ -143,7 +152,13 @@ header {
     }
 
     .navbar-nav a {
+      transition: background-color 0.5s ease;
       text-decoration: none;
+      background-color: transparent;
+
+      &:hover {
+        background-color: @cjs-color-lt-green;
+      }
     }
   }
 
@@ -154,7 +169,7 @@ header {
 
   .navbar .navbar-brand {
     font-family: Nanami-Rounded-Lt;
-    min-width: 20em;
+    min-width: 13em;
     padding-top: 15px;
 
     p {
@@ -272,8 +287,6 @@ header {
   }
 }
 
-
-
 #connect-github {
   a:hover {
     text-decoration: none;
@@ -321,8 +334,28 @@ header {
   }
 }
 
-#cjs2015-sponsor {
+#cjs2015-sponsor, .day-sponsors {
   background-color: @gray-lighter;
+
+  .sponsor {
+    float: left;
+    text-align: left;
+
+    a.logo {
+      float: left;
+
+      img {
+        max-height: 160px;
+        margin-right: 1em;
+      }
+    }
+  }
+}
+
+.day-sponsors {
+  h4 a {
+    color: white;
+  }
 }
 
 #cjs2015-coc {
@@ -363,10 +396,37 @@ header {
 footer {
   text-align: center;
   color: white;
-  background: #1b2e4c;
+  background: @cjs-color-dk-blue;
+  padding: 1rem 0;
 
   p {
     margin: 1.5em 0;
+  }
+}
+
+// Schedules layout
+table.schedule {
+  font-size: 1.125em;
+  width: 100%;
+  tbody {
+    border-top: solid 1px #4c4c4c;
+  }
+  td {
+    padding: 0.5em 1em;
+    &.time {
+      padding-left: 0;
+      width: 80px;
+    }
+    &.title {
+      text-transform: uppercase;
+      width: 70%;
+      a.speaker {
+        font-family: Nanami-Rounded-Med;
+      }
+    }
+  }
+  tr {
+    border-bottom: solid 1px #4c4c4c;
   }
 }
 
@@ -381,7 +441,74 @@ footer {
     margin: 0;
   }
 
-  :last-child {
-    margin: 0;
+  // :last-child {
+  //   margin: 0;
+  // }
+}
+
+.cjsf-day {
+  p a {
+    font-weight: normal;
+  }
+
+  h3 {
+    color: #4c4c4c;
+  }
+
+  .banner {
+    color: white;
+    h1 {
+      text-transform: uppercase;
+    }
+    .track-icon {
+      position: absolute;
+      top: -8px;
+      left: 310px;
+    }
+  }
+
+  .schedule .title img {
+    float: left;
+    margin-right: 1em;
+    max-width: 3em;
+  }
+
+  #side-bar-sponsors {
+    h3 {
+      margin-top: 0;
+    }
+    .sponsor-logo {
+      display: inline-block;
+      margin-bottom: .5em;
+    }
+  }
+
+  .day-sponsors {
+    h3 {
+      color: #fff;
+    }
+    .sponsor-logo {
+      margin: 0 .5em .5em;
+    }
+  }
+
+  .day-staff {
+    background-color: @gray-lighter;
+  }
+
+  .day-speakers {
+    text-align: center;
+    h3 {
+      text-align: left;
+      padding-bottom: .5em;
+      border-bottom: 1px solid #ddd;
+    }
+    .speaker {
+      text-align: left;
+      width: 180px;
+      margin: 0 1em;
+      display: inline-block;
+    }
+    h4 { margin-bottom: 3px; }
   }
 }

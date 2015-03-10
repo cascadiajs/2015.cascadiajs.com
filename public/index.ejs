@@ -2,7 +2,7 @@
   <div class="container-fluid">
     <div class="row">
       <h1>
-        CASCADIA<span class="thin">JS <span class="lightblue"><span>2</span><span style="letter-spacing: -1rem;">0</span><span style="letter-spacing: -.5rem">1</span><span>5</span></span></span>
+        CASCADIA<span class="thin">FEST <span class="lightblue"><span>2</span><span style="letter-spacing: -1rem;">0</span><span style="letter-spacing: -.5rem">1</span><span>5</span></span></span>
       </h1>
 
       <p>
@@ -85,6 +85,17 @@
         </a>
 
         <hr>
+
+        <%
+        var sponsor = {};
+        for(var index in public._data.sponsors) {
+          sponsor = public._data.sponsors[index];
+          %>
+            <%- partial("_partials/sponsor", sponsor) %>
+          <%
+        }
+        %>
+
       </div>
 
       <div class="code col-md-10 col-md-offset-1 text-center">
