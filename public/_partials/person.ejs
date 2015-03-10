@@ -1,0 +1,14 @@
+<div class="col-xs-12 col-sm-4">
+  <% if(typeof avatar !== 'undefined' && avatar) { %>
+  <img src="<%- avatar %>" class="profile-image"/>
+  <% } %>
+  <h4><%- name %></h4>
+
+  <% if(typeof contact !== 'undefined') { %>
+  <p class="contact">
+    <% if(typeof contact.twitter !== 'undefined' && contact.twitter) { %>
+    <a class="btn btn-default btn-sm" href="http://twitter.com/<%- contact.twitter %>"><i class="fa fa-twitter"></i> <%- contact.twitter %></a>
+    <% } %>
+  </p>
+  <% } %>
+</div>

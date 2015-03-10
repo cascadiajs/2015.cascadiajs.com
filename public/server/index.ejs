@@ -1,54 +1,42 @@
 
-<div id="cssday" class="">
+<div id="serverday" class="cjsf-day">
   <div class="banner">
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-12">
-          <h1>ServerDay</h1>
+
+          <h1>Cascadia<span class="thin">JS</span> Server Day</h1>
+          <p class="left"><%- description %></p>
+
         </div>
       </div>
     </div>
   </div>
 
   <div class="content">
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3>Sponsors</h3>
-        </div>
-      </div>
-    </div>
+    <%
+    if(typeof schedule !== 'undefined') { %>
+      <%- partial("../_partials/day/schedule", schedule) %>
+    <% }
+    %>
 
+    <%
+    if(typeof speakers !== 'undefined') { %>
+      <%- partial("../_partials/day/speakers", speakers) %>
+    <% }
+    %>
 
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-xs-12">
-          <h3>Curator &amp; Staff</h3>
+    <%
+    if(typeof sponsors !== 'undefined') { %>
+      <%- partial("../_partials/day/sponsors", sponsors) %>
+    <% }
+    %>
 
-          <p>If you have any questions or comments aboout CascadiaCSS, talk
-          to these folks</p>
-        </div>
-
-        <div class="col-xs-3">
-          <h4></h4>
-        </div>
-
-        <div class="col-xs-3">
-          <h4>Tracy Hinds</h4>
-        </div>
-
-        <div class="col-xs-3">
-          <h4>Carter Rabasa</h4>
-        </div>
-
-        <div class="col-xs-12">
-          <h5>Talk Review Comittee</h5>
-        </div>
-      </div>
-    </div>
-
+    <%
+    if(typeof staff !== 'undefined') { %>
+      <%- partial("../_partials/day/staff", staff) %>
+    <% }
+    %>
 
   </div>
-
-
 </div>

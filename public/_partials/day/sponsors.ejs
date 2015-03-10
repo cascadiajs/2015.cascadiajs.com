@@ -1,0 +1,26 @@
+<div id="sponsor" class="day-sponsors text-center">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Sponsors</h3>
+
+        <p><%- sponsor_description %></p>
+
+        <a class="btn btn-primary btn-lg" href="/assets/sponsor-brochure.pdf">
+          <%- sponsor_button %>
+        </a>
+
+        <%
+        var sponsor = {};
+        for(var index in sponsors) {
+          sponsor = sponsors[index];
+          %>
+            <%- partial("../sponsor", sponsor) %>
+          <%
+        }
+        %>
+
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,33 @@
+<div class="day-staff">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Curator &amp; Staff</h3>
+
+        <p>If you have any questions or comments aboout CascadiaCSS, talk
+        to these folks</p>
+      </div>
+      <div class="col-sm-6 col-md-8">
+        <%- partial('../person', staff.curator) %>
+
+        <% for(var i=0;i<staff.organizers.length;i++) { %>
+          <%- partial('../person', staff.organizers[i]) %>
+        <% } %>
+      </div>
+
+      <% if(typeof staff.reviewers !== 'undefined' && staff.reviewers.length) { %>
+      <div class="col-sm-6 col-md-4">
+        <h5 class="text-center">Talk Review Comittee</h5>
+        <ul class="text-center list-unstyled">
+          <% staff.reviewers.forEach(function (person) { %>
+            <li>
+              <a href="http://twitter.com/<%- person.twitter %>"><%- person.name %></a> |
+              <a class="blue" href="twitter"><i class="fa fa-twitter"></i> <%- person.twitter %></a>
+            </li>
+          <% }); %>
+        </ul>
+      </div>
+      <% } %>
+    </div>
+  </div>
+</div>
