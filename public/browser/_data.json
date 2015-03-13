@@ -1,18 +1,35 @@
 {
   "index": {
     "title": "Browser Day | CascadiaJS FEST 2015",
-    "description": "CascadiaCSS is a one-day speaking, training, demonstratnig cutting-edge CSS Techniques. July 9th 2015 at Semiahmoo Resort in Washington.",
-    "schedule": {},
-    "speakers": {},
+    "description": "Continuing the storied history of history of CascadiaJS, this day is all about the browser.",
     "sponsor_description": "Interested in supporting amazing local CSS Developers?",
     "sponsor_button": "Help by sponsoring CascadiaCSS 2015!",
     "sponsors": [],
     "staff": {
       "curator": {
-        "name": "KatieK"
+        "name": "Katie Kurkoski",
+        "avatar": "/assets/img/staff/katie.png",
+        "contact": {
+          "twitter": "KatieK2"
+        }
       },
-      "organizers": [],
-      "reviers": []
+      "organizers": [
+        {
+          "name": "Carter Rabasa",
+          "avatar": "/assets/img/staff/carter.png",
+          "contact": {
+            "twitter": "crtr0"
+          }
+        },
+        {
+          "name": "Tracy Hinds",
+          "avatar": "/assets/img/staff/tracy.png",
+          "contact": {
+            "twitter": "hackygolucky"
+          }
+        }
+      ],
+      "reviewers": []
     }
   }
 }
