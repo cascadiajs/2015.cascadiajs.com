@@ -1,0 +1,16 @@
+
+
+<div class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+
+        <% for(var slug in public.news._data){ %>
+          <h2><a href="/news/<%= slug %>"><%= public.news._data[slug].title %></a></h2>
+          <p class="lead"><%- public.news._data[slug].abstract %></p>
+        <% }; %>
+
+      </div>
+    </div>
+  </div>
+</div>
