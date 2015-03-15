@@ -12,17 +12,13 @@
   </div>
 
   <div class="content">
-    <%
-    if(typeof schedule !== 'undefined') { %>
+    <% if(typeof schedule !== 'undefined') { %>
       <%- partial("../_partials/day/schedule", schedule) %>
-    <% }
-    %>
+    <% } %>
 
-    <%
-    if(typeof speakers !== 'undefined') { %>
+    <% if(typeof speakers !== 'undefined') { %>
       <%- partial("../_partials/day/speakers", speakers) %>
-    <% }
-    %>
+    <% } %>
 
     <div class="content">
       <div class="container-fluid">
@@ -34,17 +30,13 @@
       </div>
     </div>
 
-    <%
-    if(typeof sponsors !== 'undefined') { %>
+    <% if(typeof sponsors !== 'undefined') { %>
       <%- partial("../_partials/day/sponsors", sponsors) %>
-    <% }
-    %>
+    <% } %>
 
-    <%
-    if(typeof staff !== 'undefined') { %>
+    <% if(typeof staff !== 'undefined') { %>
       <%- partial("../_partials/day/staff", staff) %>
-    <% }
-    %>
+    <% } %>
 
   </div>
 </div>
