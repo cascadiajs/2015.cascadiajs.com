@@ -1,6 +1,6 @@
 # CASCADIA FEST CALL FOR PROPOSALS – THE DETAILS
 
-Cascadia Fest 2015 is taking place July 8-10 in northen Washington State and we'd love for you to be a part of it! Cascadia Fest is made up of two events over 3 days:
+Cascadia Fest 2015 is taking place July 8-10 in northern Washington State and we'd love for you to be a part of it! Cascadia Fest is made up of two events over 3 days:
 * CascadiaCSS
 * CascadiaJS - Browser Day
 * CascadiaJS - Server Day
