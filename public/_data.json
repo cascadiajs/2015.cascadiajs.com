@@ -11,29 +11,35 @@
   ],
   "sponsors": [],
   "staff": {
-    "carter": {
-      "name": "Carter Rabasa",
-      "avatar": "/assets/img/staff/carter.jpg",
-      "contact": {}
-    },
-    "tracy": {
-      "name": "Tracy Hinds",
-      "avatar": "",
-      "contact": {}
-    },
-    "alex": {
-      "name": "Alex Lande",
-      "avatar": "/assets/img/staff/alex.png",
-      "contact": {
-        "twitter": "alexlande"
+    "organizers": [
+      {
+        "name": "Carter Rabasa",
+        "avatar": "/assets/img/staff/carter.png",
+        "contact": {
+          "twitter": "crtr0"
+        }
+      },
+      {
+        "name": "Tracy Hinds",
+        "avatar": "/assets/img/staff/tracy.png",
+        "contact": {
+          "twitter": "hackygolucky"
+        }
+      },
+      {
+        "name": "Alex Lande",
+        "avatar": "/assets/img/staff/alex.png",
+        "contact": {
+          "twitter": "alexlande"
+        }
+      },
+      {
+        "name": "Katie Kurkoski",
+        "avatar": "/assets/img/staff/katie.png",
+        "contact": {
+          "twitter": "KatieK2"
+        }
       }
-    },
-    "katie": {
-      "name": "Katie Kurkoski",
-      "avatar": "/assets/img/staff/katie.png",
-      "contact": {
-        "twitter": "KatieK2"
-      }
-    }
+    ]
   }
 }

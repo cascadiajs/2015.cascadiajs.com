@@ -71,6 +71,23 @@
   </div>
 </div>
 
+<div id="cjs2015-staff" class="day-staff content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Organizers of Cascadia<span class="thin">FEST</span></h3>
+      </div>
+
+      <% for(var i=0; i<public._data.staff.organizers.length; i++) { %>
+        <div class="col-xs-12 col-sm-3">
+          <%- partial('_partials/person', public._data.staff.organizers[i]) %>
+        </div>
+      <% } %>
+    </div>
+
+  </div>
+</div>
+
 <div id="cjs2015-sponsor" class="content">
   <div class="container-fluid">
     <div class="row">
