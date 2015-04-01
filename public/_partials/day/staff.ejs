@@ -8,16 +8,20 @@
         to these folks</p>
       </div>
       <div class="col-sm-6 col-md-8">
-        <%- partial('../person', staff.curator) %>
+        <div class="col-xs-12 col-sm-4">
+          <%- partial('../person', staff.curator) %>
+        </div>
 
         <% for(var i=0;i<staff.organizers.length;i++) { %>
-          <%- partial('../person', staff.organizers[i]) %>
+          <div class="col-xs-12 col-sm-4">
+            <%- partial('../person', staff.organizers[i]) %>
+          </div>
         <% } %>
       </div>
 
       <% if(typeof staff.reviewers !== 'undefined' && staff.reviewers.length) { %>
       <div class="col-sm-6 col-md-4">
-        <h5 class="text-center">Talk Review Comittee</h5>
+        <h4 class="text-center">Talk Review Comittee</h4>
         <ul class="text-center list-unstyled">
           <% staff.reviewers.forEach(function (person) { %>
             <li>
