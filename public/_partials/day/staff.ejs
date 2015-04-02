@@ -8,12 +8,12 @@
         to these folks</p>
       </div>
       <div class="col-sm-6 col-md-8">
-        <div class="col-xs-12 col-sm-4">
+        <div class="person col-xs-12 col-sm-4">
           <%- partial('../person', staff.curator) %>
         </div>
 
         <% for(var i=0;i<staff.organizers.length;i++) { %>
-          <div class="col-xs-12 col-sm-4">
+          <div class="person col-xs-12 col-sm-4">
             <%- partial('../person', staff.organizers[i]) %>
           </div>
         <% } %>

@@ -39,7 +39,15 @@
         "contact": {
           "twitter": "KatieK2"
         }
+      },
+      {
+        "name": "Ryan Roemer",
+        "avatar": "/assets/img/staff/ryan.png",
+        "contact": {
+          "twitter": "ryan-roemer"
+        }
       }
+
     ]
   }
 }
