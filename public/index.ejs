@@ -16,11 +16,11 @@
   </div>
 </div>
 
-<div class="content">
+<div class="content" id="about">
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-8 col-sm-push-2">
-        <h2 id="about" class="text-center tagline"><strong>CascadiaJSFest</strong> is a three-day, community-driven
+        <h2 class="text-center tagline"><strong>CascadiaJSFest</strong> is a three-day, community-driven
         conference on the cutting edge of JavaScript and CSS. Browser,
         server, OS – we cover it all.</h2>
 
@@ -71,6 +71,23 @@
   </div>
 </div>
 
+<div id="cjs2015-staff" class="day-staff content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Organizers of Cascadia<span class="thin">FEST</span></h3>
+      </div>
+
+      <% for(var i=0; i<public._data.staff.organizers.length; i++) { %>
+        <div class="person">
+          <%- partial('_partials/person', public._data.staff.organizers[i]) %>
+        </div>
+      <% } %>
+    </div>
+
+  </div>
+</div>
+
 <div id="cjs2015-sponsor" class="content">
   <div class="container-fluid">
     <div class="row">
@@ -81,7 +98,7 @@
         JS and CSS developers?</p>
 
         <a class="btn btn-primary btn-lg" href="/assets/sponsor-brochure.pdf">
-          Help by sponsoring CJSFest 2015!
+          Help Sponsor CascadiaCSS 2015!
         </a>
 
         <hr>
