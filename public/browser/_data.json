@@ -29,7 +29,16 @@
           }
         }
       ],
-      "reviewers": []
+      "reviewers": [
+        {
+          "name": "Tara D. Ellis",
+          "twitter": "maverick_mind"
+        },
+        {
+          "name": "Greg Bulmash",
+          "twitter": "YiddishNinja"
+        }
+      ]
     }
   }
 }
