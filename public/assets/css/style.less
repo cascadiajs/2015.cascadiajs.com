@@ -467,10 +467,12 @@ table.schedule {
 #cjs2015-staff {
   text-align: center;
   .person {
-    width: 180px;
-    margin: 0 20px;
+    width: 10em;
+    margin: 0 1.5em;
+    @media (max-width: @screen-sm-min) {
+      margin: 0 1em;
+    }
     display: inline-block;
-    text-align: left;
   }
 }
 
