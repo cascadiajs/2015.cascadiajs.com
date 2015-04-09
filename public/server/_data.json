@@ -26,9 +26,9 @@
       "visible": ["fest", "server", "browser"] }, {
 
       "name": "Porch.com",
-      "url": "",
+      "url": "http://www.porch.com",
       "logo": "",
-      "description": "",
+      "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
       "visible": ["fest", "browser"] }, {
 
       "name": "Mozilla",
@@ -38,9 +38,9 @@
       "visible": ["fest"] }, {
 
       "name": "Pluralsight",
-      "url": "",
+      "url": "http://www.pluralsight.com",
       "logo": "",
-      "description": "",
+      "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
       "visible": ["fest"] }, {
 
       "name": "Esri",
@@ -71,43 +71,7 @@
       "url": "http://saucelabs.com",
       "logo": "",
       "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
-      "visible": ["fest"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }, {
-
-      "name": "CMYK",
-      "url": "http://cmyk",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Just one way of looking at things",
-      "visible": ["fest", "css", "server", "browser"] }],
+      "visible": ["fest"] }],
 
     "staff": {
       "curator": {
