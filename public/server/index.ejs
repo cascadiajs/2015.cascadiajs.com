@@ -26,11 +26,9 @@
     <% }
     %>
 
-    <%
-    if(typeof sponsors !== 'undefined') { %>
-      <%- partial("../_partials/day/sponsors", sponsors) %>
-    <% }
-    %>
+    <% if(typeof sponsorConfig !== 'undefined') { %>
+      <%- partial("../_partials/day/sponsors", sponsorConfig) %>
+    <% }  %>
 
     <%
     if(typeof staff !== 'undefined') { %>
