@@ -13,7 +13,7 @@
       {
         "name": "Formidable Labs",
         "url": "http://formidablelabs.com",
-        "logo": "",
+        "logo": "/assets/img/sponsors/formidable/400.jpg",
         "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
         "visible": ["css"]
       },
@@ -41,14 +41,14 @@
       {
         "name": "Mozilla",
         "url": "https://firefox.com/developer",
-        "logo": "/assets/img/sponsors/cmyk.png",
+        "logo": "/assets/img/sponsors/firefox/400.jpg",
         "description": "Built for those who build the Web.Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.",
         "visible": ["fest"]
       },
       {
         "name": "Pluralsight",
         "url": "http://www.pluralsight.com",
-        "logo": "",
+        "logo": "/assets/img/sponsors/pluralsight/400.jpg",
         "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
         "visible": ["fest"]
       },
@@ -69,7 +69,7 @@
       {
         "name": "Twilio",
         "url": "http://twilio.com",
-        "logo": "",
+        "logo": "/assets/img/sponsors/twilio/400.jpg",
         "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
         "visible": ["fest"]
       },
@@ -83,7 +83,7 @@
       {
         "name": "Sauce Labs",
         "url": "http://saucelabs.com",
-        "logo": "",
+        "logo": "/assets/img/sponsors/SauceLabs/400.jpg",
         "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
         "visible": ["fest"]
       }

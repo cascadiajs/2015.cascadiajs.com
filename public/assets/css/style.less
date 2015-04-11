@@ -346,18 +346,18 @@ header {
 }
 
 #cjs2015-sponsor, .day-sponsors {
-  background-color: @gray-lighter;
-
   .sponsor {
     float: left;
     text-align: left;
+    font-size: 1.3rem;
+    margin-bottom: 2em;
 
     a.logo {
-      float: left;
+      display: block;
+      margin-bottom: 1em;
 
       img {
-        max-height: 160px;
-        margin-right: 1em;
+        max-width: 100%;
       }
     }
   }
@@ -370,6 +370,10 @@ header {
 }
 
 #cjs2015-coc {
+  background-color: @gray-lighter;
+}
+
+#cjs2015-family {
   background: url("/assets/img/cjs2015-family-600.jpg") no-repeat center bottom;
   background-size: cover;
 
@@ -465,7 +469,9 @@ table.schedule {
 }
 
 #cjs2015-staff {
+  background-color: @gray-lighter;
   text-align: center;
+
   .person {
     width: 10em;
     margin: 0 1.5em;
