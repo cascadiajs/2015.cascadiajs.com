@@ -20,21 +20,23 @@
           "name": "Carter Rabasa",
           "avatar": "/assets/img/staff/carter.png",
           "contact": {
-            "twitter": "crtr0"
+            "twitter": "crtr0",
+            "email": "carter@cascadiajs.com"
           }
         },
         {
           "name": "Tracy Hinds",
           "avatar": "/assets/img/staff/tracy.png",
           "contact": {
-            "twitter": "hackygolucky"
+            "twitter": "hackygolucky",
+            "email": "tracy@cascadiajs.com"
           }
         }
       ],
       "reviewers": [
         {
-          "name": "",
-          "twitter": ""
+          "name": "Forrest Norvell",
+          "twitter": "othiym23"
         },
         {
           "name": "",
