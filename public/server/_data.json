@@ -6,73 +6,85 @@
     "speakers": {},
     "sponsor_description": "",
     "sponsor_button": "",
-    "sponsors": [{ 
-      "name": "Formidable Labs",
-      "url": "http://formidablelabs.com",
-      "logo": "",
-      "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
-      "visible": ["css"] }, {
-
-      "name": "Faithlife",
-      "url": "https://faithlife.com/about",
-      "logo": "",
-      "description": "Since 1992, Faithlife Corporation (formerly Logos Bible Software) has grown from a couple of programmers in a basement into the largest developer of Bible study software and a worldwide leader in multilingual electronic publishing. Faithlife partners with more than 150 publishers to make more than 43,000 Bible study resources available to customers around the world.",
-      "visible": ["browser"] }, {
-
-      "name": "HBO",
-      "url": "",
-      "logo": "",
-      "description": "",
-      "visible": ["fest", "server", "browser"] }, {
-
-      "name": "Porch.com",
-      "url": "http://www.porch.com",
-      "logo": "",
-      "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
-      "visible": ["fest", "browser"] }, {
-
-      "name": "Mozilla",
-      "url": "https://firefox.com/developer",
-      "logo": "/assets/img/sponsors/cmyk.png",
-      "description": "Built for those who build the Web.Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.",
-      "visible": ["fest"] }, {
-
-      "name": "Pluralsight",
-      "url": "http://www.pluralsight.com",
-      "logo": "",
-      "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
-      "visible": ["fest"] }, {
-
-      "name": "Esri",
-      "url": "",
-      "logo": "",
-      "description": "",
-      "visible": ["fest"] }, {
-
-      "name": "Github",
-      "url": "",
-      "logo": "",
-      "description": "",
-      "visible": ["fest"] }, {
-
-      "name": "Twilio",
-      "url": "http://twilio.com",
-      "logo": "",
-      "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
-      "visible": ["fest"] }, {
-
-      "name": "Intel",
-      "url": "",
-      "logo": "",
-      "description": "",
-      "visible": ["fest"] }, {
-
-      "name": "Sauce Labs",
-      "url": "http://saucelabs.com",
-      "logo": "",
-      "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
-      "visible": ["fest"] }],
-
+    "sponsors": [
+      {
+        "name": "Formidable Labs",
+        "url": "http://formidablelabs.com",
+        "logo": "",
+        "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
+        "visible": ["css"]
+      },
+      {
+        "name": "Faithlife",
+        "url": "https://faithlife.com/about",
+        "logo": "",
+        "description": "Since 1992, Faithlife Corporation (formerly Logos Bible Software) has grown from a couple of programmers in a basement into the largest developer of Bible study software and a worldwide leader in multilingual electronic publishing. Faithlife partners with more than 150 publishers to make more than 43,000 Bible study resources available to customers around the world.",
+        "visible": ["browser"]
+      },
+      {
+        "name": "HBO",
+        "url": "",
+        "logo": "",
+        "description": "",
+        "visible": ["fest", "server", "browser"]
+      },
+      {
+        "name": "Porch.com",
+        "url": "http://www.porch.com",
+        "logo": "",
+        "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
+        "visible": ["fest", "browser"]
+      },
+      {
+        "name": "Mozilla",
+        "url": "https://firefox.com/developer",
+        "logo": "/assets/img/sponsors/cmyk.png",
+        "description": "Built for those who build the Web.Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Pluralsight",
+        "url": "http://www.pluralsight.com",
+        "logo": "",
+        "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Esri",
+        "url": "",
+        "logo": "",
+        "description": "",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Github",
+        "url": "",
+        "logo": "",
+        "description": "",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Twilio",
+        "url": "http://twilio.com",
+        "logo": "",
+        "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Intel",
+        "url": "",
+        "logo": "",
+        "description": "",
+        "visible": ["fest"]
+      },
+      {
+        "name": "Sauce Labs",
+        "url": "http://saucelabs.com",
+        "logo": "",
+        "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
+        "visible": ["fest"]
+      }
+    ],
     "staff": {
       "curator": {
         "name": "Ryan Roemer"
