@@ -20,21 +20,21 @@
       {
         "name": "Faithlife",
         "url": "https://faithlife.com/about",
-        "logo": "",
+        "logo": "/assets/img/sponsors/faithlife/400.jpg",
         "description": "Since 1992, Faithlife Corporation (formerly Logos Bible Software) has grown from a couple of programmers in a basement into the largest developer of Bible study software and a worldwide leader in multilingual electronic publishing. Faithlife partners with more than 150 publishers to make more than 43,000 Bible study resources available to customers around the world.",
         "visible": ["browser"]
       },
       {
         "name": "HBO",
-        "url": "",
-        "logo": "",
+        "url": "http://www.hbo.com",
+        "logo": "/assets/img/sponsors/hbo/400.png",
         "description": "",
         "visible": ["fest", "server", "browser"]
       },
       {
         "name": "Porch.com",
         "url": "http://www.porch.com",
-        "logo": "",
+        "logo": "/assets/img/sponsors/porch/400.jpg",
         "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
         "visible": ["fest", "browser"]
       },
@@ -54,15 +54,15 @@
       },
       {
         "name": "Esri",
-        "url": "",
-        "logo": "",
+        "url": "http://www.esri.com/",
+        "logo": "/assets/img/sponsors/esri/logo.svg",
         "description": "",
         "visible": ["fest"]
       },
       {
         "name": "Github",
-        "url": "",
-        "logo": "",
+        "url": "http://www.github.com",
+        "logo": "/assets/img/sponsors/github/400.jpg",
         "description": "",
         "visible": ["fest"]
       },
@@ -75,8 +75,8 @@
       },
       {
         "name": "Intel",
-        "url": "",
-        "logo": "",
+        "url": "http://www.intel.com",
+        "logo": "/assets/img/sponsors/intel/logo.svg",
         "description": "",
         "visible": ["fest"]
       },
