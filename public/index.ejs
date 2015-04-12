@@ -28,10 +28,6 @@
       </div>
     </div>
 
-    <div class="row">
-      <%- partial("_partials/connect") %>
-    </div>
-
     <hr />
 
   </div>
@@ -71,6 +67,15 @@
   </div>
 </div>
 
+<div id="" class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <%- partial("_partials/connect") %>
+    </div>
+  </div>
+</div>
+
+
 <div id="cjs2015-staff" class="day-staff content">
   <div class="container-fluid">
     <div class="row">
@@ -98,15 +103,25 @@
         JS and CSS developers?</p>
 
         <a class="btn btn-primary btn-lg" href="/assets/sponsor-brochure.pdf">
-          Help Sponsor CascadiaCSS 2015!
+          Help Sponsor CascadiaFest 2015!
         </a>
 
         <hr>
 
         <%
-        var sponsor = {};
+        var i = 0, sponsor = {};
+
         for(var index in public._data.sponsors) {
           sponsor = public._data.sponsors[index];
+          if(!sponsor.logo) {
+            continue;
+          }
+
+          if(sponsor.visible.indexOf('fest') == -1) {
+            continue;
+          }
+
+          sponsor.index = i++;
           %>
             <%- partial("_partials/sponsor", sponsor) %>
           <%
@@ -114,22 +129,13 @@
         %>
 
       </div>
-
-      <div class="code col-md-10 col-md-offset-1 text-center">
-        <h3>Code of Conduct</h3>
-        <h4>CascadiaJS ♥s You</h4>
-
-        <p>We are an inclusive, kind community that is constantly growing.
-        Please find our <a href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/COC.md">Code of
-        conduct</a>, and try and make your fellow Cascadians
-        (&amp; fellow programmers) feel welcome!</p>
-
-      </div>
     </div>
   </div>
 </div>
 
-<div id="cjs2015-coc" class="content">
+<%- partial('_partials/coc') %>
+
+<div id="cjs2015-family" class="content">
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 text-center">

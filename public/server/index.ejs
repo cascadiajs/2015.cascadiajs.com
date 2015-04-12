@@ -26,17 +26,17 @@
     <% }
     %>
 
-    <%
-    if(typeof sponsors !== 'undefined') { %>
-      <%- partial("../_partials/day/sponsors", sponsors) %>
-    <% }
-    %>
+    <% if(typeof sponsorConfig !== 'undefined') { %>
+      <%- partial("../_partials/day/sponsors", sponsorConfig) %>
+    <% }  %>
 
     <%
     if(typeof staff !== 'undefined') { %>
       <%- partial("../_partials/day/staff", staff) %>
     <% }
     %>
+
+    <%- partial('../_partials/coc') %>
 
   </div>
 </div>

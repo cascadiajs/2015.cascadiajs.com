@@ -4,18 +4,31 @@
       <div class="col-xs-12">
         <h3>Sponsors</h3>
 
-        <p><%- sponsor_description %></p>
+        <p><%- description %></p>
 
         <a class="btn btn-primary btn-lg" href="/assets/sponsor-brochure.pdf">
-          <%- sponsor_button %>
+          <%- button %>
         </a>
 
+        <hr>
+
         <%
-        var sponsor = {};
-        for(var index in sponsors) {
-          sponsor = sponsors[index];
+        var i = 0, sponsor = {};
+
+        for(var index in public._data.sponsors) {
+          sponsor = public._data.sponsors[index];
+
+          if(!sponsor.logo) {
+             continue;
+          }
+
+          if(sponsor.visible.indexOf(show) == -1) {
+            continue;
+          }
+
+          sponsor.index = i++;
           %>
-            <%- partial("../sponsor", sponsor) %>
+            <%- partial("..//sponsor", sponsor) %>
           <%
         }
         %>

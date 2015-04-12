@@ -1,10 +1,12 @@
 {
   "index": {
     "title": "Browser Day | CascadiaJS FEST 2015",
-    "description": "Continuing the storied history of history of CascadiaJS, this day is all about the browser.",
-    "sponsor_description": "Interested in supporting amazing local CSS Developers?",
-    "sponsor_button": "Help Sponsor CascadiaCSS 2015!",
-    "sponsors": [],
+    "description": "Continuing the storied history of history of CascadiaJS, this day is all about the browser.<br> July 8th, 2015 at Semiahmoo Resort in Washington.",
+    "sponsorConfig": {
+      "show": "browser",
+      "description": "Interested in supporting artisinal shade-grown JavaScript developers?",
+      "button": "Help Sponsor CascadiaJS Fest 2015!"
+    },
     "staff": {
       "curator": {
         "name": "Katie Kurkoski",
@@ -18,14 +20,16 @@
           "name": "Carter Rabasa",
           "avatar": "/assets/img/staff/carter.png",
           "contact": {
-            "twitter": "crtr0"
+            "twitter": "crtr0",
+            "email": "carter@cascadiajs.com"
           }
         },
         {
           "name": "Tracy Hinds",
           "avatar": "/assets/img/staff/tracy.png",
           "contact": {
-            "twitter": "hackygolucky"
+            "twitter": "hackygolucky",
+            "email": "tracy@cascadiajs.com"
           }
         }
       ],
