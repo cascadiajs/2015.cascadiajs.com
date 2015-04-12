@@ -27,7 +27,7 @@
       {
         "name": "HBO",
         "url": "http://www.hbo.com",
-        "logo": "/assets/img/sponsors/hbo/400.png",
+        "logo": "/assets/img/sponsors/hbo/logo.svg",
         "description": "",
         "visible": ["fest", "server", "browser"]
       },
