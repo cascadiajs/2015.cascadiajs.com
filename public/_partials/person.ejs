@@ -8,5 +8,8 @@
   <% if(typeof contact.twitter !== 'undefined' && contact.twitter) { %>
   <a class="btn btn-default btn-sm" href="http://twitter.com/<%- contact.twitter %>"><i class="fa fa-twitter"></i> <%- contact.twitter %></a>
   <% } %>
+  <% if(typeof contact.email !== 'undefined' && contact.email) { %>
+  <a class="btn btn-default btn-sm" href="mailto:<%- contact.email %>"><i class="fa fa-mail"></i> <%- contact.email %></a>
+  <% } %>
 </p>
 <% } %>
