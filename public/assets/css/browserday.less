@@ -1,6 +1,12 @@
 #browserday {
-  @daycolor: #4d6023; // rebeccapurple
+  @daycolor: #4d6023; // forestgreen
   @daycolor-alt: lighten(@daycolor, 22%);
+
+  .lead {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 
   h2.first-title {
     color: @daycolor-alt;
@@ -17,6 +23,13 @@
   table.schedule {
     a.speaker {
       color: @daycolor;
+    }
+  }
+
+  .sponsor a.logo {
+    border-color: @daycolor;
+    &:hover {
+      border-color: #eee;
     }
   }
 }

@@ -1,6 +1,12 @@
 #serverday {
-  @daycolor: #e56c00; // rebeccapurple
+  @daycolor: #e56c00; // octopusorage
   @daycolor-alt: lighten(@daycolor, 22%);
+
+  .lead {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
 
   h2.first-title {
     color: @daycolor-alt;
@@ -17,6 +23,13 @@
   table.schedule {
     a.speaker {
       color: @daycolor;
+    }
+  }
+
+  .sponsor a.logo {
+    border-color: @daycolor;
+    &:hover {
+      border-color: #eee;
     }
   }
 }
