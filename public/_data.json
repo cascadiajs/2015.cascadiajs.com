@@ -83,6 +83,13 @@
         "logo": "/assets/img/sponsors/Twilio/twillo-logo.svg",
         "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
         "visible": ["fest"]
+      },
+      {
+        "name": "You!",
+        "url": "/assets/sponsor-brochure.pdf",
+        "logo": "/assets/img/sponsors/you.jpg",
+        "description": "",
+        "visible": ["css", "browser", "server", "fest"]
       }
     ],
   "staff": {
