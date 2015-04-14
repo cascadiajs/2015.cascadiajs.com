@@ -355,7 +355,10 @@ header {
 
     a.logo {
       display: block;
-      margin-bottom: 1em;
+      background-color: #fff;
+      @media (min-width: @screen-sm-min) {
+        border: 1em solid #eee;
+      }
 
       img {
         max-width: 100%;
@@ -510,7 +513,7 @@ table.schedule {
     .track-icon {
       position: absolute;
       top: -8px;
-      left: 310px;
+      left: 305px;
     }
   }
 
