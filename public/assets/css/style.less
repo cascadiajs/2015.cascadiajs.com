@@ -71,7 +71,7 @@ body {
   padding-top: 1em;
 }
 
-img {
+img, canvas {
   max-width: 100%;
 }
 
@@ -306,6 +306,35 @@ header {
 
   .logo {
     display: block;
+  }
+}
+
+.speaker-preview {
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+
+  h2 {
+    text-transform: uppercase;
+    font-size: 1.2em;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .speaker {
+    padding-bottom: 2em;
+
+    img {
+      max-width: 128px;
+    }
+  }
+
+  .speaker + .speaker {
+    border-top: .25em solid rgba(0, 0, 0, .4);
+    padding-top: 2em;
   }
 }
 
@@ -544,17 +573,23 @@ table.schedule {
 
   .day-speakers {
     text-align: center;
+
     h3 {
       text-align: left;
       padding-bottom: .5em;
       border-bottom: 1px solid #ddd;
     }
+
     .speaker {
       text-align: left;
-      width: 180px;
-      margin: 0 1em;
-      display: inline-block;
+      margin-bottom: 2em;
+
+      .inner {
+        padding: 1em;
+        border: 1px solid #ddd;
+      }
     }
-    h4 { margin-bottom: 3px; }
+
+    h4 { margin-bottom: 0px; }
   }
 }
