@@ -1,11 +1,64 @@
 {
   "index": {
     "title": "CascadiaJS Server Day | CascadiaFEST 2015",
+    "color": "#eb7e2f",
     "description": "CascadiaJS Server Day. July 10th 2015 at Semiahmoo Resort in Washington.",
     "sponsorConfig": {
       "show": "server",
       "description": "These amazing companies have stepped up to help bring CascadiaJS Server Day to you",
       "button": "Help Sponsor CascadiaJS Server Day 2015!"
+    },
+    "speakers": {
+      "list": [
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-server-hidden.png"
+        }
+      ]
     },
     "staff": {
       "curator": {

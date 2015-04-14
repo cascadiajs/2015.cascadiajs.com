@@ -33,7 +33,59 @@
   </div>
 </div>
 
-<%- partial('_partials/cfp_done.ejs') %>
+<div class="content speaker-preview">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3 id="speakers" class="text-center">Speakers</h3>
+      </div>
+
+      <div class="col-xs-4 text-center" style="background: rebeccapurple; color: white;">
+        <h2><a href="/css/">CascadiaCSS</a></h2>
+
+        <%
+        for(var i=0;i<public._data.speakers.css.length;i++) {
+          var speaker = public._data.speakers.css[i];
+          %>
+
+          <%- partial("_partials/speaker", speaker) %>
+        <%
+        }
+        %>
+      </div>
+
+      <div class="col-xs-4 text-center" style="background: #60713e; color: white;">
+        <h2><a href="/browser/">CascadiaJS: Browser Day</a></h2>
+
+
+        <%
+        for(var i=0;i<public._data.speakers.browser.length;i++) {
+          var speaker = public._data.speakers.browser[i];
+          %>
+
+          <%- partial("_partials/speaker", speaker) %>
+        <%
+        }
+        %>
+      </div>
+
+      <div class="col-xs-4 text-center" style="background: #eb7e2f; color: white;">
+        <h2><a href="/server/">CascadiaJS: Server Day</a></h2>
+
+        <%
+        for(var i=0;i<public._data.speakers.server.length;i++) {
+          var speaker = public._data.speakers.server[i];
+          %>
+
+          <%- partial("_partials/speaker", speaker) %>
+        <%
+        }
+        %>
+      </div>
+
+    </div>
+  </div>
+</div>
 
 <div id="cjs2015-venue" class="content">
   <div class="container-fluid">

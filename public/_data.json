@@ -6,6 +6,62 @@
   "description": "CascadiaFest is a three-day, community-driven conference on the cutting edge of JavaScript & CSS. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
   "stylesheet": "/assets/css/style.css",
   "scripts": [],
+  "speakers": {
+    "css": [
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-css-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      },
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-css-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      }
+    ],
+    "browser": [
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-browser-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      },
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-browser-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      }
+    ],
+    "server": [
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-server-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      },
+      {
+        "name": "Speaker",
+        "avatar": "/assets/img/speaker-server-hidden.png",
+        "talk": {
+          "title": "An awesome talk",
+          "url": ""
+        }
+      }
+    ]
+  },
   "sponsors": [
       {
         "name": "Esri",

@@ -1,11 +1,64 @@
 {
   "index": {
     "title": "CascadiaCSS | CascadiaFEST 2015",
+    "color": "#663399",
     "description": "A CSS conference track for the Pacific Northwest.<br> July 8th, 2015 at Semiahmoo Resort in Washington.",
     "sponsorConfig": {
       "show": "css",
       "description": "These amazing companies have stepped up to help bring CascadiaCSS to you",
       "button": "Help Sponsor CascadiaCSS 2015!"
+    },
+    "speakers": {
+      "list": [
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-css-hidden.png"
+        }
+      ]
     },
     "staff": {
       "curator": {

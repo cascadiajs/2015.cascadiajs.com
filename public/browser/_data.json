@@ -1,11 +1,64 @@
 {
   "index": {
     "title": "CascadiaJS Browser Day | CascadiaFEST 2015",
+    "color": "#60713e",
     "description": "Part of the <a href='http://jsconf.com/'>JS Conf</a> family, CascadiaJS FEST brings you this day all about the browser. <br>July 9th, 2015 at Semiahmoo Resort in Washington State, USA.",
     "sponsorConfig": {
       "show": "browser",
       "description": "These amazing companies have stepped up to help bring CascadiaJS Browser Day to you",
       "button": "Help Sponsor CascadiaJS Browser Day 2015!"
+    },
+    "speakers": {
+      "list": [
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        },
+        {
+          "name": "???",
+          "avatar": "/assets/img/speaker-browser-hidden.png"
+        }
+      ]
     },
     "staff": {
       "curator": {

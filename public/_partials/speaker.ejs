@@ -1,0 +1,17 @@
+
+<div class="speaker <%- typeof classname != 'undefined' ? classname : '' %>">
+  <div class="inner">
+    <% if(typeof avatar !== "undefined") { %>
+    <img alt="" src="<%- avatar %>" class="profile-image"/>
+    <% } %>
+
+    <h4><%- name %></h4>
+    <% if(typeof talk !== "undefined") { %>
+    <p>
+      <a href="<%- talk.url %>">
+        <%- talk.title %>
+      </a>
+    </p>
+    <% } %>
+  </div>
+</div>

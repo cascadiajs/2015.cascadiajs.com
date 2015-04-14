@@ -1,60 +1,17 @@
-<div id="speakers" class="day-speakers">
+
+<div id="speakers" class="day-speakers content">
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12">
-        <h3>Speakers</h3>
+        <h3 class="text-center">Speakers</h3>
+      </div>
+        <%
+        for(var i=0;i<list.length;i++) {
+          list[i].classname = 'col-xs-3';
+          %>
 
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-01.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-02.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-03.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-04.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-05.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-01.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-02.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-03.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-04.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
-        <div class="speaker">
-          <img alt="" src="/assets/img/curator/demo-image-05.png" class="profile-image"/>
-          <h4>Leslie Knope</h4>
-          <p><a href="#tite-of-talk">The title of this amazing talk on elements</a></p>
-        </div>
+          <%- partial("../speaker", list[i]) %>
+        <% } %>
 
       </div>
     </div>
