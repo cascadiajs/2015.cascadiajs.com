@@ -19,11 +19,11 @@ If you're interested in contributing to CascadiaFest 2015, please read the [CONT
 
 ## New Structure
 
-This year we are going to experiment with a new format for CascadiaFest. In the past CascadiaJS was a 2-day, 1-track conference that covered the gamut of JavaScript. In 2015, we are going to break down the event into 3 distinct days:
+This year we are going to experiment with a new format for CascadiaFest. In the past CascadiaJS was a 2-day, 1-track conference that covered the gamut of JavaScript. In 2015, we are going to include an additional 1-day 1-track CSS conference called CascadiaCSS.
 
-* CascadiaCSS
-* CascadiaJS - BrowserJS
-* CascadiaJS - ServerJS
+* CascadiaCSS (July 8, 2015)
+* CascadiaJS - Browser Day (July 9, 2015)
+* CascadiaJS - Server Day (July 10, 2015)
 
 The entire event will be called CascadiaFest and will share infrastructure such as the event space, hotel, etc. As an attendee you'll have the option of purchasing a ticket to a single event or a bundle that includes entry to all of them. All-access tickets will be a priority in release and single events and lodging days will be announced closer to the event.
 
