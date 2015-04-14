@@ -23,8 +23,16 @@
         <ul class="text-center list-unstyled">
           <% staff.reviewers.forEach(function (person) { %>
             <li>
-              <a href="http://twitter.com/<%- person.twitter %>"><%- person.name %></a> |
+              <% if(typeof person.twitter !== 'undefined') { %>
+              <a href="http://twitter.com/<%- person.twitter %>">
+              <% } %>
+
+                <%- person.name %></a>
+
+              <% if(typeof person.twitter !== 'undefined') { %>
+               |
               <a class="blue" href="http://twitter.com/<%- person.twitter %>"><i class="fa fa-twitter"></i> <%- person.twitter %></a>
+              <% } %>
             </li>
           <% }); %>
         </ul>
