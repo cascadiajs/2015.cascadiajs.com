@@ -181,7 +181,7 @@ header {
 
   .navbar .navbar-brand {
     font-family: Nanami-Rounded-Lt;
-    min-width: 14em;
+    min-width: 13em;
     padding-top: 15px;
 
     p {
@@ -310,14 +310,48 @@ header {
 }
 
 .speaker-preview {
+  .row {
+    padding: 0;
+    overflow: hidden;
+  }
+
+  @media (min-width: @screen-sm-min) {
+    .row {
+      margin-bottom: 2em;
+    }
+  }
+
+  .preview-day {
+    padding: 1em 1em 100em 1em;
+    margin-bottom: -99em;
+  }
+
   a {
     color: white;
-    text-decoration: underline;
+    border-bottom: 1px solid currentColor;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
   }
 
   h2 {
     text-transform: uppercase;
-    font-size: 1.2em;
+    font-size: 1.3em;
+    padding: 2rem 0;
+    margin: .8em 0 1em;
+
+    line-height: 1.3;
+
+    background: rgba(0, 0, 0, .3);
+
+    transition: background-color 0.5s ease;
+
+    &:hover {
+      background: rgba(0, 0, 0, .6);
+      text-decoration: none;
+    }
   }
 
   p {
@@ -329,16 +363,21 @@ header {
 
     img {
       max-width: 128px;
+      float: left;
+
+      @media (min-width: @screen-sm-min) {
+        float: none;
+      }
     }
   }
 
   .speaker + .speaker {
-    border-top: .25em solid rgba(0, 0, 0, .4);
+    border-top: .2em solid rgba(0, 0, 0, .3);
     padding-top: 2em;
   }
 
   .see-all-speakers {
-    margin-bottom: 1em;
+    margin-bottom: 0;
 
     a {
       font-weight: normal;
@@ -513,17 +552,45 @@ table.schedule {
 
 #cjs2015-staff {
   background-color: @gray-lighter;
-  text-align: center;
+
+  @media (min-width: @screen-sm-min) {
+    text-align: center;
+  }
 
   .person {
-    width: 10em;
-    margin: 0 1.5em;
+    padding-left: 1.5em;
+    margin-bottom: 1em;
     vertical-align: top;
+    width: 100%;
 
-    @media (max-width: @screen-sm-min) {
+    @media (min-width: @screen-sm-min) {
       margin: 0 1em;
+      width: 10em;
+      padding: 0;
     }
+
+    .profile-image {
+      float: left;
+      width: 7em;
+      margin-right: 1em;
+
+      @media (min-width: @screen-sm-min) {
+        margin: 0;
+        width: 10em;
+        float: none;
+      }
+    }
+
     display: inline-block;
+
+    .contact a {
+      font-size: 1.2rem;
+      display: inline-block;
+
+      @media (min-width: @screen-sm-min) {
+        font-size: 1.4rem;
+      }
+    }
   }
 }
 
