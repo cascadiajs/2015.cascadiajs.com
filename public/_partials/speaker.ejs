@@ -8,9 +8,15 @@
     <h4><%- name %></h4>
     <% if(typeof talk !== "undefined") { %>
     <p>
+      <% if(talk.url) { %>
       <a href="<%- talk.url %>">
+      <% } %>
+
         <%- talk.title %>
+
+      <% if(talk.url) { %>
       </a>
+      <% } %>
     </p>
     <% } %>
   </div>
