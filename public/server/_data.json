@@ -12,51 +12,99 @@
       "list": [
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-01.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Rebecca Murphey",
+          "avatar": "/assets/img/speakers/speaker-server-02-rebecca-murphey.jpg",
+          "talk": {
+            "title": "Beyond [G[runt|ulp]|Broccoli]: Client-side app builds at scale",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-03.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-04.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-05.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-06.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Adam Baldwin",
+          "avatar": "/assets/img/speakers/speaker-server-07-adam-baldwin.jpg",
+          "talk": {
+            "title": "The Art of Identifying Vulnerabilities",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-08.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-09.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-10.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-11.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
-        },
-        {
-          "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
-        },
-        {
-          "name": "???",
-          "avatar": "/assets/img/speaker-server-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-server-12.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },

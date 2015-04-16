@@ -11,52 +11,100 @@
     "speakers": {
       "list": [
         {
-          "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "name": "Myles Borins",
+          "avatar": "/assets/img/speakers/speaker-browser-01-myles-borins.jpg",
+          "talk": {
+            "title": "It's not me it's you: on the fallibility of large systems",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-02.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Ashley Williams",
+          "avatar": "/assets/img/speakers/speaker-browser-03-ashley-williams.jpg",
+          "talk": {
+            "title": "Abstraction and the new challenges with teaching ES6",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-04.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-05.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-06.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-07.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-08.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-09.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-10.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-11.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
-        },
-        {
-          "name": "???",
-          "avatar": "/assets/img/speaker-browser-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-browser-12.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },

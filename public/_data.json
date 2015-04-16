@@ -9,54 +9,54 @@
   "speakers": {
     "css": [
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-css-hidden.png",
+        "name": "Jessica Dillon",
+        "avatar": "/assets/img/speakers/speaker-css-06-jessica-dillon.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "Implementing a visual CSS testing framework",
           "url": ""
         }
       },
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-css-hidden.png",
+        "name": "Rachel Nabors",
+        "avatar": "/assets/img/speakers/speaker-css-07-rachel-nabors.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "Animating the User's Experience",
           "url": ""
         }
       }
     ],
     "browser": [
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-browser-hidden.png",
+        "name": "Myles Borins",
+        "avatar": "/assets/img/speakers/speaker-browser-01-myles-borins.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "It's not me it's you: on the fallibility of large systems",
           "url": ""
         }
       },
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-browser-hidden.png",
+        "name": "Ashley Williams",
+        "avatar": "/assets/img/speakers/speaker-browser-03-ashley-williams.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "Abstraction and the new challenges with teaching ES6",
           "url": ""
         }
       }
     ],
     "server": [
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-server-hidden.png",
+        "name": "Rebecca Murphey",
+        "avatar": "/assets/img/speakers/speaker-server-02-rebecca-murphey.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "Beyond [G[runt|ulp]|Broccoli]: Client-side app builds at scale",
           "url": ""
         }
       },
       {
-        "name": "Speaker",
-        "avatar": "/assets/img/speaker-server-hidden.png",
+        "name": "Adam Baldwin",
+        "avatar": "/assets/img/speakers/speaker-server-07-adam-baldwin.jpg",
         "talk": {
-          "title": "An awesome talk",
+          "title": "The Art of Identifying Vulnerabilities",
           "url": ""
         }
       }

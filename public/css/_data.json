@@ -12,51 +12,59 @@
       "list": [
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-01.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-02.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-03.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-04.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-05.jpg"
+        },
+        {
+          "name": "Jessica Dillon",
+          "avatar": "/assets/img/speakers/speaker-css-06-jessica-dillon.jpg",
+          "talk": {
+            "title": "Implementing a visual CSS testing framework",
+            "url": ""
+          }
+        },
+        {
+          "name": "Rachel Nabors",
+          "avatar": "/assets/img/speakers/speaker-css-07-rachel-nabors.jpg",
+          "talk": {
+            "title": "Animating the User's Experience",
+            "url": ""
+          }
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-08.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-09.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-10.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-11.jpg"
         },
         {
           "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
-        },
-        {
-          "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
-        },
-        {
-          "name": "???",
-          "avatar": "/assets/img/speaker-css-hidden.png"
+          "avatar": "/assets/img/speakers/speaker-css-12.jpg"
         }
       ]
     },
