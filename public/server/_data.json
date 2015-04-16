@@ -11,7 +11,7 @@
     "speakers": {
       "list": [
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-01.jpg",
           "talk": {
             "title": "",
@@ -27,7 +27,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-03.jpg",
           "talk": {
             "title": "",
@@ -35,7 +35,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-04.jpg",
           "talk": {
             "title": "",
@@ -43,7 +43,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-05.jpg",
           "talk": {
             "title": "",
@@ -51,7 +51,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-06.jpg",
           "talk": {
             "title": "",
@@ -67,7 +67,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-08.jpg",
           "talk": {
             "title": "",
@@ -75,7 +75,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-09.jpg",
           "talk": {
             "title": "",
@@ -83,7 +83,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-10.jpg",
           "talk": {
             "title": "",
@@ -91,7 +91,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-11.jpg",
           "talk": {
             "title": "",
@@ -99,7 +99,7 @@
           }
         },
         {
-          "name": "???",
+          "name": "",
           "avatar": "/assets/img/speakers/speaker-server-12.jpg",
           "talk": {
             "title": "",
