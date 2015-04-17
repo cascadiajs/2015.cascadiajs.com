@@ -9,9 +9,11 @@ Welcome to the official repo of CascadiaJS 2015, a conference for web developers
 
 ## CFP and Ticket Sales
 
+The Call for Proposals ended March 15th, 2015. Speaker announcements start April 16th, and will continue until April 23rd.
+
 [CFP: Speak at CascadiaJSFest](https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/proposals/README.md)
 
-Stay tuned for the sale of Early Bird tickets in early February!
+Tickets are on sale until we sell out. Visit [https://ti.to/event-loop/cjsfest-2015](https://ti.to/event-loop/cjsfest-2015) to register.
 
 ## Contributing
 
