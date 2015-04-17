@@ -43,10 +43,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-browser-05.jpg",
+          "name": "Martin Gontovnikas",
+          "avatar": "/assets/img/speakers/speaker-browser-05-martin-gontovnikas.jpg",
           "talk": {
-            "title": "",
+            "title": "Death to Cookies, Long Live JSON Web Tokens",
             "url": ""
           }
         },
@@ -59,10 +59,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-browser-07.jpg",
+          "name": "Catt Small",
+          "avatar": "/assets/img/speakers/speaker-browser-07-catt-small.jpg",
           "talk": {
-            "title": "",
+            "title": "Making Native Browser Games in the Modern Age",
             "url": ""
           }
         },

@@ -35,18 +35,18 @@
     ],
     "browser": [
       {
-        "name": "Myles Borins",
-        "avatar": "/assets/img/speakers/speaker-browser-01-myles-borins.jpg",
+        "name": "Martin Gontovnikas",
+        "avatar": "/assets/img/speakers/speaker-browser-05-martin-gontovnikas.jpg",
         "talk": {
-          "title": "It's not me it's you: on the fallibility of large systems",
+          "title": "Death to Cookies, Long Live JSON Web Tokens",
           "url": ""
         }
       },
       {
-        "name": "Ashley Williams",
-        "avatar": "/assets/img/speakers/speaker-browser-03-ashley-williams.jpg",
+        "name": "Catt Small",
+        "avatar": "/assets/img/speakers/speaker-browser-07-catt-small.jpg",
         "talk": {
-          "title": "Abstraction and the new challenges with teaching ES6",
+          "title": "Making Native Browser Games in the Modern Age",
           "url": ""
         }
       }
