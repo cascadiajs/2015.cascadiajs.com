@@ -12,29 +12,49 @@
       "list": [
         {
           "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-01.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-02.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-03.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-04.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-05.jpg"
-        },
-        {
-          "name": "Jessica Dillon",
-          "avatar": "/assets/img/speakers/speaker-css-06-jessica-dillon.jpg",
+          "avatar": "/assets/img/speakers/speaker-css-01.jpg",
           "talk": {
-            "title": "Implementing a visual CSS testing framework",
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "",
+          "avatar": "/assets/img/speakers/speaker-css-02.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "",
+          "avatar": "/assets/img/speakers/speaker-css-03.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Alan Mooiman",
+          "avatar": "/assets/img/speakers/speaker-css-04-alan-mooiman.jpg",
+          "talk": {
+            "title": "CSS is dead, long live CSS",
+            "url": ""
+          }
+        },
+        {
+          "name": "",
+          "avatar": "/assets/img/speakers/speaker-css-05.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "",
+          "avatar": "/assets/img/speaker-css-hidden.png",
+          "talk": {
+            "title": "",
             "url": ""
           }
         },
@@ -48,23 +68,43 @@
         },
         {
           "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-08.jpg"
+          "avatar": "/assets/img/speakers/speaker-css-08.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Clarissa Peterson",
+          "avatar": "/assets/img/speakers/speaker-css-09-clarissa-peterson.jpg",
+          "talk": {
+            "title": "Responsive Color",
+            "url": ""
+          }
         },
         {
           "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-09.jpg"
+          "avatar": "/assets/img/speakers/speaker-css-10.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Jeff Lembeck",
+          "avatar": "/assets/img/speakers/speaker-css-11-jeff-lembeck.jpg",
+          "talk": {
+            "title": "The Design of Developing",
+            "url": ""
+          }
         },
         {
           "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-10.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-11.jpg"
-        },
-        {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-12.jpg"
+          "avatar": "/assets/img/speakers/speaker-css-12.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },

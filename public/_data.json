@@ -9,18 +9,26 @@
   "speakers": {
     "css": [
       {
-        "name": "Jessica Dillon",
-        "avatar": "/assets/img/speakers/speaker-css-06-jessica-dillon.jpg",
+        "name": "Alan Mooiman",
+        "avatar": "/assets/img/speakers/speaker-css-04-alan-mooiman.jpg",
         "talk": {
-          "title": "Implementing a visual CSS testing framework",
+          "title": "CSS is dead, long live CSS",
           "url": ""
         }
       },
       {
-        "name": "Rachel Nabors",
-        "avatar": "/assets/img/speakers/speaker-css-07-rachel-nabors.jpg",
+        "name": "Clarissa Peterson",
+        "avatar": "/assets/img/speakers/speaker-css-09-clarissa-peterson.jpg",
         "talk": {
-          "title": "Animating the User's Experience",
+          "title": "Responsive Color",
+          "url": ""
+        }
+      },
+      {
+        "name": "Jeff Lembeck",
+        "avatar": "/assets/img/speakers/speaker-css-11-jeff-lembeck.jpg",
+        "talk": {
+          "title": "The Design of Developing",
           "url": ""
         }
       }
