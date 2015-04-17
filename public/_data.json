@@ -53,18 +53,18 @@
     ],
     "server": [
       {
-        "name": "Rebecca Murphey",
-        "avatar": "/assets/img/speakers/speaker-server-02-rebecca-murphey.jpg",
+        "name": "John Feminella",
+        "avatar": "/assets/img/speakers/speaker-server-06-john-feminella.jpg",
         "talk": {
-          "title": "Beyond [G[runt|ulp]|Broccoli]: Client-side app builds at scale",
+          "title": "A Matter of Time",
           "url": ""
         }
       },
       {
-        "name": "Adam Baldwin",
-        "avatar": "/assets/img/speakers/speaker-server-07-adam-baldwin.jpg",
+        "name": "Kevin Dela Rosa",
+        "avatar": "/assets/img/speakers/speaker-server-08-kevin-dela-rosa.jpg",
         "talk": {
-          "title": "The Art of Identifying Vulnerabilities",
+          "title": "Adding intelligence to your JS applications",
           "url": ""
         }
       }

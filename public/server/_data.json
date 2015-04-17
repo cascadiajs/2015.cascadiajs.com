@@ -51,10 +51,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-06.jpg",
+          "name": "John Feminella",
+          "avatar": "/assets/img/speakers/speaker-server-06-john-feminella.jpg",
           "talk": {
-            "title": "",
+            "title": "A Matter of Time",
             "url": ""
           }
         },
@@ -67,10 +67,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-08.jpg",
+          "name": "Kevin Dela Rosa",
+          "avatar": "/assets/img/speakers/speaker-server-08-kevin-dela-rosa.jpg",
           "talk": {
-            "title": "",
+            "title": "Adding intelligence to your JS applications",
             "url": ""
           }
         },
