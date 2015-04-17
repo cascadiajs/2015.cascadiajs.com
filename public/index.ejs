@@ -167,9 +167,14 @@
         <h3>Organizers of Cascadia<span class="thin">FEST</span></h3>
       </div>
 
-      <% for(var i=0; i<public._data.staff.organizers.length; i++) { %>
+      <% for(var key in public._data.staff.organizers) { %>
         <div class="person">
-          <%- partial('_partials/person', public._data.staff.organizers[i]) %>
+          <%- partial('_partials/person', public._data.staff.organizers[key]) %>
+        </div>
+      <% } %>
+      <% for(var key in public._data.staff.curators) { %>
+        <div class="person">
+          <%- partial('_partials/person', public._data.staff.curators[key]) %>
         </div>
       <% } %>
     </div>
