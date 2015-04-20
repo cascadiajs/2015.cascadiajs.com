@@ -9,26 +9,18 @@
   "speakers": {
     "css": [
       {
-        "name": "Alan Mooiman",
-        "avatar": "/assets/img/speakers/speaker-css-04-alan-mooiman.jpg",
+        "name": "Ricardo Vazquez",
+        "avatar": "/assets/img/speakers/speaker-css-02-ricardo-vazquez.jpg",
         "talk": {
-          "title": "CSS is dead, long live CSS",
+          "title": "[UX] The Power of Emotion and Delight: Microinteractions",
           "url": ""
         }
       },
       {
-        "name": "Clarissa Peterson",
-        "avatar": "/assets/img/speakers/speaker-css-09-clarissa-peterson.jpg",
+        "name": "Gregor Adams",
+        "avatar": "/assets/img/speakers/speaker-css-10-gregor-adams.jpg",
         "talk": {
-          "title": "Responsive Color",
-          "url": ""
-        }
-      },
-      {
-        "name": "Jeff Lembeck",
-        "avatar": "/assets/img/speakers/speaker-css-11-jeff-lembeck.jpg",
-        "talk": {
-          "title": "The Design of Developing",
+          "title": "Exploring Fractals in CSS",
           "url": ""
         }
       }
