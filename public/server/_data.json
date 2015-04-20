@@ -11,10 +11,10 @@
     "speakers": {
       "list": [
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-01.jpg",
+          "name": "Georgi Knox",
+          "avatar": "/assets/img/speakers/speaker-server-01-georgi-knox.jpg",
           "talk": {
-            "title": "",
+            "title": "Linux kernel hacking: a crash course",
             "url": ""
           }
         },
@@ -83,10 +83,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-10.jpg",
+          "name": "Greg Bulmash",
+          "avatar": "/assets/img/speakers/speaker-server-10-greg-bulmash.jpg",
           "talk": {
-            "title": "",
+            "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
             "url": ""
           }
         },

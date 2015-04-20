@@ -45,18 +45,18 @@
     ],
     "server": [
       {
-        "name": "John Feminella",
-        "avatar": "/assets/img/speakers/speaker-server-06-john-feminella.jpg",
+        "name": "Georgi Knox",
+        "avatar": "/assets/img/speakers/speaker-server-01-georgi-knox.jpg",
         "talk": {
-          "title": "A Matter of Time",
+          "title": "Linux kernel hacking: a crash course",
           "url": ""
         }
       },
       {
-        "name": "Kevin Dela Rosa",
-        "avatar": "/assets/img/speakers/speaker-server-08-kevin-dela-rosa.jpg",
+        "name": "Greg Bulmash",
+        "avatar": "/assets/img/speakers/speaker-server-10-greg-bulmash.jpg",
         "talk": {
-          "title": "Adding intelligence to your JS applications",
+          "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
           "url": ""
         }
       }
