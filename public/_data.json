@@ -27,18 +27,18 @@
     ],
     "browser": [
       {
-        "name": "Martin Gontovnikas",
-        "avatar": "/assets/img/speakers/speaker-browser-05-martin-gontovnikas.jpg",
+        "name": "Tessa Thornton",
+        "avatar": "/assets/img/speakers/speaker-browser-06-tessa-thorton.jpg",
         "talk": {
-          "title": "Death to Cookies, Long Live JSON Web Tokens",
+          "title": "Components are the future of the web: it's going to be okay",
           "url": ""
         }
       },
       {
-        "name": "Catt Small",
-        "avatar": "/assets/img/speakers/speaker-browser-07-catt-small.jpg",
+        "name": "David Catuhe",
+        "avatar": "/assets/img/speakers/speaker-browser-09-david-catuhe.jpg",
         "talk": {
-          "title": "Making Native Browser Games in the Modern Age",
+          "title": "What's new with Babylon.js v2.0",
           "url": ""
         }
       }
