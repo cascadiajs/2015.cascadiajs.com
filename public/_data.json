@@ -12,7 +12,7 @@
         "name": "Ricardo Vazquez",
         "avatar": "/assets/img/speakers/speaker-css-02-ricardo-vazquez.jpg",
         "talk": {
-          "title": "[UX] The Power of Emotion and Delight: Microinteractions",
+          "title": "The Power of Emotion and Delight: Microinteractions",
           "url": ""
         }
       },
@@ -38,7 +38,7 @@
         "name": "David Catuhe",
         "avatar": "/assets/img/speakers/speaker-browser-09-david-catuhe.jpg",
         "talk": {
-          "title": "What's new with Babylon.js v2.0",
+          "title": "3D everywhere with WebGL and Babylon.js",
           "url": ""
         }
       }
