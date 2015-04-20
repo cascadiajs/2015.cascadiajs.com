@@ -19,10 +19,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-02.jpg",
+          "name": "Ricardo Vazquez",
+          "avatar": "/assets/img/speakers/speaker-css-02-ricardo-vazquez.jpg",
           "talk": {
-            "title": "",
+            "title": "[UX] The Power of Emotion and Delight: Microinteractions",
             "url": ""
           }
         },
@@ -83,10 +83,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-10.jpg",
+          "name": "Gregor Adams",
+          "avatar": "/assets/img/speakers/speaker-css-10-gregor-adams.jpg",
           "talk": {
-            "title": "",
+            "title": "Exploring Fractals in CSS",
             "url": ""
           }
         },
