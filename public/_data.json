@@ -15,25 +15,9 @@
           "title": "Efficient Web Type, c. 1556",
           "url": ""
         }
-      },
-      {
-        "name": "Amy Lynn Taylor",
-        "avatar": "/assets/img/speakers/speaker-css-12-amy-lynn-taylor.jpg",
-        "talk": {
-          "title": "Remote and better for it",
-          "url": ""
-        }
       }
     ],
     "browser": [
-      {
-        "name": "Allen Pike",
-        "avatar": "/assets/img/speakers/speaker-browser-02-allen-pike.jpg",
-        "talk": {
-          "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
-          "url": ""
-        }
-      },
       {
         "name": "Ben Straub",
         "avatar": "/assets/img/speakers/speaker-browser-12-ben-straub.jpg",
@@ -49,14 +33,6 @@
         "avatar": "/assets/img/speakers/speaker-server-03-amy-wibowo.jpg",
         "talk": {
           "title": "Programming Building Blocks (literally)",
-          "url": ""
-        }
-      },
-      {
-        "name": "Will Scott",
-        "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
-        "talk": {
-          "title": "Scanning the internet with Node.js",
           "url": ""
         }
       }
