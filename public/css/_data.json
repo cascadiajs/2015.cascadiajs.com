@@ -11,10 +11,10 @@
     "speakers": {
       "list": [
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-01.jpg",
+          "name": "Kenneth Ormandy",
+          "avatar": "/assets/img/speakers/speaker-css-01-kenneth-ormandy.jpg",
           "talk": {
-            "title": "",
+            "title": "Efficient Web Type, c. 1556",
             "url": ""
           }
         },
@@ -99,10 +99,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-12.jpg",
+          "name": "Amy Lynn Taylor",
+          "avatar": "/assets/img/speakers/speaker-css-12-amy-lynn-taylor.jpg",
           "talk": {
-            "title": "",
+            "title": "Remote and better for it",
             "url": ""
           }
         }
