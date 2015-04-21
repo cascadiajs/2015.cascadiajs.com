@@ -91,10 +91,10 @@
           }
         },
         {
-          "name": "Will Scott",
-          "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
+          "name": "",
+          "avatar": "/assets/img/speakers/speaker-server-11.jpg",
           "talk": {
-            "title": "Scanning the internet with Node.js",
+            "title": "",
             "url": ""
           }
         },
