@@ -19,10 +19,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-browser-02.jpg",
+          "name": "Allen Pike",
+          "avatar": "/assets/img/speakers/speaker-browser-02-allen-pike.jpg",
           "talk": {
-            "title": "",
+            "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
             "url": ""
           }
         },
@@ -99,10 +99,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-browser-12.jpg",
+          "name": "Ben Straub",
+          "avatar": "/assets/img/speakers/speaker-browser-12-ben-straub.jpg",
           "talk": {
-            "title": "",
+            "title": "Hacking Culture with Javascript",
             "url": ""
           }
         }
