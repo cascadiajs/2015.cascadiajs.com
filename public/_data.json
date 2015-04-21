@@ -45,18 +45,18 @@
     ],
     "server": [
       {
-        "name": "Georgi Knox",
-        "avatar": "/assets/img/speakers/speaker-server-01-georgi-knox.jpg",
+        "name": "Amy Wibowo",
+        "avatar": "/assets/img/speakers/speaker-server-03-amy-wibowo.jpg",
         "talk": {
-          "title": "Linux kernel hacking: a crash course",
+          "title": "Programming Building Blocks (literally)",
           "url": ""
         }
       },
       {
-        "name": "Greg Bulmash",
-        "avatar": "/assets/img/speakers/speaker-server-10-greg-bulmash.jpg",
+        "name": "Will Scott",
+        "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
         "talk": {
-          "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
+          "title": "Scanning the internet with Node.js",
           "url": ""
         }
       }
