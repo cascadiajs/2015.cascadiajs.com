@@ -27,10 +27,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-03.jpg",
+          "name": "Amy Wibowo",
+          "avatar": "/assets/img/speakers/speaker-server-03-amy-wibowo.jpg",
           "talk": {
-            "title": "",
+            "title": "Programming Building Blocks (literally)",
             "url": ""
           }
         },
@@ -91,10 +91,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-11.jpg",
+          "name": "Will Scott",
+          "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
           "talk": {
-            "title": "",
+            "title": "Scanning the internet with Node.js",
             "url": ""
           }
         },
