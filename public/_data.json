@@ -9,18 +9,18 @@
   "speakers": {
     "css": [
       {
-        "name": "Ricardo Vazquez",
-        "avatar": "/assets/img/speakers/speaker-css-02-ricardo-vazquez.jpg",
+        "name": "Kenneth Ormandy",
+        "avatar": "/assets/img/speakers/speaker-css-01-kenneth-ormandy.jpg",
         "talk": {
-          "title": "The Power of Emotion and Delight: Microinteractions",
+          "title": "Efficient Web Type, c. 1556",
           "url": ""
         }
       },
       {
-        "name": "Gregor Adams",
-        "avatar": "/assets/img/speakers/speaker-css-10-gregor-adams.jpg",
+        "name": "Amy Lynn Taylor",
+        "avatar": "/assets/img/speakers/speaker-css-12-amy-lynn-taylor.jpg",
         "talk": {
-          "title": "Exploring Fractals in CSS",
+          "title": "Remote and better for it",
           "url": ""
         }
       }
