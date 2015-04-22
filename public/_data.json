@@ -29,10 +29,10 @@
     ],
     "server": [
       {
-        "name": "Amy Wibowo",
-        "avatar": "/assets/img/speakers/speaker-server-03-amy-wibowo.jpg",
+        "name": "Will Scott",
+        "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
         "talk": {
-          "title": "Programming Building Blocks (literally)",
+          "title": "Scanning the internet with Node.js",
           "url": ""
         }
       }
