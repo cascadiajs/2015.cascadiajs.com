@@ -19,10 +19,10 @@
     ],
     "browser": [
       {
-        "name": "Ben Straub",
-        "avatar": "/assets/img/speakers/speaker-browser-12-ben-straub.jpg",
+        "name": "Allen Pike",
+        "avatar": "/assets/img/speakers/speaker-browser-02-allen-pike.jpg",
         "talk": {
-          "title": "Hacking Culture with Javascript",
+          "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
           "url": ""
         }
       }
