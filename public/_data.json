@@ -29,10 +29,10 @@
     ],
     "server": [
       {
-        "name": "Will Scott",
-        "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
+        "name": "Donovan Buck",
+        "avatar": "/assets/img/speakers/speaker-server-12-donovan-buck.jpg",
         "talk": {
-          "title": "Scanning the internet with Node.js",
+          "title": "These Bots are Made for Walkin'",
           "url": ""
         }
       }
