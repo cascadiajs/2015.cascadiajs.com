@@ -8,7 +8,7 @@ To check out:
 
 ```sh
 git clone https://github.com/cascadiajs/2015.cascadiajs.com.git
-git checkout gh-pages
+git checkout harp
 ```
 
 To get running:
