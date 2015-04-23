@@ -9,10 +9,10 @@
   "speakers": {
     "css": [
       {
-        "name": "Amy Lynn Taylor",
-        "avatar": "/assets/img/speakers/speaker-css-12-amy-lynn-taylor.jpg",
+        "name": "John Brown",
+        "avatar": "/assets/img/speakers/speaker-css-08-john-brown.jpg",
         "talk": {
-          "title": "Remote and better for it",
+          "title": "Spare the art, spoil the nth-child()",
           "url": ""
         }
       }
