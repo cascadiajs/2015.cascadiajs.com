@@ -9,10 +9,10 @@
   "speakers": {
     "css": [
       {
-        "name": "John Brown",
-        "avatar": "/assets/img/speakers/speaker-css-08-john-brown.jpg",
+        "name": "Shay Howe",
+        "avatar": "/assets/img/speakers/speaker-css-03-shay-howe.jpg",
         "talk": {
-          "title": "Spare the art, spoil the nth-child()",
+          "title": "CSS as a Service: Maintaining Style",
           "url": ""
         }
       }

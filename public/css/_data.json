@@ -27,10 +27,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-03.jpg",
+          "name": "Shay Howe",
+          "avatar": "/assets/img/speakers/speaker-css-03-shay-howe.jpg",
           "talk": {
-            "title": "",
+            "title": "CSS as a Service: Maintaining Style",
             "url": ""
           }
         },
