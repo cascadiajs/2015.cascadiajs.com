@@ -2,7 +2,7 @@
 
 1. Add an entry in `_data.json`
 
-The data format is "slug": { title: " " }
+The data format is "slug": { title: " " }. Make sure to not include `.md` in the slug.
 
     {
         "hello-world": {
