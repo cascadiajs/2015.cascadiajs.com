@@ -29,10 +29,10 @@
     ],
     "server": [
       {
-        "name": "Donovan Buck",
-        "avatar": "/assets/img/speakers/speaker-server-12-donovan-buck.jpg",
+        "name": "Jennifer Wong",
+        "avatar": "/assets/img/speakers/speaker-server-04-jennifer-wong.jpg",
         "talk": {
-          "title": "These Bots are Made for Walkin'",
+          "title": "I Think I Know What You're Talking About, But I'm Not Sure",
           "url": ""
         }
       }
