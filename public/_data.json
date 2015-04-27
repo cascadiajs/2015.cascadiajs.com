@@ -19,10 +19,10 @@
     ],
     "browser": [
       {
-        "name": "Andrei Kashcha",
-        "avatar": "/assets/img/speakers/speaker-browser-11-andrei-kashcha.jpg",
+        "name": "Courtney Hemphill",
+        "avatar": "/assets/img/speakers/speaker-browser-08-courtney-hemphill.jpg",
         "talk": {
-          "title": "I see",
+          "title": "Algorithms for Animation - Simple formulas to activate your UI",
           "url": ""
         }
       }
