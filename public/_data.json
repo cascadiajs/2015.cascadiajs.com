@@ -9,10 +9,10 @@
   "speakers": {
     "css": [
       {
-        "name": "Shay Howe",
-        "avatar": "/assets/img/speakers/speaker-css-03-shay-howe.jpg",
+        "name": "Una Kravets",
+        "avatar": "/assets/img/speakers/speaker-css-06-una-kravets.jpg",
         "talk": {
-          "title": "CSS as a Service: Maintaining Style",
+          "title": "Open Source Design: A Call to Arms",
           "url": ""
         }
       }
