@@ -29,10 +29,10 @@
     ],
     "server": [
       {
-        "name": "Jennifer Wong",
-        "avatar": "/assets/img/speakers/speaker-server-04-jennifer-wong.jpg",
+        "name": "Potch",
+        "avatar": "/assets/img/speakers/speaker-server-05-potch.jpg",
         "talk": {
-          "title": "I Think I Know What You're Talking About, But I'm Not Sure",
+          "title": "Scratch That Itch - Node on the command line for fun and profit",
           "url": ""
         }
       }

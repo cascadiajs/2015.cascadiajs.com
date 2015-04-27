@@ -43,10 +43,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-server-05.jpg",
+          "name": "Potch",
+          "avatar": "/assets/img/speakers/speaker-server-05-potch.jpg",
           "talk": {
-            "title": "",
+            "title": "Scratch That Itch - Node on the command line for fun and profit",
             "url": ""
           }
         },
