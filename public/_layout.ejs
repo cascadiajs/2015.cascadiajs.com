@@ -3,10 +3,12 @@
   <%- partial("_partials/head") %>
 
   <body>
-    <%- partial("_partials/header") %>
+    <div class="site">
+      <%- partial("_partials/header") %>
 
-    <%- yield %>
+      <div class="site-content"><%- yield %></div>
 
-    <%- partial("_partials/footer") %>
+      <%- partial("_partials/footer") %>
+    </div>
   </body>
 </html>
