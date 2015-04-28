@@ -32,10 +32,10 @@
     ],
     "server": [
       {
-        "name": "Potch",
-        "avatar": "/assets/img/speakers/speaker-server-05-potch.jpg",
+        "name": "Michael Lanzetta",
+        "avatar": "/assets/img/speakers/speaker-server-09-michael-lanzetta.jpg",
         "talk": {
-          "title": "Scratch That Itch - Node on the command line for fun and profit",
+          "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Saas and Containerization",
           "url": ""
         }
       }
