@@ -21,11 +21,11 @@
       }
     ],
     "browser": [
-      {
-        "name": "Courtney Hemphill",
-        "avatar": "/assets/img/speakers/speaker-browser-08-courtney-hemphill.jpg",
+       {
+        "name": "Dave Justice",
+        "avatar": "/assets/img/speakers/speaker-browser-10-dave-justice.jpg",
         "talk": {
-          "title": "Algorithms for Animation - Simple formulas to activate your UI",
+          "title": "Making Waves with DSP on the net",
           "url": ""
         }
       }
