@@ -83,10 +83,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-browser-10.jpg",
+          "name": "Dave Justice",
+          "avatar": "/assets/img/speakers/speaker-browser-10-dave-justice.jpg",
           "talk": {
-            "title": "",
+            "title": "Making Waves with DSP on the net",
             "url": ""
           }
         },
