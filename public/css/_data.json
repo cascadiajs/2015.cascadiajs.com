@@ -43,10 +43,10 @@
           }
         },
         {
-          "name": "",
-          "avatar": "/assets/img/speakers/speaker-css-05.jpg",
+          "name": "Seth Vincent",
+          "avatar": "/assets/img/speakers/speaker-css-05-seth-vincent.jpg",
           "talk": {
-            "title": "",
+            "title": "css via npm",
             "url": ""
           }
         },
