@@ -558,3 +558,59 @@ table.schedule {
     h4 { margin-bottom: 3px; }
   }
 }
+
+// Sticky Footer
+
+body {
+  height: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+header,
+footer {
+  flex: none;
+}
+
+.site-content {
+  flex: 1 0 auto;
+  width: 100%;
+}
+
+// 404
+
+.fourohfour-title {
+  margin: 0;
+  margin-top: 24px;
+  font-family: Nanami-Rounded-Med;
+  font-size: 100px;
+  letter-spacing: 0;
+  line-height: 1;
+  text-align: center;
+}
+
+.fourohfour-subhead {
+  margin: 0 0 10px;
+  font-size: 36px;
+  letter-spacing: 0;
+}
+
+.fourohfour-content {
+  margin-top: 24px;
+}
+
+@media (min-width: 1200px) {
+  .fourohfour-title {
+    margin-top: 40px;
+    font-size: 200px;
+  }
+
+  .fourohfour-content {
+    margin-top: 65px;
+    margin-left: 24px;
+  }
+}
