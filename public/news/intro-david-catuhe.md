@@ -1,7 +1,7 @@
 #Introducing David Catuhe
 ##Browser Day, CascadiaFest 2015
 
-<img src="/assets/img/speakers/speaker-browser-09-david-catuhe.jpg" alt="It's David Catuhe!" />
+<img src="/assets/img/speakers/browser-09-david-catuhe.jpg" alt="It's David Catuhe!" />
 
 David Catuhe - a self-professed "3D addict since the prehistoric age of computing" will show us how to do awesome 3D with nothing more than a modern browser! David has kindly agreed to answer a few questions for us:
 

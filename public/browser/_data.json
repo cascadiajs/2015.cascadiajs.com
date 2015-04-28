@@ -12,7 +12,7 @@
       "list": [
         {
           "name": "Myles Borins",
-          "avatar": "/assets/img/speakers/speaker-browser-01-myles-borins.jpg",
+          "avatar": "/assets/img/speakers/browser-01-myles-borins.jpg",
           "talk": {
             "title": "It's not me it's you: on the fallibility of large systems",
             "url": ""
@@ -20,7 +20,7 @@
         },
         {
           "name": "Allen Pike",
-          "avatar": "/assets/img/speakers/speaker-browser-02-allen-pike.jpg",
+          "avatar": "/assets/img/speakers/browser-02-allen-pike.jpg",
           "talk": {
             "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
             "url": ""
@@ -28,7 +28,7 @@
         },
         {
           "name": "Ashley Williams",
-          "avatar": "/assets/img/speakers/speaker-browser-03-ashley-williams.jpg",
+          "avatar": "/assets/img/speakers/browser-03-ashley-williams.jpg",
           "talk": {
             "title": "If you wish to learn ES6/2015 from scratch, you must first invent the universe",
             "url": ""
@@ -36,7 +36,7 @@
         },
         {
           "name": "Jana Beck",
-          "avatar": "/assets/img/speakers/speaker-browser-04-jana-beck.jpg",
+          "avatar": "/assets/img/speakers/browser-04-jana-beck.jpg",
           "talk": {
             "title": "Power Tools for Powerful Visualization",
             "url": ""
@@ -44,7 +44,7 @@
         },
         {
           "name": "Martin Gontovnikas",
-          "avatar": "/assets/img/speakers/speaker-browser-05-martin-gontovnikas.jpg",
+          "avatar": "/assets/img/speakers/browser-05-martin-gontovnikas.jpg",
           "talk": {
             "title": "Death to Cookies, Long Live JSON Web Tokens",
             "url": ""
@@ -52,7 +52,7 @@
         },
         {
           "name": "Tessa Thornton",
-          "avatar": "/assets/img/speakers/speaker-browser-06-tessa-thorton.jpg",
+          "avatar": "/assets/img/speakers/browser-06-tessa-thorton.jpg",
           "talk": {
             "title": "Components are the future of the web: it's going to be okay",
             "url": ""
@@ -60,7 +60,7 @@
         },
         {
           "name": "Catt Small",
-          "avatar": "/assets/img/speakers/speaker-browser-07-catt-small.jpg",
+          "avatar": "/assets/img/speakers/browser-07-catt-small.jpg",
           "talk": {
             "title": "Making Native Browser Games in the Modern Age",
             "url": ""
@@ -68,7 +68,7 @@
         },
         {
           "name": "Courtney Hemphill",
-          "avatar": "/assets/img/speakers/speaker-browser-08-courtney-hemphill.jpg",
+          "avatar": "/assets/img/speakers/browser-08-courtney-hemphill.jpg",
           "talk": {
             "title": "Algorithms for Animation - Simple formulas to activate your UI",
             "url": ""
@@ -76,7 +76,7 @@
         },
         {
           "name": "David Catuhe",
-          "avatar": "/assets/img/speakers/speaker-browser-09-david-catuhe.jpg",
+          "avatar": "/assets/img/speakers/browser-09-david-catuhe.jpg",
           "talk": {
             "title": "3D everywhere with WebGL and Babylon.js",
             "url": ""
@@ -84,7 +84,7 @@
         },
         {
           "name": "Dave Justice",
-          "avatar": "/assets/img/speakers/speaker-browser-10-dave-justice.jpg",
+          "avatar": "/assets/img/speakers/browser-10-dave-justice.jpg",
           "talk": {
             "title": "Making Waves with DSP on the net",
             "url": ""
@@ -92,7 +92,7 @@
         },
         {
           "name": "Andrei Kashcha",
-          "avatar": "/assets/img/speakers/speaker-browser-11-andrei-kashcha.jpg",
+          "avatar": "/assets/img/speakers/browser-11-andrei-kashcha.jpg",
           "talk": {
             "title": "I see",
             "url": ""
@@ -100,7 +100,7 @@
         },
         {
           "name": "Ben Straub",
-          "avatar": "/assets/img/speakers/speaker-browser-12-ben-straub.jpg",
+          "avatar": "/assets/img/speakers/browser-12-ben-straub.jpg",
           "talk": {
             "title": "Hacking Culture with Javascript",
             "url": ""
