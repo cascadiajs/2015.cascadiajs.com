@@ -1,10 +1,14 @@
 {
-  "intro-david-catuhe": {
-    "title": "Introducing David Catuhe",
-    "abstract": "As a way of introducing our astonishing array of speakers, they have kindly agreed to answer a few questions for us. Here is David Catuhe ('a 3D addict since the prehistoric age of computing'), who will show us how to do awesome 3D with nothing more than a modern browser!"
+  "intro-catt-small": {
+    "title": "Introducing Catt Small",
+    "abstract": "Catt Small is a Product Designer interested in how people interact with tech and her talk is about the death of Flash and rise of JavaScript games!"
   },
   "intro-allen-pike": {
     "title": "Introducing Allen Pike",
     "abstract": "Allen Pike runs Steamclock Software in Vancouver. His talk is about the causes and consequences of JavaScript’s turbulent framework ecosystem."
+  },
+  "intro-david-catuhe": {
+    "title": "Introducing David Catuhe",
+    "abstract": "As a way of introducing our astonishing array of speakers, they have kindly agreed to answer a few questions for us. Here is David Catuhe ('a 3D addict since the prehistoric age of computing'), who will show us how to do awesome 3D with nothing more than a modern browser!"
   }
 }
