@@ -1,7 +1,7 @@
 #Introducing Catt Small
 ##Browser Day, CascadiaFest 2015
 
-<img src="/assets/img/speakers/speaker-browser-07-catt-small.jpg" alt="It's Catt Small!" />
+<img src="/assets/img/speakers/browser-07-catt-small.jpg" alt="It's Catt Small!" />
 
 Catt Small is a Product Designer interested in how people interact with tech and her talk is about the death of Flash and rise of JavaScript games! Here are Catt's answers to our questions:
 

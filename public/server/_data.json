@@ -12,7 +12,7 @@
       "list": [
         {
           "name": "Georgi Knox",
-          "avatar": "/assets/img/speakers/speaker-server-01-georgi-knox.jpg",
+          "avatar": "/assets/img/speakers/server-01-georgi-knox.jpg",
           "talk": {
             "title": "Linux kernel hacking: a crash course",
             "url": ""
@@ -20,7 +20,7 @@
         },
         {
           "name": "Rebecca Murphey",
-          "avatar": "/assets/img/speakers/speaker-server-02-rebecca-murphey.jpg",
+          "avatar": "/assets/img/speakers/server-02-rebecca-murphey.jpg",
           "talk": {
             "title": "",
             "url": ""
@@ -28,7 +28,7 @@
         },
         {
           "name": "Amy Wibowo",
-          "avatar": "/assets/img/speakers/speaker-server-03-amy-wibowo.jpg",
+          "avatar": "/assets/img/speakers/server-03-amy-wibowo.jpg",
           "talk": {
             "title": "Programming Building Blocks (literally)",
             "url": ""
@@ -36,7 +36,7 @@
         },
         {
           "name": "Jennifer Wong",
-          "avatar": "/assets/img/speakers/speaker-server-04-jennifer-wong.jpg",
+          "avatar": "/assets/img/speakers/server-04-jennifer-wong.jpg",
           "talk": {
             "title": "I Think I Know What You're Talking About, But I'm Not Sure",
             "url": ""
@@ -44,7 +44,7 @@
         },
         {
           "name": "Potch",
-          "avatar": "/assets/img/speakers/speaker-server-05-potch.jpg",
+          "avatar": "/assets/img/speakers/server-05-potch.jpg",
           "talk": {
             "title": "Scratch That Itch - Node on the command line for fun and profit",
             "url": ""
@@ -52,7 +52,7 @@
         },
         {
           "name": "John Feminella",
-          "avatar": "/assets/img/speakers/speaker-server-06-john-feminella.jpg",
+          "avatar": "/assets/img/speakers/server-06-john-feminella.jpg",
           "talk": {
             "title": "A Matter of Time",
             "url": ""
@@ -60,7 +60,7 @@
         },
         {
           "name": "Adam Baldwin",
-          "avatar": "/assets/img/speakers/speaker-server-07-adam-baldwin.jpg",
+          "avatar": "/assets/img/speakers/server-07-adam-baldwin.jpg",
           "talk": {
             "title": "The Art of Identifying Vulnerabilities",
             "url": ""
@@ -68,7 +68,7 @@
         },
         {
           "name": "Kevin Dela Rosa",
-          "avatar": "/assets/img/speakers/speaker-server-08-kevin-dela-rosa.jpg",
+          "avatar": "/assets/img/speakers/server-08-kevin-dela-rosa.jpg",
           "talk": {
             "title": "Adding intelligence to your JS applications",
             "url": ""
@@ -76,7 +76,7 @@
         },
         {
           "name": "Michael Lanzetta",
-          "avatar": "/assets/img/speakers/speaker-server-09-michael-lanzetta.jpg",
+          "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
           "talk": {
             "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Saas and Containerization",
             "url": ""
@@ -84,7 +84,7 @@
         },
         {
           "name": "Greg Bulmash",
-          "avatar": "/assets/img/speakers/speaker-server-10-greg-bulmash.jpg",
+          "avatar": "/assets/img/speakers/server-10-greg-bulmash.jpg",
           "talk": {
             "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
             "url": ""
@@ -92,7 +92,7 @@
         },
         {
           "name": "Will Scott",
-          "avatar": "/assets/img/speakers/speaker-server-11-will-scott.jpg",
+          "avatar": "/assets/img/speakers/server-11-will-scott.jpg",
           "talk": {
             "title": "Scanning the internet with Node.js",
             "url": ""
@@ -100,7 +100,7 @@
         },
         {
           "name": "Donovan Buck",
-          "avatar": "/assets/img/speakers/speaker-server-12-donovan-buck.jpg",
+          "avatar": "/assets/img/speakers/server-12-donovan-buck.jpg",
           "talk": {
             "title": "These Bots are Made for Walkin'",
             "url": ""

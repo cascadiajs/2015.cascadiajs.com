@@ -12,7 +12,7 @@
       "list": [
         {
           "name": "Kenneth Ormandy",
-          "avatar": "/assets/img/speakers/speaker-css-01-kenneth-ormandy.jpg",
+          "avatar": "/assets/img/speakers/css-01-kenneth-ormandy.jpg",
           "talk": {
             "title": "Efficient Web Type, c. 1556",
             "url": ""
@@ -20,7 +20,7 @@
         },
         {
           "name": "Ricardo Vazquez",
-          "avatar": "/assets/img/speakers/speaker-css-02-ricardo-vazquez.jpg",
+          "avatar": "/assets/img/speakers/css-02-ricardo-vazquez.jpg",
           "talk": {
             "title": "The Power of Emotion and Delight: Microinteractions",
             "url": ""
@@ -28,7 +28,7 @@
         },
         {
           "name": "Shay Howe",
-          "avatar": "/assets/img/speakers/speaker-css-03-shay-howe.jpg",
+          "avatar": "/assets/img/speakers/css-03-shay-howe.jpg",
           "talk": {
             "title": "CSS as a Service: Maintaining Style",
             "url": ""
@@ -36,7 +36,7 @@
         },
         {
           "name": "Alan Mooiman",
-          "avatar": "/assets/img/speakers/speaker-css-04-alan-mooiman.jpg",
+          "avatar": "/assets/img/speakers/css-04-alan-mooiman.jpg",
           "talk": {
             "title": "CSS is dead, long live CSS",
             "url": ""
@@ -44,7 +44,7 @@
         },
         {
           "name": "Seth Vincent",
-          "avatar": "/assets/img/speakers/speaker-css-05-seth-vincent.jpg",
+          "avatar": "/assets/img/speakers/css-05-seth-vincent.jpg",
           "talk": {
             "title": "css via npm",
             "url": ""
@@ -52,7 +52,7 @@
         },
         {
           "name": "Una Kravets",
-          "avatar": "/assets/img/speakers/speaker-css-06-una-kravets.jpg",
+          "avatar": "/assets/img/speakers/css-06-una-kravets.jpg",
           "talk": {
             "title": "Open Source Design: A Call to Arms",
             "url": ""
@@ -60,7 +60,7 @@
         },
         {
           "name": "Rachel Nabors",
-          "avatar": "/assets/img/speakers/speaker-css-07-rachel-nabors.jpg",
+          "avatar": "/assets/img/speakers/css-07-rachel-nabors.jpg",
           "talk": {
             "title": "Animating the User's Experience",
             "url": ""
@@ -68,7 +68,7 @@
         },
         {
           "name": "John Brown",
-          "avatar": "/assets/img/speakers/speaker-css-08-john-brown.jpg",
+          "avatar": "/assets/img/speakers/css-08-john-brown.jpg",
           "talk": {
             "title": "Spare the art, spoil the nth-child()",
             "url": ""
@@ -76,7 +76,7 @@
         },
         {
           "name": "Clarissa Peterson",
-          "avatar": "/assets/img/speakers/speaker-css-09-clarissa-peterson.jpg",
+          "avatar": "/assets/img/speakers/css-09-clarissa-peterson.jpg",
           "talk": {
             "title": "Responsive Color",
             "url": ""
@@ -84,7 +84,7 @@
         },
         {
           "name": "Gregor Adams",
-          "avatar": "/assets/img/speakers/speaker-css-10-gregor-adams.jpg",
+          "avatar": "/assets/img/speakers/css-10-gregor-adams.jpg",
           "talk": {
             "title": "Exploring Fractals in CSS",
             "url": ""
@@ -92,7 +92,7 @@
         },
         {
           "name": "Jeff Lembeck",
-          "avatar": "/assets/img/speakers/speaker-css-11-jeff-lembeck.jpg",
+          "avatar": "/assets/img/speakers/css-11-jeff-lembeck.jpg",
           "talk": {
             "title": "The Design of Developing",
             "url": ""
@@ -100,7 +100,7 @@
         },
         {
           "name": "Amy Lynn Taylor",
-          "avatar": "/assets/img/speakers/speaker-css-12-amy-lynn-taylor.jpg",
+          "avatar": "/assets/img/speakers/css-12-amy-lynn-taylor.jpg",
           "talk": {
             "title": "Remote and better for it",
             "url": ""
