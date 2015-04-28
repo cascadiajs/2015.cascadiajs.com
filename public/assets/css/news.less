@@ -1,0 +1,71 @@
+.post {
+  padding-top: 2rem;
+  max-width: 730px;
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.post-header {
+  text-align: center;
+}
+
+.post-title {
+  margin: 0;
+}
+
+.post-subtitle {
+  margin-top: 6px;
+  color: #61A55C;
+  text-transform: uppercase;
+}
+
+// Specificity hack because of `.news h2` selector above.
+.post-header {
+  .post-subtitle {
+    font-size: 1.5rem;
+  }
+}
+
+.post-avatar {
+  width: 250px;
+  margin-top: 2rem;
+  padding: 1em;
+  border: 1px solid #ddd;
+}
+
+.post-content {
+  padding-top: 3.5rem;
+}
+
+.post-speaker .post-content {
+  blockquote {
+    padding: 0;
+    border: 0;
+    font-size: 1em;
+  }
+
+  > p > em {
+    display: block;
+    margin-top: 2rem;
+    font-style: normal;
+    font-weight: 700;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .post-content {
+    font-size: 1.8rem;
+
+    > p:first-child {
+      font-size: 2.1rem;
+      margin-bottom: 3.5rem;
+    }
+  }
+
+  .post-speaker .post-content {
+    > p > em {
+      margin-top: 3.5rem;
+    }
+  }
+}
