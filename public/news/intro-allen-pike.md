@@ -1,8 +1,3 @@
-#Introducing Allen Pike
-##Browser Day, CascadiaFest 2015
-
-<img src="/assets/img/speakers/browser-02-allen-pike.jpg" alt="It's Allen Pike!" />
-
 Allen Pike runs Steamclock Software in Vancouver. His talk is about the causes and consequences of JavaScript’s turbulent framework ecosystem. Allen has answered some questions for us:
 
 *As a Cascadian, what's your favorite local activity?*
