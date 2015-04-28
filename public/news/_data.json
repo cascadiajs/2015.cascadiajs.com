@@ -1,22 +1,22 @@
 {
   "intro-catt-small": {
+    "layout": "_layout_speaker",
     "title": "Introducing Catt Small",
     "day": "browser",
-    "speakerIntro": true,
     "photo": "browser-07-catt-small.jpg",
     "abstract": "Catt Small is a Product Designer interested in how people interact with tech and her talk is about the death of Flash and rise of JavaScript games!"
   },
   "intro-allen-pike": {
+    "layout": "_layout_speaker",
     "title": "Introducing Allen Pike",
     "day": "browser",
-    "speakerIntro": true,
     "photo": "browser-02-allen-pike.jpg",
     "abstract": "Allen Pike runs Steamclock Software in Vancouver. His talk is about the causes and consequences of JavaScript’s turbulent framework ecosystem."
   },
   "intro-david-catuhe": {
+    "layout": "_layout_speaker",
     "title": "Introducing David Catuhe",
     "day": "browser",
-    "speakerIntro": true,
     "photo": "browser-09-david-catuhe.jpg",
     "abstract": "As a way of introducing our astonishing array of speakers, they have kindly agreed to answer a few questions for us. Here is David Catuhe ('a 3D addict since the prehistoric age of computing'), who will show us how to do awesome 3D with nothing more than a modern browser!"
   }
