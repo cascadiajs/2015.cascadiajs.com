@@ -8,7 +8,7 @@ posts are sorted reverse chronologically
   ```
   {
       "hello-world": {
-        "title": "Hello World",
+        "postTitle": "Hello World",
         "abstract": "This is a short description about this news post"
       }
   }

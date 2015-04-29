@@ -46,13 +46,12 @@
         <h2><a href="/css/">Cascadia<span class="thin">CSS</span></a></h2>
 
         <%
-        for(var i=0;i<public._data.speakers.css.length;i++) {
-          var speaker = public._data.speakers.css[i];
+        public._data.speakers.css.forEach(function (speakerID) {
+          var speakerData = public.speakers._data.index.speakers.css[speakerID];
           %>
-
-          <%- partial("speakers/_partials/poloroid", speaker) %>
-        <%
-        }
+          <%- partial("speakers/_partials/poloroid", speakerData) %>
+          <%
+        })
         %>
 
         <p class="see-all-speakers">
@@ -66,13 +65,12 @@
         <h2><a href="/browser/">Cascadia<span class="thin">JS</span>: Browser Day</a></h2>
 
         <%
-        for(var i=0;i<public._data.speakers.browser.length;i++) {
-          var speaker = public._data.speakers.browser[i];
+        public._data.speakers.browser.forEach(function (speakerID) {
+          var speakerData = public.speakers._data.index.speakers.browser[speakerID];
           %>
-
-          <%- partial("speakers/_partials/poloroid", speaker) %>
-        <%
-        }
+          <%- partial("speakers/_partials/poloroid", speakerData) %>
+          <%
+        })
         %>
 
         <p class="see-all-speakers">
@@ -86,13 +84,12 @@
         <h2><a href="/server/">Cascadia<span class="thin">JS</span>: Server Day</a></h2>
 
         <%
-        for(var i=0;i<public._data.speakers.server.length;i++) {
-          var speaker = public._data.speakers.server[i];
+        public._data.speakers.server.forEach(function (speakerID) {
+          var speakerData = public.speakers._data.index.speakers.server[speakerID];
           %>
-
-          <%- partial("speakers/_partials/poloroid", speaker) %>
-        <%
-        }
+          <%- partial("speakers/_partials/poloroid", speakerData) %>
+          <%
+        })
         %>
 
         <p class="see-all-speakers">

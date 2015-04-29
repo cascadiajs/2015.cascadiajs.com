@@ -8,13 +8,13 @@
         <% for(var slug in public.news._data){
           var metadata = public.news._data[slug];
 
-          if(metadata.layout == '_layout_speaker' && typeof metadata.title == 'undefined') {
+          if(metadata.layout == '_layout_speaker' && typeof metadata.postTitle == 'undefined') {
             var speakerData = public.speakers._data.index.speakers[metadata.day][metadata.speakerID];
 
-            metadata.title = 'Introducing ' + speakerData.name;
+            metadata.postTitle = 'Introducing ' + speakerData.name;
           }
           %>
-          <h2><a href="/news/<%= slug %>"><%= public.news._data[slug].title %></a></h2>
+          <h2><a href="/news/<%= slug %>"><%= public.news._data[slug].postTitle %></a></h2>
           <p class="lead"><%- public.news._data[slug].abstract %></p>
         <% }; %>
 
