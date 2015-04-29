@@ -1,8 +1,8 @@
 <%
 var speakerData = public.speakers._data.index.speakers[day][speakerID];
 
-if(typeof title == 'undefined') {
-  title = 'Introducing ' + speakerData.name;
+if(typeof postTitle == 'undefined') {
+  var postTitle = 'Introducing ' + speakerData.name;
 }
 %>
 <!doctype html>
@@ -23,7 +23,7 @@ if(typeof title == 'undefined') {
 
                 <div class="post post-speaker">
                   <div class="post-header">
-                    <h1 class="post-title"><%- title %></h1>
+                    <h1 class="post-title"><%- postTitle %></h1>
 
                     <h2 class="post-subtitle">
                       <% if (day === 'browser') { %>

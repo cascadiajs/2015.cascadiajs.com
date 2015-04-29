@@ -10,36 +10,9 @@
   "stylesheet": "/assets/css/style.css",
   "scripts": [],
   "speakers": {
-    "css": [
-      {
-        "name": "Seth Vincent",
-        "avatar": "/assets/img/speakers/css-05-seth-vincent.jpg",
-        "talk": {
-          "title": "css via npm",
-          "url": ""
-        }
-      }
-    ],
-    "browser": [
-       {
-        "name": "Dave Justice",
-        "avatar": "/assets/img/speakers/browser-10-dave-justice.jpg",
-        "talk": {
-          "title": "Making Waves with DSP on the net",
-          "url": ""
-        }
-      }
-    ],
-    "server": [
-      {
-        "name": "Michael Lanzetta",
-        "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
-        "talk": {
-          "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Saas and Containerization",
-          "url": ""
-        }
-      }
-    ]
+    "css": [4],
+    "browser": [9],
+    "server": [8]
   },
   "sponsors": [
       {
