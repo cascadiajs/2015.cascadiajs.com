@@ -1,4 +1,11 @@
 {
+  "intro-gregor-adams": {
+    "layout": "_layout_speaker",
+    "title": "Introducing Gregor Adams",
+    "day": "css",
+    "photo": "css-10-gregor-adams.jpg",
+    "abstract": "Gregor Adams is a front-end developer and architect at SINNERSCHRADER in Munich, Germany. He'll be speaking at CascadiaCSS about building fractals with CSS"
+  },
   "intro-catt-small": {
     "layout": "_layout_speaker",
     "title": "Introducing Catt Small",
