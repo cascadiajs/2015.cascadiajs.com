@@ -19,11 +19,12 @@ posts are sorted reverse chronologically
   ```
   "intro-awesome-speaker": {
       "layout": "_layout_speaker",
-      "title": "Introducing This Awesome Guy",
       "day": "browser",
-      "photo": "browser-02-mugshot.jpg",
+      "speakerID": 1,
       "abstract": "..."
   }
   ```
+
+  The best way to find the speakerID is to look at their avatar src and subtract 1.
 
 2. Write your news post. Make it a file in this directory called `hello-world.md`

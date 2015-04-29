@@ -1,3 +1,10 @@
+<%
+var speakerData = public.speakers._data.index.speakers[day][speakerID];
+
+if(typeof title == 'undefined') {
+  title = 'Introducing ' + speakerData.name;
+}
+%>
 <!doctype html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   <%- partial("../_partials/head") %>
@@ -36,7 +43,7 @@
 
                     <img
                       class="post-avatar"
-                      src="/assets/img/speakers/<%- photo %>"
+                      src="<%- speakerData.avatar %>"
                       alt="" />
                   </div>
 
