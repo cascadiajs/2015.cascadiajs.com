@@ -6,11 +6,11 @@
         <h3 class="text-center">Speakers</h3>
       </div>
         <%
-        for(var i=0;i<list.length;i++) {
-          list[i].classname = 'col-sm-3';
+        for(var i=0;i<speakers.length;i++) {
+          speakers[i].classname = 'col-sm-3';
           %>
 
-          <%- partial("../speaker", list[i]) %>
+          <%- partial("../speaker", speakers[i]) %>
         <% } %>
 
       </div>
