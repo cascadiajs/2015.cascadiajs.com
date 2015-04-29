@@ -13,6 +13,7 @@ html {
 
 body {
   text-rendering: optimizeLegibility;
+  padding-top: 64px;
 }
 
 .content .row {
@@ -596,34 +597,56 @@ table.schedule {
       margin: 0 .5em .5em;
     }
   }
+}
 
-  .day-speakers {
-    text-align: center;
+.day-speakers {
+  text-align: center;
+
+  .speaker-header {
+    color: white;
+    padding: 1em;
+    margin-bottom: 1em;
 
     h3 {
-      text-align: left;
-      padding-bottom: .5em;
-      border-bottom: 1px solid #ddd;
+      margin: 0;
     }
+  }
 
-    .speaker {
-      text-align: left;
-      margin-bottom: 2em;
+  .header-css {
+    background: rebeccapurple;
+  }
 
-      .inner {
-        padding: 1em;
-        border: 1px solid #ddd;
-        min-height: 343px;
+  .header-browser {
+    background: #60713e;
+  }
 
-        p {
-          font-size: 1.4rem;
-          margin: 0;
-        }
+  .header-server {
+    background: #eb7e2f;
+  }
+
+  h3 {
+    text-align: left;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .speaker {
+    text-align: left;
+    margin-bottom: 2em;
+
+    .inner {
+      padding: 1em;
+      border: 1px solid #ddd;
+      min-height: 343px;
+
+      p {
+        font-size: 1.4rem;
+        margin: 0;
       }
     }
-
-    h4 { margin-bottom: 0px; }
   }
+
+  h4 { margin-bottom: 0px; }
 }
 
 .contributor {
