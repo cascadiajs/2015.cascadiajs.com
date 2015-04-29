@@ -28,9 +28,9 @@
       <%- partial("../_partials/day/schedule", schedule) %>
     <% } %>
 
-    <% if(typeof speakers !== 'undefined') { %>
-      <%- partial("../_partials/day/speakers", speakers) %>
-    <% } %>
+    <%- partial("../_partials/day/speakers", { "speakers":
+      public.speakers._data.index.speakers.css
+    }) %>
 
     <% if(typeof sponsorConfig !== 'undefined') { %>
       <%- partial("../_partials/day/sponsors", sponsorConfig) %>
