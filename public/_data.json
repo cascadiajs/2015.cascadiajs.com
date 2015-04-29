@@ -8,7 +8,10 @@
   "title": "CascadiaFest 2015",
   "description": "CascadiaFest is a three-day, community-driven conference on the cutting edge of JavaScript & CSS. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
   "stylesheet": "/assets/css/style.css",
-  "scripts": [],
+  "scripts": [
+    "/assets/js/jquery-1.11.2.min.js",
+    "/assets/js/bootstrap.min.js"
+  ],
   "speakers": {
     "css": [4],
     "browser": [9],
