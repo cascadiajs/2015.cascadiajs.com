@@ -9,7 +9,7 @@
   <% public.speakers._data.index.speakers.css.forEach(function (speaker) {
     speaker.classname = 'col-sm-3';
     %>
-    <%- partial("../_partials/speaker", speaker) %>
+    <%- partial("_partials/poloroid", speaker) %>
   <% }); %>
 </div>
 
@@ -24,7 +24,7 @@
   <% public.speakers._data.index.speakers.browser.forEach(function (speaker) {
     speaker.classname = 'col-sm-3';
     %>
-    <%- partial("../_partials/speaker", speaker) %>
+    <%- partial("_partials/poloroid", speaker) %>
   <% }); %>
 </div>
 
@@ -38,7 +38,7 @@
   <% public.speakers._data.index.speakers.server.forEach(function (speaker) {
     speaker.classname = 'col-sm-3';
     %>
-    <%- partial("../_partials/speaker", speaker) %>
+    <%- partial("_partials/poloroid", speaker) %>
   <% }); %>
 </div>
 

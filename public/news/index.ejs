@@ -5,7 +5,15 @@
     <div class="row">
       <div class="col-xs-12">
 
-        <% for(var slug in public.news._data){ %>
+        <% for(var slug in public.news._data){
+          var metadata = public.news._data[slug];
+
+          if(metadata.layout == '_layout_speaker' && typeof metadata.title == 'undefined') {
+            var speakerData = public.speakers._data.index.speakers[metadata.day][metadata.speakerID];
+
+            metadata.title = 'Introducing ' + speakerData.name;
+          }
+          %>
           <h2><a href="/news/<%= slug %>"><%= public.news._data[slug].title %></a></h2>
           <p class="lead"><%- public.news._data[slug].abstract %></p>
         <% }; %>
