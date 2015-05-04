@@ -199,10 +199,10 @@
       ],
       "server": [
         {
-          "name": "Georgi Knox",
-          "avatar": "/assets/img/speakers/server-01-georgi-knox.jpg",
+          "name": "Parashuram N",
+          "avatar": "/assets/img/speakers/server-01-parashuram-n.jpg",
           "talk": {
-            "title": "Linux kernel hacking: a crash course",
+            "title": "Automating Web Performance Measurement",
             "url": ""
           }
         },
