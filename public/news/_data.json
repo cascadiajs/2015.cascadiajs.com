@@ -1,4 +1,10 @@
 {
+  "intro-jeff-lembeck": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "10",
+    "abstract": "Jeff Lembeck is a developer at Filament Group and a full-on coffee-roasting Seattleite. He'll be speaking at CascadiaCSS about using design principles to create great developer tools."
+  },
   "intro-gregor-adams": {
     "layout": "_layout_speaker",
     "day": "css",
