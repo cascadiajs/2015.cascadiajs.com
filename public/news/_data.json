@@ -1,4 +1,10 @@
 {
+  "intro-shay-howe": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "2",
+    "abstract": "Shay Howe is a designer and front-end developer at Belly in Chicago, IL. He'll be speaking at CascadiaCSS about sharing modular HTML and CSS components through a service-based architecture."
+  },
   "intro-jeff-lembeck": {
     "layout": "_layout_speaker",
     "day": "css",
