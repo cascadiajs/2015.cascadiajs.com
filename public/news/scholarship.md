@@ -4,9 +4,9 @@ CascadiaFest 2015 Scholarship
 CascadiaFest exists to educate and grow the Javascript community in the Pacific Northwest. We are excited to announce that we will be granting scholarships for our upcoming conference. We are constantly seeking new ways to make our community broader and more inclusive. What is building diversity to us? Encouraging community members from any underrepresented group in tech to attend and participate. This scholarship is open to residents of the PNW who are able to travel to Blaine, WA for July 8-10.
 
 The recipients are awarded:
-- a CascadiaFest ticket to all 3 days of the conference
-- lodging for the nights of July 7, 8, 9, and 10
-- train ride to and from Bellingham, WA(with a shuttle to and from the resort)
+* a CascadiaFest ticket to all 3 days of the conference
+* lodging for the nights of July 7, 8, 9, and 10
+* train ride to and from Bellingham, WA (with a shuttle to and from the resort)
 
 If you aren't a member of an underrepresented group in tech, we ask that you please help us in our outreach efforts. Take a moment to share this application with relevant people or organizations. If you know of any companies (maybe yours?) that helps fund diversity in tech initiatives, feel free to connect them to us at info@cascadiajs.com.
 
