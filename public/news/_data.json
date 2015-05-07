@@ -1,4 +1,8 @@
 {
+  "scholarship": {
+    "postTitle": "CascadiaFest 2015 Scholarship",
+    "abstract": "CascadiaFest exists to educate and grow the Javascript community in the Pacific Northwest. We are excited to announce that we will be granting scholarships for our upcoming conference."
+  },
   "intro-martin-gontovnikas": {
     "layout": "_layout_speaker",
     "day": "browser",
