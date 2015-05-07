@@ -7,7 +7,7 @@
     "layout": "_layout_speaker",
     "day": "browser",
     "speakerID": "4",
-    "abstract": "Gonto is a tech nerd who <3 OSS, JS, meat and a good beer in that order. At his CascadiaFest talk, we'll learn how to add authentication to a SPA with a live coding session in which we'll go from a regular SPA to a fully secured one with JWTs."
+    "abstract": "Gonto is a tech nerd who loves OSS, JS, meat and a good beer in that order. At his CascadiaFest talk, we'll learn how to add authentication to a SPA with a live coding session in which we'll go from a regular SPA to a fully secured one with JWTs."
   },
   "intro-shay-howe": {
     "layout": "_layout_speaker",
