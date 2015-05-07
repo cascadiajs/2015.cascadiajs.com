@@ -19,6 +19,13 @@
   },
   "sponsors": [
       {
+        "name": "Groupon",
+        "url": "https://jobs.groupon.com/",
+        "logo": "/assets/img/sponsors/groupon/groupon-logo.svg",
+        "description": "",
+        "visible": ["browser"]
+      },
+      {
         "name": "Esri",
         "url": "http://www.esri.com/",
         "logo": "/assets/img/sponsors/esri/esri-logo.svg",
