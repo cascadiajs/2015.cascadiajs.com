@@ -1,4 +1,4 @@
-The abstractions added by ES6/2015 are gonna be awesome, but as they become idiomatic, we'll need to rethink how we teach JavaScript to beginners. Ashley Williams has some ideas, and reason to believe they are p good, plz come hear them in her talk "If you wish to learn ES6/2015 from scratch, you must first invent the universe". Ashley kindly answered a few of our questions to help get to know him better:
+The abstractions added by ES6/2015 are gonna be awesome, but as they become idiomatic, we'll need to rethink how we teach JavaScript to beginners. Ashley Williams has some ideas, and reason to believe they are p good - plz come hear them in her talk "If you wish to learn ES6/2015 from scratch, you must first invent the universe". Ashley kindly answered a few of our questions to help us get to know her better:
 
 *Is this your first trip to the Pacific Northwest? Do you have other plans for your trip?*
 
