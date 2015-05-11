@@ -1,7 +1,14 @@
 {
+
+  "intro-ashley-williams": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "2",
+    "abstract": "Introducing Ashley, who has some p good ideas about rethinking teaching ES6/2015s' awesome new abstractions to JavaScript beginners!"
+  },
   "scholarship": {
     "postTitle": "CascadiaFest 2015 Scholarship",
-    "abstract": "CascadiaFest exists to educate and grow the Javascript community in the Pacific Northwest. We are excited to announce that we will be granting scholarships for our upcoming conference."
+    "abstract": "CascadiaFest exists to educate and grow the JavaScript community in the Pacific Northwest. We are excited to announce that we will be granting scholarships for our upcoming conference."
   },
   "intro-martin-gontovnikas": {
     "layout": "_layout_speaker",
