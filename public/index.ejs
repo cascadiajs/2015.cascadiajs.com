@@ -42,16 +42,19 @@
     </div>
 
     <div class="row">
-      <div class="col-sm-4 text-center preview-day" style="background: rebeccapurple; color: white;">
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: rebeccapurple; color: white;">
         <h2><a href="/css/">Cascadia<span class="thin">CSS</span></a></h2>
 
         <%
-        public._data.speakers.css.forEach(function (speakerID) {
-          var speakerData = public.speakers._data.index.speakers.css[speakerID];
-          %>
-          <%- partial("speakers/_partials/poloroid", speakerData) %>
-          <%
-        })
+          public.speakers._data.index.speakers.css.forEach(function (speaker) {
+
+            speaker.classname = "hidden";
+            speaker.lazyImg = true;
+
+            %>
+              <%- partial("speakers/_partials/poloroid", speaker) %>
+            <%
+          });
         %>
 
         <p class="see-all-speakers">
@@ -61,16 +64,19 @@
         </p>
       </div>
 
-      <div class="col-sm-4 text-center preview-day" style="background: #60713e; color: white;">
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #60713e; color: white;">
         <h2><a href="/browser/">Cascadia<span class="thin">JS</span>: Browser Day</a></h2>
 
         <%
-        public._data.speakers.browser.forEach(function (speakerID) {
-          var speakerData = public.speakers._data.index.speakers.browser[speakerID];
-          %>
-          <%- partial("speakers/_partials/poloroid", speakerData) %>
-          <%
-        })
+          public.speakers._data.index.speakers.browser.forEach(function (speaker) {
+
+            speaker.classname = "hidden";
+            speaker.lazyImg = true;
+
+            %>
+              <%- partial("speakers/_partials/poloroid", speaker) %>
+            <%
+          });
         %>
 
         <p class="see-all-speakers">
@@ -80,16 +86,19 @@
         </p>
       </div>
 
-      <div class="col-sm-4 text-center preview-day" style="background: #eb7e2f; color: white;">
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #eb7e2f; color: white;">
         <h2><a href="/server/">Cascadia<span class="thin">JS</span>: Server Day</a></h2>
 
         <%
-        public._data.speakers.server.forEach(function (speakerID) {
-          var speakerData = public.speakers._data.index.speakers.server[speakerID];
-          %>
-          <%- partial("speakers/_partials/poloroid", speakerData) %>
-          <%
-        })
+          public.speakers._data.index.speakers.server.forEach(function (speaker) {
+
+            speaker.classname = "hidden";
+            speaker.lazyImg = true;
+
+            %>
+              <%- partial("speakers/_partials/poloroid", speaker) %>
+            <%
+          });
         %>
 
         <p class="see-all-speakers">
