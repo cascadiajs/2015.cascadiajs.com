@@ -12,11 +12,6 @@
     "/assets/js/jquery-1.11.2.min.js",
     "/assets/js/bootstrap.min.js"
   ],
-  "speakers": {
-    "css": [4],
-    "browser": [9],
-    "server": [0]
-  },
   "sponsors": [
       {
         "name": "Groupon",
