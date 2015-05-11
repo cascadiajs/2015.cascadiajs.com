@@ -1,4 +1,4 @@
-At CascadiaJS: Browser Day, Ben Straub is going What happens when a Coffeescript-powered robot becomes a member of your development team or your HR team. He's provided the following answers to our "getting to know you" questions:
+At CascadiaJS: Browser Day, Ben Straub is going tell us what happens when a Coffeescript-powered robot becomes a member of your development team or your HR team. He's provided the following answers to our "getting to know you" questions:
 
 *As a Cascadian, do you have any recommendations for out of towners while they’re here?*
 
