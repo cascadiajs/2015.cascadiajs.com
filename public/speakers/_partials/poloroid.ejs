@@ -1,8 +1,12 @@
 
 <div class="clearfix poloroid speaker <%- typeof classname != 'undefined' ? classname : '' %>">
   <div class="inner">
-    <% if(typeof avatar !== "undefined") { %>
-    <img alt="" src="<%- avatar %>" class="profile-image"/>
+    <% if(typeof avatar !== "undefined") {
+      if (typeof lazyImg != 'undefined' && lazyImg === true) { %>
+        <img alt="" src="" data-img-src="<%- avatar %>" class="profile-image" />
+      <% } else { %>
+        <img alt="" src="<%- avatar %>" class="profile-image"/>
+      <% } %>
     <% } %>
 
     <h4><%- name %></h4>

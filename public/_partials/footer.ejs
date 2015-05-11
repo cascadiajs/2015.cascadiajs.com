@@ -20,10 +20,12 @@ scripts.forEach(function (script) { %>
 <script>
   $('.js-speaker-group').each(function () {
     var $speakers = $(this).find('.speaker');
+    var $activeSpeaker = $speakers.eq(Math.round(Math.random() * $speakers.length - 1));
+    var $speakerImg = $activeSpeaker.find('.profile-image');
 
-    $speakers
-      .eq(Math.round(Math.random() * $speakers.length - 1))
-      .removeClass('hidden');
+    $activeSpeaker.removeClass('hidden');
+
+    $speakerImg.attr('src', $speakerImg.data('imgSrc'));
   });
 </script>
 
