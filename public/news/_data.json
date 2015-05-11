@@ -1,5 +1,16 @@
 {
-
+  "intro-ben-straub": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "11",
+    "abstract": "Introducing Ben, who will tell us all about what happens when a Coffeescript-powered robot becomes a member of your development team at CascadiaJS: Browser Day."
+  },
+  "intro-jana-beck": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "3",
+    "abstract": "Introducing Jana Beck - an engineer at Tidepool, where they're trying to reduce the burden of type 1 diabetes through data technology. At CascadiaJS: Browser Day, she will talk about the tools you need to make complex data visualizations sing and dance."
+  },
   "intro-ashley-williams": {
     "layout": "_layout_speaker",
     "day": "browser",
