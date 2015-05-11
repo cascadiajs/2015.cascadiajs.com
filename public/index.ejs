@@ -48,11 +48,13 @@
         <%
           public.speakers._data.index.speakers.css.forEach(function (speaker) {
 
-            speaker.classname = "hidden";
-            speaker.lazyImg = true;
+            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
+
+            previewSpeaker.classname = "hidden";
+            previewSpeaker.lazyImg = true;
 
             %>
-              <%- partial("speakers/_partials/poloroid", speaker) %>
+              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
             <%
           });
         %>
@@ -70,11 +72,13 @@
         <%
           public.speakers._data.index.speakers.browser.forEach(function (speaker) {
 
-            speaker.classname = "hidden";
-            speaker.lazyImg = true;
+            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
+
+            previewSpeaker.classname = "hidden";
+            previewSpeaker.lazyImg = true;
 
             %>
-              <%- partial("speakers/_partials/poloroid", speaker) %>
+              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
             <%
           });
         %>
@@ -92,11 +96,13 @@
         <%
           public.speakers._data.index.speakers.server.forEach(function (speaker) {
 
-            speaker.classname = "hidden";
-            speaker.lazyImg = true;
+            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
+
+            previewSpeaker.classname = "hidden";
+            previewSpeaker.lazyImg = true;
 
             %>
-              <%- partial("speakers/_partials/poloroid", speaker) %>
+              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
             <%
           });
         %>
