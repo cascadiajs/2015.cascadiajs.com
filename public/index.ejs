@@ -45,19 +45,9 @@
       <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: rebeccapurple; color: white;">
         <h2><a href="/css/">Cascadia<span class="thin">CSS</span></a></h2>
 
-        <%
-          public.speakers._data.index.speakers.css.forEach(function (speaker) {
-
-            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
-
-            previewSpeaker.classname = "hidden";
-            previewSpeaker.lazyImg = true;
-
-            %>
-              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
-            <%
-          });
-        %>
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.css
+        }) %>
 
         <p class="see-all-speakers">
           <a href="/css/#speakers">
@@ -69,19 +59,9 @@
       <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #60713e; color: white;">
         <h2><a href="/browser/">Cascadia<span class="thin">JS</span>: Browser Day</a></h2>
 
-        <%
-          public.speakers._data.index.speakers.browser.forEach(function (speaker) {
-
-            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
-
-            previewSpeaker.classname = "hidden";
-            previewSpeaker.lazyImg = true;
-
-            %>
-              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
-            <%
-          });
-        %>
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.browser
+        }) %>
 
         <p class="see-all-speakers">
           <a href="/browser/#speakers">
@@ -93,19 +73,9 @@
       <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #eb7e2f; color: white;">
         <h2><a href="/server/">Cascadia<span class="thin">JS</span>: Server Day</a></h2>
 
-        <%
-          public.speakers._data.index.speakers.server.forEach(function (speaker) {
-
-            var previewSpeaker = JSON.parse(JSON.stringify(speaker));
-
-            previewSpeaker.classname = "hidden";
-            previewSpeaker.lazyImg = true;
-
-            %>
-              <%- partial("speakers/_partials/poloroid", previewSpeaker) %>
-            <%
-          });
-        %>
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.server
+        }) %>
 
         <p class="see-all-speakers">
           <a href="/server/#speakers">
