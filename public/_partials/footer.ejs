@@ -20,13 +20,15 @@ scripts.forEach(function (script) { %>
 <script>
   $('.js-speaker-group').each(function () {
     var $speakers = $(this).find('.speaker');
-    var $activeSpeaker = $speakers.eq(Math.round(Math.random() * $speakers.length - 1));
-    var $speakerImg = $activeSpeaker.find('.profile-image');
+    var $activeSpeaker = $speakers.eq(Math.floor(Math.random() * $speakers.length - 1));
 
-    $activeSpeaker.removeClass('hidden');
-
-    $speakerImg.attr('src', $speakerImg.data('imgSrc'));
+    $activeSpeaker.css('display', 'block');
   });
+
+  $('.speaker:visible').each(function (index, elem) {
+    var $img = $(elem).find('img');
+    $img.attr('src', $img.data('src'));
+  })
 </script>
 
 <script>
