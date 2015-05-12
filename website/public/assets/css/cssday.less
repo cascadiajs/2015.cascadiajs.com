@@ -1,0 +1,37 @@
+#cssday {
+  @daycolor: #639; // rebeccapurple
+  @daycolor-alt: lighten(@daycolor, 22%);
+
+  h2.first-title {
+    color: @daycolor-alt;
+  }
+
+  .banner {
+    background-color: @daycolor;
+    background-color: rebeccapurple;
+  }
+
+  .day-sponsors {
+    background-color: @daycolor-alt;
+  }
+
+  table.schedule {
+    a.speaker {
+      color: @daycolor;
+      color: rebeccapurple;
+    }
+  }
+
+  .lead {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  .sponsor a.logo {
+    border-color: @daycolor;
+    &:hover {
+      border-color: #eee;
+    }
+  }
+}

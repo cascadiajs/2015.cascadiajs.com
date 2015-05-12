@@ -1,0 +1,46 @@
+
+<div id="cssday" class="cjsf-day">
+  <div id="about" class="banner">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12">
+
+            <p class="buy-tickets pull-right">
+              <a class="btn btn-primary btn-lg" href="https://ti.to/event-loop/cjsfest-2015" data-href="/assets/soon.jpg">
+                Buy Tickets Now!
+                <span class="fa fa-ticket"></span>
+              </a>
+            </p>
+
+            <h1>Cascadia<span class="thin">CSS</span></h1>
+            <p class="left lead"><%- description %></p>
+            <img alt="" src="/assets/img/cssday/css-hex-icon-ver02.png" class="track-icon" />
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content">
+    <% if(typeof schedule !== 'undefined') { %>
+      <%- partial("../_partials/day/schedule", schedule) %>
+    <% } %>
+
+    <%- partial("../_partials/day/speakers", { "speakers":
+      public.speakers._data.index.speakers.css
+    }) %>
+
+    <% if(typeof sponsorConfig !== 'undefined') { %>
+      <%- partial("../_partials/day/sponsors", sponsorConfig) %>
+    <% }  %>
+
+    <% if(typeof staff !== 'undefined') { %>
+      <%- partial("../_partials/day/staff", staff) %>
+    <% } %>
+
+    <%- partial('../_partials/coc') %>
+
+  </div>
+</div>

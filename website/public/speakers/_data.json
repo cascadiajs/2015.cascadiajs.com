@@ -1,0 +1,300 @@
+{
+  "index": {
+    "speakers": {
+      "css": [
+        {
+          "name": "Kenneth Ormandy",
+          "avatar": "/assets/img/speakers/css-01-kenneth-ormandy.jpg",
+          "talk": {
+            "title": "Efficient Web Type, c. 1556",
+            "url": ""
+          }
+        },
+        {
+          "name": "Ricardo Vazquez",
+          "avatar": "/assets/img/speakers/css-02-ricardo-vazquez.jpg",
+          "talk": {
+            "title": "The Power of Emotion and Delight: Microinteractions",
+            "url": ""
+          }
+        },
+        {
+          "name": "Shay Howe",
+          "avatar": "/assets/img/speakers/css-03-shay-howe.jpg",
+          "talk": {
+            "title": "CSS as a Service: Maintaining Style",
+            "url": ""
+          }
+        },
+        {
+          "name": "Alan Mooiman",
+          "avatar": "/assets/img/speakers/css-04-alan-mooiman.jpg",
+          "talk": {
+            "title": "CSS is dead, long live CSS",
+            "url": ""
+          }
+        },
+        {
+          "name": "Seth Vincent",
+          "avatar": "/assets/img/speakers/css-05-seth-vincent.jpg",
+          "talk": {
+            "title": "css via npm",
+            "url": ""
+          }
+        },
+        {
+          "name": "Una Kravets",
+          "avatar": "/assets/img/speakers/css-06-una-kravets.jpg",
+          "talk": {
+            "title": "Open Source Design: A Call to Arms",
+            "url": ""
+          }
+        },
+        {
+          "name": "Rachel Nabors",
+          "avatar": "/assets/img/speakers/css-07-rachel-nabors.jpg",
+          "talk": {
+            "title": "Animating the User's Experience",
+            "url": ""
+          }
+        },
+        {
+          "name": "John Brown",
+          "avatar": "/assets/img/speakers/css-08-john-brown.jpg",
+          "talk": {
+            "title": "Spare the art, spoil the nth-child()",
+            "url": ""
+          }
+        },
+        {
+          "name": "Clarissa Peterson",
+          "avatar": "/assets/img/speakers/css-09-clarissa-peterson.jpg",
+          "talk": {
+            "title": "Responsive Color",
+            "url": ""
+          }
+        },
+        {
+          "name": "Gregor Adams",
+          "avatar": "/assets/img/speakers/css-10-gregor-adams.jpg",
+          "talk": {
+            "title": "Exploring Fractals in CSS",
+            "url": ""
+          }
+        },
+        {
+          "name": "Jeff Lembeck",
+          "avatar": "/assets/img/speakers/css-11-jeff-lembeck.jpg",
+          "talk": {
+            "title": "The Design of Developing",
+            "url": ""
+          }
+        },
+        {
+          "name": "Amy Lynn Taylor",
+          "avatar": "/assets/img/speakers/css-12-amy-lynn-taylor.jpg",
+          "talk": {
+            "title": "Remote and better for it",
+            "url": ""
+          }
+        }
+      ],
+      "browser": [
+        {
+          "name": "Myles Borins",
+          "avatar": "/assets/img/speakers/browser-01-myles-borins.jpg",
+          "talk": {
+            "title": "It's not me it's you: on the fallibility of large systems",
+            "url": ""
+          }
+        },
+        {
+          "name": "Allen Pike",
+          "avatar": "/assets/img/speakers/browser-02-allen-pike.jpg",
+          "talk": {
+            "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
+            "url": ""
+          }
+        },
+        {
+          "name": "Ashley Williams",
+          "avatar": "/assets/img/speakers/browser-03-ashley-williams.jpg",
+          "talk": {
+            "title": "If you wish to learn ES6/2015 from scratch, you must first invent the universe",
+            "url": ""
+          }
+        },
+        {
+          "name": "Jana Beck",
+          "avatar": "/assets/img/speakers/browser-04-jana-beck.jpg",
+          "talk": {
+            "title": "Power Tools for Powerful Visualization",
+            "url": ""
+          }
+        },
+        {
+          "name": "Martin Gontovnikas",
+          "avatar": "/assets/img/speakers/browser-05-martin-gontovnikas.jpg",
+          "talk": {
+            "title": "Death to Cookies, Long Live JSON Web Tokens",
+            "url": ""
+          }
+        },
+        {
+          "name": "Tessa Thornton",
+          "avatar": "/assets/img/speakers/browser-06-tessa-thorton.jpg",
+          "talk": {
+            "title": "Components are the future of the web: it's going to be okay",
+            "url": ""
+          }
+        },
+        {
+          "name": "Catt Small",
+          "avatar": "/assets/img/speakers/browser-07-catt-small.jpg",
+          "talk": {
+            "title": "Making Native Browser Games in the Modern Age",
+            "url": ""
+          }
+        },
+        {
+          "name": "Courtney Hemphill",
+          "avatar": "/assets/img/speakers/browser-08-courtney-hemphill.jpg",
+          "talk": {
+            "title": "Algorithms for Animation - Simple formulas to activate your UI",
+            "url": ""
+          }
+        },
+        {
+          "name": "David Catuhe",
+          "avatar": "/assets/img/speakers/browser-09-david-catuhe.jpg",
+          "talk": {
+            "title": "3D everywhere with WebGL and Babylon.js",
+            "url": ""
+          }
+        },
+        {
+          "name": "Dave Justice",
+          "avatar": "/assets/img/speakers/browser-10-dave-justice.jpg",
+          "talk": {
+            "title": "Making Waves with DSP on the net",
+            "url": ""
+          }
+        },
+        {
+          "name": "Andrei Kashcha",
+          "avatar": "/assets/img/speakers/browser-11-andrei-kashcha.jpg",
+          "talk": {
+            "title": "I see",
+            "url": ""
+          }
+        },
+        {
+          "name": "Ben Straub",
+          "avatar": "/assets/img/speakers/browser-12-ben-straub.jpg",
+          "talk": {
+            "title": "Hacking Culture with Javascript",
+            "url": ""
+          }
+        }
+      ],
+      "server": [
+        {
+          "name": "Parashuram N",
+          "avatar": "/assets/img/speakers/server-01-parashuram-n.jpg",
+          "talk": {
+            "title": "Automating Web Performance Measurement",
+            "url": ""
+          }
+        },
+        {
+          "name": "Rebecca Murphey",
+          "avatar": "/assets/img/speakers/server-02-rebecca-murphey.jpg",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "name": "Amy Wibowo",
+          "avatar": "/assets/img/speakers/server-03-amy-wibowo.jpg",
+          "talk": {
+            "title": "Programming Building Blocks (literally)",
+            "url": ""
+          }
+        },
+        {
+          "name": "Jennifer Wong",
+          "avatar": "/assets/img/speakers/server-04-jennifer-wong.jpg",
+          "talk": {
+            "title": "I Think I Know What You're Talking About, But I'm Not Sure",
+            "url": ""
+          }
+        },
+        {
+          "name": "Potch",
+          "avatar": "/assets/img/speakers/server-05-potch.jpg",
+          "talk": {
+            "title": "Scratch That Itch - Node on the command line for fun and profit",
+            "url": ""
+          }
+        },
+        {
+          "name": "John Feminella",
+          "avatar": "/assets/img/speakers/server-06-john-feminella.jpg",
+          "talk": {
+            "title": "A Matter of Time",
+            "url": ""
+          }
+        },
+        {
+          "name": "Adam Baldwin",
+          "avatar": "/assets/img/speakers/server-07-adam-baldwin.jpg",
+          "talk": {
+            "title": "The Art of Identifying Vulnerabilities",
+            "url": ""
+          }
+        },
+        {
+          "name": "Kevin Dela Rosa",
+          "avatar": "/assets/img/speakers/server-08-kevin-dela-rosa.jpg",
+          "talk": {
+            "title": "Adding intelligence to your JS applications",
+            "url": ""
+          }
+        },
+        {
+          "name": "Michael Lanzetta",
+          "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
+          "talk": {
+            "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Saas and Containerization",
+            "url": ""
+          }
+        },
+        {
+          "name": "Greg Bulmash",
+          "avatar": "/assets/img/speakers/server-10-greg-bulmash.jpg",
+          "talk": {
+            "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
+            "url": ""
+          }
+        },
+        {
+          "name": "Will Scott",
+          "avatar": "/assets/img/speakers/server-11-will-scott.jpg",
+          "talk": {
+            "title": "Scanning the internet with Node.js",
+            "url": ""
+          }
+        },
+        {
+          "name": "Donovan Buck",
+          "avatar": "/assets/img/speakers/server-12-donovan-buck.jpg",
+          "talk": {
+            "title": "These Bots are Made for Walkin'",
+            "url": ""
+          }
+        }
+      ]
+    }
+  }
+}

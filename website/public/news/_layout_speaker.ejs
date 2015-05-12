@@ -1,0 +1,65 @@
+<%
+var speakerData = public.speakers._data.index.speakers[day][speakerID];
+
+if(typeof postTitle == 'undefined') {
+  var postTitle = 'Introducing ' + speakerData.name;
+}
+%>
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <%- partial("../_partials/head") %>
+
+  <body>
+    <main>
+      <%- partial("../_partials/header-interior") %>
+
+      <div class="news site-content">
+        <%- partial("_partials/banner.ejs") %>
+
+        <div class="content">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-xs-12">
+
+                <div class="post post-speaker">
+                  <div class="post-header">
+                    <h1 class="post-title"><%- postTitle %></h1>
+
+                    <h2 class="post-subtitle">
+                      <% if (day === 'browser') { %>
+                        CascadiaJS Browser Day,
+                      <% } %>
+
+                      <% if (day === 'server') { %>
+                        CascadiaJS Server Day,
+                      <% } %>
+
+                      <% if (day === 'css') { %>
+                        CascadiaCSS,
+                      <% } %>
+
+                      CascadiaFest 2015
+                    </h2>
+
+                    <img
+                      class="post-avatar"
+                      src="<%- speakerData.avatar %>"
+                      alt="" />
+                  </div>
+
+                  <div class="post-content">
+                    <%- yield %>
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <%- partial("../_partials/footer") %>
+    </main>
+  </body>
+</html>
