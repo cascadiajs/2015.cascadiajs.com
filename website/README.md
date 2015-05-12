@@ -8,10 +8,6 @@ To check out:
 
 ```sh
 git clone https://github.com/cascadiajs/2015.cascadiajs.com.git
-<<<<<<< HEAD
-=======
-git checkout harp
->>>>>>> harp-move
 ```
 
 To get running:
