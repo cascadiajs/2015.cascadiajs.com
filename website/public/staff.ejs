@@ -1,0 +1,120 @@
+<div id="about" class="banner">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+
+        <h1>Cascadia <span class="thin">Staff</span></h1>
+        <p class="left lead">Cascadia Fest is organized by a 100% volunteer force.
+        <br />These are the people that make this event happen.</p>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="content">
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-xs-12">
+        <h3>Organizers <small>In charge of the overall Fest</small></h3>
+      </div>
+
+      <div class="col-sm-4">
+        <div class="person">
+          <%- partial('_partials/person', organizers['carter']) %>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <%- partial('_partials/person', organizers['tracy']) %>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Curators <small>Responsible for each given day of CascadiaFest</small></h3>
+      </div>
+
+      <div class="col-sm-4">
+        <h4>CascadiaCSS</h4>
+        <%- partial('_partials/person', curators['alex']) %>
+      </div>
+
+      <div class="col-sm-4">
+        <h4>CascadiaJS Browser Day</h4>
+        <%- partial('_partials/person', curators['katie']) %>
+      </div>
+      <div class="col-sm-4">
+        <h4>CascadiaJS Server Day</h4>
+        <%- partial('_partials/person', curators['ryan']) %>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Talk Review Committees</h3>
+      </div>
+
+      <div class="col-sm-4">
+        <h4>CascadiaCSS</h4>
+
+        <%- partial('_partials/reviewers', {
+          "reviewers": public.css._data.index.staff.reviewers,
+          "align": ""
+        }) %>
+      </div>
+      <div class="col-sm-4">
+        <h4>CascadiaJS Browser Day</h4>
+
+        <%- partial('_partials/reviewers', {
+          "reviewers": public.browser._data.index.staff.reviewers,
+          "align": ""
+        }) %>
+      </div>
+      <div class="col-sm-4">
+        <h4>CascadiaJS Server Day</h4>
+
+        <%- partial('_partials/reviewers', {
+          "reviewers": public.server._data.index.staff.reviewers,
+          "align": ""
+        }) %>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Website <small>talking about myself is weird</small></h3>
+      </div>
+
+      <div class="col-xs-2">
+        <h4>Dave</h4>
+        <img alt="" src="/assets/img/staff/dave.jpg" />
+      </div>
+
+      <div class="col-xs-2">
+        <h4>Zach</h4>
+        <img alt="" src="/assets/img/staff/zach.jpeg" />
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Volunteers <small>People who have helped out in various ways</small></h3>
+      </div>
+
+      <div class="col-xs-12">
+        <h3>Contributors <small>Anyone and everyone that has made commits to our repository</small></h3>
+      </div>
+
+      <% for(var i=0;i<contributors.length;i++) { %>
+      <div class="col-sm-2 contributor">
+        <a href="http://github.com/<%- contributors[i].username %>">
+          <img alt="" src="<%- contributors[i].avatar %>" />
+          <%- contributors[i].username %>
+        </a>
+      </div>
+      <% } %>
+
+    </div>
+  </div>
+</div>

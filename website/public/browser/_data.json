@@ -1,0 +1,53 @@
+{
+  "index": {
+    "title": "CascadiaJS Browser Day | CascadiaFEST 2015",
+    "color": "#60713e",
+    "description": "If it happens in the the browser, we want to know about it. Components, the Shadow DOM, web workers, visualizations and WebRTC are all coming to the party.<br/>July 9th, 2015 at Semiahmoo Resort in Washington State, USA.",
+    "sponsorConfig": {
+      "show": "browser",
+      "description": "These amazing companies have stepped up to help bring CascadiaJS Browser Day to you",
+      "button": "Help Sponsor CascadiaJS Browser Day 2015!"
+    },
+    "staff": {
+      "curator": {
+        "name": "Katie Kurkoski",
+        "avatar": "/assets/img/staff/katie.png",
+        "contact": {
+          "twitter": "KatieK2"
+        }
+      },
+      "organizers": [
+        {
+          "name": "Carter Rabasa",
+          "avatar": "/assets/img/staff/carter.png",
+          "contact": {
+            "twitter": "crtr0",
+            "email": "carter@cascadiajs.com"
+          }
+        },
+        {
+          "name": "Tracy Hinds",
+          "avatar": "/assets/img/staff/tracy.png",
+          "contact": {
+            "twitter": "hackygolucky",
+            "email": "tracy@cascadiajs.com"
+          }
+        }
+      ],
+      "reviewers": [
+        {
+          "name": "Tara D. Ellis",
+          "twitter": "maverick_mind"
+        },
+        {
+          "name": "Greg Bulmash",
+          "twitter": "YiddishNinja"
+        },
+        {
+          "name": "Jon Madision",
+          "twitter": "jonmadison"
+        }
+      ]
+    }
+  }
+}

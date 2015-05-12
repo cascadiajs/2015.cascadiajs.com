@@ -1,0 +1,35 @@
+<div id="sponsor" class="day-sponsors text-center">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Sponsors</h3>
+
+        <p><%- description %></p>
+
+        <hr>
+
+        <%
+        var i = 0, sponsor = {};
+
+        for(var index in public._data.sponsors) {
+          sponsor = public._data.sponsors[index];
+
+          if(!sponsor.logo) {
+             continue;
+          }
+
+          if(sponsor.visible.indexOf(show) == -1) {
+            continue;
+          }
+
+          sponsor.index = i++;
+          %>
+            <%- partial("../sponsor", sponsor) %>
+          <%
+        }
+        %>
+
+      </div>
+    </div>
+  </div>
+</div>

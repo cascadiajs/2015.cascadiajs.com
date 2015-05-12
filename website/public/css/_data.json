@@ -1,0 +1,53 @@
+{
+  "index": {
+    "title": "CascadiaCSS | CascadiaFEST 2015",
+    "color": "#663399",
+    "description": "A CSS conference for the Pacific Northwest.<br> July 8th, 2015 at Semiahmoo Resort in Washington.",
+    "sponsorConfig": {
+      "show": "css",
+      "description": "These amazing companies have stepped up to help bring CascadiaCSS to you",
+      "button": "Help Sponsor CascadiaCSS 2015!"
+    },
+    "staff": {
+      "curator": {
+        "name": "Alex Lande",
+        "avatar": "/assets/img/staff/alex.png",
+        "contact": {
+          "twitter": "alexlande"
+        }
+      },
+      "organizers": [
+        {
+          "name": "Carter Rabasa",
+          "avatar": "/assets/img/staff/carter.png",
+          "contact": {
+            "twitter": "crtr0",
+            "email": "carter@cascadiajs.com"
+          }
+        },
+        {
+          "name": "Tracy Hinds",
+          "avatar": "/assets/img/staff/tracy.png",
+          "contact": {
+            "twitter": "hackygolucky",
+            "email": "tracy@cascadiajs.com"
+          }
+        }
+      ],
+      "reviewers": [
+        {
+          "name": "Julie Ann Horvath",
+          "twitter": "nrrrdcore"
+        },
+        {
+          "name": "Claudina Sarahe",
+          "twitter": "itsmisscs"
+        },
+        {
+          "name": "Alan Stearns",
+          "twitter": "alanstearns"
+        }
+      ]
+    }
+  }
+}

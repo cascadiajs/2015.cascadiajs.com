@@ -1,0 +1,204 @@
+<div class="hero">
+  <div class="container-fluid">
+    <div class="row">
+      <h1>
+        CASCADIA<span class="thin">FEST <span class="lightblue"><span>2</span><span style="letter-spacing: -1rem;">0</span><span style="letter-spacing: -.5rem">1</span><span>5</span></span></span>
+      </h1>
+
+      <p>
+        <span>July 8th - 10th, 2015</span>
+        <span class="spacer">|</span>
+        <span class="thin green">Washington State</span>
+      </p>
+
+      <img alt="" src="/assets/img/white-tree.svg" />
+    </div>
+  </div>
+</div>
+
+<div class="content" id="about">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-sm-push-2">
+        <h2 class="text-center tagline"><strong>CascadiaJSFest</strong> is a three-day, community-driven
+        conference on the cutting edge of JavaScript and CSS. Browser,
+        server, OS – we cover it all.</h2>
+
+        <%- partial("_partials/tickets/soon") %>
+      </div>
+    </div>
+
+    <hr />
+
+  </div>
+</div>
+
+<div class="content speaker-preview">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3 id="speakers" class="text-center">Speakers</h3>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: rebeccapurple; color: white;">
+        <h2><a href="/css/">Cascadia<span class="thin">CSS</span></a></h2>
+
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.css
+        }) %>
+
+        <p class="see-all-speakers">
+          <a href="/css/#speakers">
+            See all the speakers for CascadiaCSS <i class="fa fa-arrow-right"></i>
+          </a>
+        </p>
+      </div>
+
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #60713e; color: white;">
+        <h2><a href="/browser/">Cascadia<span class="thin">JS</span>: Browser Day</a></h2>
+
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.browser
+        }) %>
+
+        <p class="see-all-speakers">
+          <a href="/browser/#speakers">
+            See all the speakers for Browser Day <i class="fa fa-arrow-right"></i>
+          </a>
+        </p>
+      </div>
+
+      <div class="col-sm-4 text-center preview-day js-speaker-group" style="background: #eb7e2f; color: white;">
+        <h2><a href="/server/">Cascadia<span class="thin">JS</span>: Server Day</a></h2>
+
+        <%- partial('_partials/speaker-feature', {
+          "speakers": public.speakers._data.index.speakers.server
+        }) %>
+
+        <p class="see-all-speakers">
+          <a href="/server/#speakers">
+            See all the speakers for Server Day <i class="fa fa-arrow-right"></i>
+          </a>
+        </p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div id="cjs2015-venue" class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <div id="venue" class="col-xs-12">
+        <h3 class="text-center">The Venue &amp; Lodging</h3>
+      </div>
+
+      <div class="col-xs-12 col-sm-5 text-center">
+        <address>
+          <strong>Semiahmoo Resort</strong><br />
+          9565 Semiahmoo Parkway,<br />
+          Blaine, WA 98230</address>
+      </div>
+
+      <div class="col-xs-12 col-sm-7">
+        <div class="well">
+          <h4>Semiahmoo Resort</h4>
+          <p>The Semiahmoo Resort will be the stomping ground for CJSFest 2015. By taking over the resort, we get a unique opportunity both indoors and out to build an awesome three days of interacting with your JavaScript and CSS communities.</p>
+
+          <p>UPDATE: Lodging at Semiahmoo is more or less sold-out. There are no rooms that span the nights of July 7-10. If you'd like to purchase just a night or two, please email info@cascadiajs.com.</p>
+
+          <h4>Alternative Lodging</h4>
+
+          <p>We have arranged for alternative lodging in nearby Bellingham at the Best Western PLUS Heritage Inn and will be running a FREE shuttle to/from the venue. We suggest booking for July 7th check-in and a July 11th check-out in order to take full advantage of the fun schedule we're working on. Here are the details:</p>
+
+          <ul>
+            <li>151 East McLeod Road, Bellingham WA, 98226</li>
+            <li><a href="tel:+13606471912">(360) 647-1912</a></li>
+            <li><a href="http://www.BestWesternHeritageInn.com">www.BestWesternHeritageInn.com</a></li>
+            <li>Rates: Single or Double: $117.99, Triple: $127.99, Quad: $137.99.</li>
+          </ul>
+          </p>
+          <p>Rates are valid for July 7th, 8th, 9th and 10th. Group rate availability ends on May 23rd, 2015. Call the hotel and ask to book the CascadiaJS group rate.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="" class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <%- partial("_partials/connect") %>
+    </div>
+  </div>
+</div>
+
+
+<div id="cjs2015-staff" class="day-staff content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Organizers of Cascadia<span class="thin">FEST</span></h3>
+      </div>
+
+      <% for(var key in public._data.staff.organizers) { %>
+        <div class="person">
+          <%- partial('_partials/person', public._data.staff.organizers[key]) %>
+        </div>
+      <% } %>
+      <% for(var key in public._data.staff.curators) { %>
+        <div class="person">
+          <%- partial('_partials/person', public._data.staff.curators[key]) %>
+        </div>
+      <% } %>
+    </div>
+
+  </div>
+</div>
+
+<div id="cjs2015-sponsor" class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <div id="sponsor" class="col-xs-12 text-center">
+        <h3 class="">Our Amazing Sponsors</h3>
+
+        <%
+        var i = 0, sponsor = {};
+
+        for(var index in public._data.sponsors) {
+          sponsor = public._data.sponsors[index];
+          if(!sponsor.logo) {
+            continue;
+          }
+
+          if(sponsor.visible.indexOf('fest') == -1) {
+            continue;
+          }
+
+          sponsor.index = i++;
+          %>
+            <%- partial("_partials/sponsor", sponsor) %>
+          <%
+        }
+        %>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- partial('_partials/coc') %>
+
+<div id="cjs2015-family" class="content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12 text-center">
+        <div class="well">
+          <h3>We Can’t Wait to See You There</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

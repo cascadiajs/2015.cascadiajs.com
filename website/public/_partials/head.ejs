@@ -1,0 +1,48 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="<%= typeof description !== 'undefined' ? description : public._data.description %>">
+
+    <meta property="og:image" content="http://2015.cascadiajs.com/assets/img/og_image.png" />
+    <meta property="og:title" content="<%= typeof title !== 'undefined' ? title : public._data.title %>" />
+    <meta property="og:description" content="<%= typeof description !== 'undefined' ? description : public._data.description %>" />
+
+    <!-- iPad and iPad mini (with @2× display) iOS ≥ 8 -->
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/assets/img/touch/apple-touch-icon-180x180-precomposed.png">
+    <!-- iPad 3+ (with @2× display) iOS ≥ 7 -->
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/touch/apple-touch-icon-152x152-precomposed.png">
+    <!-- iPad (with @2× display) iOS ≤ 6 -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/touch/apple-touch-icon-144x144-precomposed.png">
+    <!-- iPhone (with @2× and @3 display) iOS ≥ 7 -->
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/touch/apple-touch-icon-120x120-precomposed.png">
+    <!-- iPhone (with @2× display) iOS ≤ 6 -->
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/touch/apple-touch-icon-114x114-precomposed.png">
+    <!-- iPad mini and the first- and second-generation iPad (@1× display) on iOS ≥ 7 -->
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/touch/apple-touch-icon-76x76-precomposed.png">
+    <!-- iPad mini and the first- and second-generation iPad (@1× display) on iOS ≤ 6 -->
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/touch/apple-touch-icon-72x72-precomposed.png">
+    <!-- Android Stock Browser and non-Retina iPhone and iPod Touch -->
+    <link rel="apple-touch-icon-precomposed" href="/assets/img/touch/apple-touch-icon-57x57-precomposed.png">
+    <!-- Fallback for everything else -->
+    <link rel="icon" type="image/png" href="/assets/img/touch/apple-touch-icon.png" sizes="57x57">
+
+    <link rel="icon" type="image/png" href="/assets/img/favico.png" sizes="32x32">
+
+    <!--
+        Chrome 31+ has home screen icon 192×192 (the recommended size for multiple resolutions).
+        If it’s not defined on that size it will take 128×128.
+    -->
+    <link rel="icon" sizes="192x192" href="/assets/img/touch/touch-icon-192x192.png">
+    <link rel="icon" sizes="128x128" href="/assets/img/touch/touch-icon-128x128.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="/assets/img/touch/apple-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#062B00">
+
+
+    <title><%= typeof title !== 'undefined' ? title : public._data.title %></title>
+
+    <link rel="stylesheet" href="<%= typeof stylesheet !== 'undefined' ? stylesheet : public._data.stylesheet %>">
+</head>

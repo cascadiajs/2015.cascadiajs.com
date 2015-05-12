@@ -1,0 +1,19 @@
+
+<div id="speakers" class="day-speakers content">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3 class="text-center">Speakers</h3>
+      </div>
+        <%
+        for(var i=0;i<speakers.length;i++) {
+          speakers[i].classname = 'col-sm-3';
+          %>
+
+          <%- partial("../../speakers/_partials/poloroid", speakers[i]) %>
+        <% } %>
+
+      </div>
+    </div>
+  </div>
+</div>
