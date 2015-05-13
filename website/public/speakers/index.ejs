@@ -1,0 +1,44 @@
+
+<div class="row" id="css">
+  <div class="col-xs-12">
+    <div class="speaker-header header-css">
+      <h3>CascadiaCSS</h3>
+    </div>
+  </div>
+
+  <% public.speakers._data.index.speakers.css.forEach(function (speaker) {
+    speaker.classname = 'col-sm-3';
+    %>
+    <%- partial("_partials/poloroid", speaker) %>
+  <% }); %>
+</div>
+
+<div class="row" id="browser">
+  <div class="col-xs-12">
+    <div class="speaker-header header-browser">
+      <h3>CascadiaJS Browser Day</h3>
+    </div>
+  </div>
+
+
+  <% public.speakers._data.index.speakers.browser.forEach(function (speaker) {
+    speaker.classname = 'col-sm-3';
+    %>
+    <%- partial("_partials/poloroid", speaker) %>
+  <% }); %>
+</div>
+
+<div class="row" id="server">
+  <div class="col-xs-12">
+    <div class="speaker-header header-server">
+      <h3>CascadiaJS Server Day</h3>
+    </div>
+  </div>
+
+  <% public.speakers._data.index.speakers.server.forEach(function (speaker) {
+    speaker.classname = 'col-sm-3';
+    %>
+    <%- partial("_partials/poloroid", speaker) %>
+  <% }); %>
+</div>
+

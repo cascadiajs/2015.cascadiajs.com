@@ -1,0 +1,72 @@
+{
+  "intro-ricardo-vazquez": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "1",
+    "abstract": "Ricardo Vazquez is a UI/UX Designer at Mozilla. He&rsquo;ll be speaking at CascadiaCSS about delighting users with microinteractions."
+  },
+  "intro-ben-straub": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "11",
+    "abstract": "Introducing Ben, who will tell us all about what happens when a Coffeescript-powered robot becomes a member of your development team at CascadiaJS: Browser Day."
+  },
+  "intro-jana-beck": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "3",
+    "abstract": "Introducing Jana Beck - an engineer at Tidepool, where they're trying to reduce the burden of type 1 diabetes through data technology. At CascadiaJS: Browser Day, she will talk about the tools you need to make complex data visualizations sing and dance."
+  },
+  "intro-ashley-williams": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "2",
+    "abstract": "Introducing Ashley, who has some p good ideas about rethinking teaching ES6/2015s' awesome new abstractions to JavaScript beginners!"
+  },
+  "scholarship": {
+    "postTitle": "CascadiaFest 2015 Scholarship",
+    "abstract": "CascadiaFest exists to educate and grow the JavaScript community in the Pacific Northwest. We are excited to announce that we will be granting scholarships for our upcoming conference."
+  },
+  "intro-martin-gontovnikas": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "4",
+    "abstract": "Gonto is a tech nerd who loves OSS, JS, meat and a good beer in that order. At his CascadiaFest talk, we'll learn how to add authentication to a SPA with a live coding session in which we'll go from a regular SPA to a fully secured one with JWTs."
+  },
+  "intro-shay-howe": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "2",
+    "abstract": "Shay Howe is a designer and front-end developer at Belly in Chicago, IL. He'll be speaking at CascadiaCSS about sharing modular HTML and CSS components through a service-based architecture."
+  },
+  "intro-jeff-lembeck": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "10",
+    "abstract": "Jeff Lembeck is a developer at Filament Group and a full-on coffee-roasting Seattleite. He'll be speaking at CascadiaCSS about using design principles to create great developer tools."
+  },
+  "intro-gregor-adams": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "9",
+    "abstract": "Gregor Adams is a front-end developer and architect at SINNERSCHRADER in Munich, Germany. He'll be speaking at CascadiaCSS about building fractals with CSS."
+  },
+  "intro-catt-small": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "6",
+    "abstract": "Catt Small is a Product Designer interested in how people interact with tech and her talk is about the death of Flash and rise of JavaScript games!"
+  },
+  "intro-allen-pike": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "1",
+    "abstract": "Allen Pike runs Steamclock Software in Vancouver. His talk is about the causes and consequences of JavaScript’s turbulent framework ecosystem."
+  },
+  "intro-david-catuhe": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "8",
+    "abstract": "As a way of introducing our astonishing array of speakers, they have kindly agreed to answer a few questions for us. Here is David Catuhe ('a 3D addict since the prehistoric age of computing'), who will show us how to do awesome 3D with nothing more than a modern browser!"
+  }
+}
