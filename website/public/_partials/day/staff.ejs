@@ -1,0 +1,31 @@
+<div class="day-staff">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>Curator &amp; Staff</h3>
+        <p>If you have any questions or comments about CascadiaJS Fest, talk to these folks:</p>
+      </div>
+      <div class="col-sm-6 col-md-8">
+        <div class="person col-xs-12 col-sm-4">
+          <%- partial('../person', staff.curator) %>
+        </div>
+
+        <% for(var i=0;i<staff.organizers.length;i++) { %>
+          <div class="person col-xs-12 col-sm-4">
+            <%- partial('../person', staff.organizers[i]) %>
+          </div>
+        <% } %>
+      </div>
+
+      <% if(typeof staff.reviewers !== 'undefined' && staff.reviewers.length) { %>
+      <div class="col-sm-6 col-md-4">
+        <h4 class="text-center">Talk Review Comittee</h4>
+        <%- partial('../reviewers', {
+          "reviewers": staff.reviewers,
+          "align": "text-center"
+        }) %>
+      </div>
+      <% } %>
+    </div>
+  </div>
+</div>

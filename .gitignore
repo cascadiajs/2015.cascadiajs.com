@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+*.sublime-*
+
+# Dependency directory
+node_modules
+
+# Compile directories
+dist/

@@ -1,0 +1,35 @@
+#serverday {
+  @daycolor: #eb7e2f; // octopusorage
+  @daycolor-alt: lighten(@daycolor, 22%);
+
+  .lead {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h2.first-title {
+    color: @daycolor-alt;
+  }
+
+  .banner {
+    background-color: @daycolor;
+  }
+
+  .day-sponsors {
+    background-color: @daycolor-alt;
+  }
+
+  table.schedule {
+    a.speaker {
+      color: @daycolor;
+    }
+  }
+
+  .sponsor a.logo {
+    border-color: @daycolor;
+    &:hover {
+      border-color: #eee;
+    }
+  }
+}
