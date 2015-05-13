@@ -18,5 +18,5 @@ To apply for a scholarship, fill out [THIS FORM](https://docs.google.com/forms/d
 
 ### Sponsor a scholarship
 
-We’d love to be able to provide as many scholarships as possible, and we need your help! If you’re a company interested in sponsoring a scholarship, get in touch with us! Thanks to the generosity of **Craigslist**, we have already funded 2 Diversity Scholarships. But we hope to do so much more. Please contact info@cascadiajs.com for further details.
+We’d love to be able to provide as many scholarships as possible, and we need your help! If you’re a company interested in sponsoring a scholarship, get in touch with us! Thanks to the generosity of **craigslist**, we have already funded 2 Diversity Scholarships. But we hope to do so much more. Please contact info@cascadiajs.com for further details.
 
