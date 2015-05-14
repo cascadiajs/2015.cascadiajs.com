@@ -6,7 +6,7 @@ Blaine is a beautiful departure from some of our larger Cascadian tech city cent
 
 If you're unable to make the Hacker Train departure, [Amtrak](//amtrak.com) provides a few options to getting you to your destination at Bellingham Amtrak Station(BEL).
 
-### Busses
+### Buses
 
 In addition, bus service to and from Bellingham is available via either [BoltBus](//www.boltbus.com) or [GreyHound](//www.greyhound.com).
 
@@ -14,9 +14,11 @@ In addition, bus service to and from Bellingham is available via either [BoltBus
 
 While Bellingham and Blaine do not have an Uber presence, these cities do have plenty of well-recommended cab companies: [Rommel's Taxis](//www.yellowpages.com/bellingham-wa/mip/rommels-taxi-474134936) can be reached via phone at [1 (360) 510-1177](tel:13605101177) or [Your Cab Company](http://yourcabco.com/) at [1 (360) 746-4943](tel:13607464943) and are usually very responsive.
 
+### Shuttle
+
 As part of wanting to make sure all of our attendees make it to and from the events with as little stress as possible, we will be providing shuttles to the Semiahmoo Resort to and from the Amtrak station as well as the listed alternative lodging.
 
-### Shuttle Schedule
+#### Schedule
 
 <div class="table-responsive">
   <table class="table table-striped table-bordered table-condensed">
