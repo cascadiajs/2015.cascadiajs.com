@@ -51,12 +51,6 @@
     "speakerID": "9",
     "abstract": "Gregor Adams is a front-end developer and architect at SINNERSCHRADER in Munich, Germany. He'll be speaking at CascadiaCSS about building fractals with CSS."
   },
-  "intro-catt-small": {
-    "layout": "_layout_speaker",
-    "day": "browser",
-    "speakerID": "6",
-    "abstract": "Catt Small is a Product Designer interested in how people interact with tech and her talk is about the death of Flash and rise of JavaScript games!"
-  },
   "intro-allen-pike": {
     "layout": "_layout_speaker",
     "day": "browser",
