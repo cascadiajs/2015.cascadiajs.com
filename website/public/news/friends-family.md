@@ -26,7 +26,7 @@ When you talk with folks about Bellingham, “Fairhaven” is described as the �
 
 ### Wednesday, July 8th - Teaching Kids to Code
 
-* Time: 9:30 AM - 12:30 AM
+* Time: 9:30 AM - 12:30 PM
 * FREE
 * [RSVP for Teaching Kids to Code](https://ti.to/event-loop/cjsfest-2015/with/ivjlr4fywjw)
 
