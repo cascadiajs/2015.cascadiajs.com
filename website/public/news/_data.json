@@ -1,4 +1,8 @@
 {
+  "friends-family": {
+    "postTitle": "Friends and Family Track",
+    "abstract": "By popular demand, this year CascadiaFest is introducing a Friends and Family Track for the very first time."
+  },
   "intro-ricardo-vazquez": {
     "layout": "_layout_speaker",
     "day": "css",
