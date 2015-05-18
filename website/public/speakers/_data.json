@@ -149,10 +149,10 @@
           }
         },
         {
-          "name": "Catt Small",
-          "avatar": "/assets/img/speakers/browser-07-catt-small.jpg",
+          "name": "Helen V. Holmes",
+          "avatar": "/assets/img/speakers/browser-07-helen-v-holmes.png",
           "talk": {
-            "title": "Making Native Browser Games in the Modern Age",
+            "title": "JavaScript and Prototypal Inheritance: Why Is It So Complicated?",
             "url": ""
           }
         },
