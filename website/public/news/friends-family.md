@@ -24,6 +24,19 @@ In addition to the activities listed below, friends and family may want to join 
 
 When you talk with folks about Bellingham, “Fairhaven” is described as the “not-to-miss” neighborhood of this beloved town.  After a professionally led, costume clad walking tour to orient ourselves, we’ll grab lunch at one of the best known pizza places, before having some free time to shop or explore on your own.  Then we’ll meet at the trailhead of the South Bay Trail and leisurely stroll the beautiful waterfront from Fairhaven to Downtown, rewarding ourselves with happy hour at the famous Boundary Bay Brewery & Bistro before boarding the bus to head back to Semiahmoo. 
 
+### Wednesday, July 8th - Teaching Kids to Code
+
+* Time: 9:30 AM - 12:30 AM
+* FREE
+* [RSVP for Teaching Kids to Code](https://ti.to/event-loop/cjsfest-2015/with/ivjlr4fywjw)
+
+We're teaching kids to code at CascadiaFest!
+
+If you're bringing a child, attend a session with them to play with some fun online coding tutorials from Code.org. The tutorials range from simple story tutorials for early readers to building an AI chatbot with Python for teens. Bring your child, a laptop, and a sense of adventure. 
+
+You MUST accompany your child. Please simply RSVP for yourself and indicate the number of children you're bringing and their ages.
+
+
 ### Thursday, July 9th - Whale Watching
 
 * Time: 1:00 PM - 5:30 PM
