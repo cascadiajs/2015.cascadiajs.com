@@ -5,6 +5,10 @@
 	"404": {
 		"layout": "_interior"
 	},
+  "lodging": {
+    "layout": "_simple_layout",
+    "title": "Lodging"
+  },
   "title": "CascadiaFest 2015",
   "description": "CascadiaFest is a three-day, community-driven conference on the cutting edge of JavaScript & CSS. Browser, server, OS – we cover it all. July 8-10 at Semiahmoo Resort in Washington.",
   "stylesheet": "/assets/css/style.css",
