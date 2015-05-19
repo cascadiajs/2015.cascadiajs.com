@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <%- partial("_partials/head") %>
+
+  <body>
+    <main>
+      <%- partial("_partials/header-interior") %>
+
+      <div id="" class="site-content">
+        <div class="banner background-gray">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-xs-12">
+                  <h1><%- title %></h1>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="content">
+          <div class="container-fluid">
+              <div class="col-md-8">
+                <%- yield %>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <%- partial("_partials/footer") %>
+    </main>
+  </body>
+</html>
