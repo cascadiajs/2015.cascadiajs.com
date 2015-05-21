@@ -1,4 +1,10 @@
 {
+  "intro-courtney-hemphill": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "7",
+    "abstract": "Courtney Hemphill, partner & developer at Carbon Five, will show us simple ways to add functional animation to your interfaces with just a bit of JavaScript at CascadiaJS Browser Day."
+  },
   "friends-family": {
     "postTitle": "Friends and Family Track",
     "abstract": "By popular demand, this year CascadiaFest is introducing a Friends and Family Track for the very first time."
