@@ -1,4 +1,10 @@
 {
+  "intro-rachel-nabors": {
+    "layout": "_layout_speaker",
+    "day": "css",
+    "speakerID": "6",
+    "abstract": "Rachel Nabors is an interaction developer and web animation expert from Portland, OR. She'll be speaking at CascadiaCSS about the place of animation in user experience."
+  },
   "intro-courtney-hemphill": {
     "layout": "_layout_speaker",
     "day": "browser",
