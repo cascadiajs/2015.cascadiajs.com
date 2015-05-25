@@ -83,25 +83,38 @@
 
     <div class="row">
       <div class="col-xs-12">
+        <h3>Staff <small>Important people who do very important work</small></h3>
+      </div>
+
+      <% helpers.forEach(function (person) { %>
+        <div class="col-xs-2">
+          <h4><%- person.name %></h4>
+          <h5><%- person.desc %></h5>
+          <img alt="" src="<%- person.avatar %>" />
+        </div>
+      <% }); %>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
         <h3>Website <small>talking about myself is weird</small></h3>
       </div>
 
-      <div class="col-xs-2">
-        <h4>Dave</h4>
-        <img alt="" src="/assets/img/staff/dave.jpg" />
-      </div>
-
-      <div class="col-xs-2">
-        <h4>Zach</h4>
-        <img alt="" src="/assets/img/staff/zach.jpeg" />
-      </div>
+      <% website.forEach(function (person) { %>
+        <div class="col-xs-2">
+          <h4><%- person.name %></h4>
+          <img alt="" src="<%- person.avatar %>" />
+        </div>
+      <% }); %>
     </div>
 
     <div class="row">
       <div class="col-xs-12">
         <h3>Volunteers <small>People who have helped out in various ways</small></h3>
       </div>
+    </div>
 
+    <div class="row">
       <div class="col-xs-12">
         <h3>Contributors <small>Anyone and everyone that has made commits to our repository</small></h3>
       </div>
