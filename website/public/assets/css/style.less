@@ -437,10 +437,29 @@ header {
 }
 
 footer {
-  text-align: center;
   color: white;
   background: @cjs-color-dk-blue;
   padding: 1rem 0;
+
+  .col-sm-4 :first-child {
+    margin-top: 0;
+  }
+
+  h2 {
+    border-top: .5px solid rgba(255, 255, 255, .5);
+    margin: 0;
+    font-family: Nanami-Rounded-Lt, "Helvetica Neue", sans-serif;
+
+    a {
+      display: block;
+      padding: 1em 0;
+
+      &:hover {
+        // text-decoration: none;
+        // background: rgba(255, 255, 255, .05);
+      }
+    }
+  }
 
   p {
     margin: 1.5em 0;
