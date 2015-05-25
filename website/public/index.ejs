@@ -143,11 +143,28 @@
           <%- partial('_partials/person', public._data.staff.organizers[key]) %>
         </div>
       <% } %>
+
       <% for(var key in public._data.staff.curators) { %>
         <div class="person">
           <%- partial('_partials/person', public._data.staff.curators[key]) %>
         </div>
       <% } %>
+    </div>
+
+    <div class="row">
+      <% public._data.staff.helpers.forEach(function (person) { %>
+        <div class="col-xs-2">
+          <img alt="" src="<%- person.avatar %>" />
+          <h4><%- person.name %></h4>
+        </div>
+      <% }); %>
+
+      <% public._data.staff.website.forEach(function (person) { %>
+        <div class="col-xs-2">
+          <img alt="" src="<%- person.avatar %>" />
+          <h4><%- person.name %></h4>
+        </div>
+      <% }); %>
     </div>
 
   </div>

@@ -152,6 +152,28 @@
         }
       }
     },
+    "helpers": [
+      {
+        "name": "Megan",
+        "desc": "Friends &amp; Family Track Organizer",
+        "avatar": "/assets/img/staff/megan.jpg"
+      },
+      {
+        "name": "Lana Topham",
+        "desc": "Speaker Liason &amp; Event Coordinator",
+        "avatar": "/assets/img/staff/lana.jpeg"
+      }
+    ],
+    "website": [
+      {
+        "name": "Dave",
+        "avatar": "/assets/img/staff/dave.jpg"
+      },
+      {
+        "name": "Zach",
+        "avatar": "/assets/img/staff/zach.jpeg"
+      }
+    ],
     "contributors": [
       {
         "username": "lizrush",
