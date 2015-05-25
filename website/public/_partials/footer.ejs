@@ -1,12 +1,55 @@
 <footer>
   <div class="container-fluid">
     <div class="row">
-      <p>
-      &copy; CascadiaJS 2015 |
-      <a href="/staff.html">Who We Are</a> |
-      <a href="mailto:info@cascadiajs.com">info@cascadiajs.com</a> |
-      Previous: <a href="http://2012.cascadiajs.com/">2012</a>, <a href="http://2013.cascadiajs.com/">2013</a>, <a href="http://2014.cascadiajs.com/">2014</a>
-      </p>
+      <div class="col-xs-12">
+        <h3>CascadiaFest 2015</h3>
+      </div>
+      <div class="col-sm-4">
+        <p>CascadiaJSFest is a three-day, community-driven conference on the
+        cutting edge of JavaScript and CSS. Browser, server, OS – we cover it all.</p>
+
+        <p>&copy; 2015 CascadiaFest</p>
+
+        <h4>Contact Us: <a href="mailto:info@cascadiajs.com">info@cascadiajs.com</a></h4>
+
+        <p>
+        Previous: <a href="http://2012.cascadiajs.com/">2012</a>, <a href="http://2013.cascadiajs.com/">2013</a>, <a href="http://2014.cascadiajs.com/">2014</a>
+        </p>
+      </div>
+
+      <div class="col-sm-4">
+        <h4>Code of Conduct</h4>
+
+        <p>We are an inclusive, kind community that is constantly growing.
+        Please find our <a href="https://github.com/cascadiajs/2015.cascadiajs.com/blob/master/COC.md">Code of
+        conduct</a>, and try and make your fellow Cascadians
+        (&amp; fellow programmers) feel welcome!</p>
+      </div>
+
+      <div class="col-sm-4">
+        <h4>Latest News</h4>
+
+        <%
+        var d = 0;
+        for(var slug in public.news._data) {
+          var metadata = public.news._data[slug];
+
+          if(metadata.layout == '_layout_speaker' && typeof metadata.postTitle == 'undefined') {
+            var speakerData = public.speakers._data.index.speakers[metadata.day][metadata.speakerID];
+
+            metadata.postTitle = 'Introducing ' + speakerData.name;
+          }
+          %>
+          <h2><a href="/news/<%= slug %>"><%= public.news._data[slug].postTitle %></a></h2>
+
+          <%
+          if(++d >= 5) {
+            break;
+          }
+        }
+        %>
+      </div>
+
     </div>
   </div>
 </footer>
