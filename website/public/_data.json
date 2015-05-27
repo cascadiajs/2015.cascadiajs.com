@@ -156,22 +156,22 @@
       {
         "name": "Megan",
         "desc": "Friends &amp; Family Track Organizer",
-        "avatar": "/assets/img/staff/megan.jpg"
+        "avatar": "/assets/img/staff/megan.png"
       },
       {
         "name": "Lana Topham",
         "desc": "Speaker Liason &amp; Event Coordinator",
-        "avatar": "/assets/img/staff/lana.jpeg"
+        "avatar": "/assets/img/staff/lana.png"
       }
     ],
     "website": [
       {
         "name": "Dave",
-        "avatar": "/assets/img/staff/dave.jpg"
+        "avatar": "/assets/img/staff/dave.png"
       },
       {
         "name": "Zach",
-        "avatar": "/assets/img/staff/zach.jpeg"
+        "avatar": "/assets/img/staff/zach.png"
       }
     ],
     "contributors": [
