@@ -5,12 +5,6 @@
     "speakerID": "3",
     "abstract": "Alan Mooiman is a front-end developer currently residing in New York, but soon to be a bonafide Cascadian in Portland, OR. He'll be speaking at CascadiaCSS about how the future of CSS will let us write CSS without being dependent on preprocessors."
   },
-  "intro-rachel-nabors": {
-    "layout": "_layout_speaker",
-    "day": "css",
-    "speakerID": "6",
-    "abstract": "Rachel Nabors is an interaction developer and web animation expert from Portland, OR. She'll be speaking at CascadiaCSS about the place of animation in user experience."
-  },
   "intro-courtney-hemphill": {
     "layout": "_layout_speaker",
     "day": "browser",
