@@ -152,7 +152,7 @@
         }
       }
     },
-    "helpers": [
+    "volunteers": [
       {
         "name": "Megan",
         "desc": "Friends &amp; Family Track Organizer",
@@ -162,6 +162,11 @@
         "name": "Lana Topham",
         "desc": "Speaker Liason &amp; Event Coordinator",
         "avatar": "/assets/img/staff/lana.png"
+      },
+      {
+        "name": "Nate Goldman",
+        "desc": "Speaker Liason<br />&nbsp;",
+        "avatar": "/assets/img/staff/nate.png"
       }
     ],
     "website": [
