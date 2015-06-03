@@ -51,6 +51,14 @@
           }
         },
         {
+          "name": "",
+          "avatar": "",
+          "talk": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
           "name": "John Brown",
           "avatar": "/assets/img/speakers/css-08-john-brown.jpg",
           "talk": {
