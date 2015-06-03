@@ -83,10 +83,10 @@
 
     <div class="row">
       <div class="col-xs-12">
-        <h3>Staff <small>Important people who do very important work</small></h3>
+        <h3>Volunteers <small>Important people who do very important work</small></h3>
       </div>
 
-      <% helpers.forEach(function (person) { %>
+      <% volunteers.forEach(function (person) { %>
         <div class="col-xs-2">
           <h4><%- person.name %></h4>
           <h5><%- person.desc %></h5>
@@ -106,12 +106,6 @@
           <img alt="" src="<%- person.avatar %>" />
         </div>
       <% }); %>
-    </div>
-
-    <div class="row">
-      <div class="col-xs-12">
-        <h3>Volunteers <small>People who have helped out in various ways</small></h3>
-      </div>
     </div>
 
     <div class="row">
