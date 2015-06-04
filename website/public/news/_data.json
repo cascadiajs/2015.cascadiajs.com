@@ -58,13 +58,13 @@
   "intro-jeff-lembeck": {
     "layout": "_layout_speaker",
     "day": "css",
-    "speakerID": "10",
+    "speakerID": "9",
     "abstract": "Jeff Lembeck is a developer at Filament Group and a full-on coffee-roasting Seattleite. He'll be speaking at CascadiaCSS about using design principles to create great developer tools."
   },
   "intro-gregor-adams": {
     "layout": "_layout_speaker",
     "day": "css",
-    "speakerID": "9",
+    "speakerID": "8",
     "abstract": "Gregor Adams is a front-end developer and architect at SINNERSCHRADER in Munich, Germany. He'll be speaking at CascadiaCSS about building fractals with CSS."
   },
   "intro-allen-pike": {
