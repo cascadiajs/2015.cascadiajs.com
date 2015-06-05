@@ -21,11 +21,7 @@
   </div>
 
   <div class="content">
-    <%
-    if(typeof schedule !== 'undefined') { %>
-      <%- partial("../_partials/day/schedule", schedule) %>
-    <% }
-    %>
+    <%- partial("_schedule") %>
 
     <%- partial("../_partials/day/speakers", { "speakers":
       public.speakers._data.index.speakers.server
@@ -40,8 +36,6 @@
       <%- partial("../_partials/day/staff", staff) %>
     <% }
     %>
-
-    <%- partial('../_partials/coc') %>
 
   </div>
 </div>
