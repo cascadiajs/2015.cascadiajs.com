@@ -92,14 +92,42 @@
         "url": "http://saucelabs.com",
         "logo": "/assets/img/sponsors/SauceLabs/saucelabs-logo.svg",
         "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
-        "visible": ["fest"]
+        "visible": ["fest", "browser"]
       },
       {
         "name": "Twilio",
         "url": "http://twilio.com",
         "logo": "/assets/img/sponsors/Twilio/twillo-logo.svg",
         "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
+        "visible": ["fest", "server"]
+      },
+      {
+        "name": "GoDaddy",
+        "url": "http://godaddy.com",
+        "logo": "/assets/img/sponsors/godaddy/logo-padded.svg",
+        "description": "",
+        "visible": ["fest", "server"]
+      },
+      {
+        "name": "Qualtrics",
+        "url": "http://qualtrics.com",
+        "logo": "/assets/img/sponsors/qualtrics/logo-padded.svg",
+        "description": "",
+        "visible": ["fest", "server"]
+      },
+      {
+        "name": "craigslist",
+        "url": "http://craigslist.com",
+        "logo": "/assets/img/sponsors/craigslist/logo-padded.svg",
+        "description": "",
         "visible": ["fest"]
+      },
+      {
+        "name": "Microsoft",
+        "url": "http://microsoft.com",
+        "logo": "/assets/img/sponsors/microsoft/logo-padded.svg",
+        "description": "",
+        "visible": ["fest", "server"]
       },
       {
         "name": "You!",
