@@ -130,6 +130,13 @@
         "visible": ["fest", "server"]
       },
       {
+        "name": "Steamclock Software",
+        "url": "http://steamclock.com",
+        "logo": "/assets/img/sponsors/steamclock/logo-padded.svg",
+        "description": "",
+        "visible": ["css"]
+      },
+      {
         "name": "You!",
         "url": "/assets/sponsor-brochure.pdf",
         "logo": "/assets/img/sponsors/you.jpg",
