@@ -35,33 +35,35 @@ function talks(arr) {
 
 
 <div id="schedule" class="day-schedule container-fluid">
-  <div class="row">
-    <div class="col-xs-12">
-      <h2 class="first-title">Schedule</h2>
-    </div>
-  </div>
 
-  <table class="table table-condensed table-hover">
+  <h2 class="first-title">Schedule</h2>
+
+  <table class="table">
     <tbody>
-      <tr class="success">
-        <th>8:30am</th>
-        <td>
-          <b>Registration &amp; Breakfast presented by</b>
-          <img src="/assets/img/sponsors/formidable/logo.svg" height="18"/>
-        </td>
-      </tr>
-      <tr class="info">
-        <th>9:15am</th>
-        <td>
-          Opening Ceremony
-        </td>
-      </tr>
       <tr>
-        <th>9:30am</th>
+        <td class="time">08:30</td>
         <td>
+          <span class="uppercase">Registration &amp; Breakfast</span>
+        </td>
+        <td>
+          presented by
+          <div class="sponsor"><img src="/assets/img/sponsors/formidable/logo.svg" height="20"/></div>
+        </td>
+
+      </tr>
+
+      <tr>
+        <td class="time">09:15</td>
+        <td colspan="2">
+          <span class="uppercase">Opening Ceremony</span>
+        </td>
+      </tr>
+
+      <tr>
+        <td class="time">09:30</td>
+        <td colspan="2">
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
 
               <ul>
                 <% talks([{"last": "mooiman"}, {"last": "lembeck"}]); %>
@@ -69,29 +71,31 @@ function talks(arr) {
             </div>
 
             <div class="col-xs-12 col-sm-5">
-              <h4>Workshop</h4>
+              <div class="workshop">
+                <h5>Workshop</h5>
 
-              <p>
-                <b>Greg Bulmash</b><br />
-                Coding For Kids (Part 1)
-                <a href="https://ti.to/event-loop/cjsfest-2015">Register for Free</a><br />
-              </p>
+                <p>
+                  <b>Greg Bulmash</b><br />
+                  Coding For Kids (Part 1)
+                  <a href="https://ti.to/event-loop/cjsfest-2015">Register for Free</a><br />
+                </p>
+              </div>
             </div>
           </div>
         </td>
       </tr>
-      <tr class="info">
-        <th>11am</th>
-        <td>
-          Coffee &amp; Snack Break
+
+      <tr>
+        <td class="time">11:00</td>
+        <td colspan="2">
+          <span class="uppercase">Coffee &amp; Snack Break</span>
         </td>
       </tr>
       <tr>
-        <th>11:20am</th>
-        <td>
+        <td class="time">11:20</td>
+        <td colspan="2">
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
 
               <ul>
                 <%
@@ -103,27 +107,29 @@ function talks(arr) {
             </div>
 
             <div class="col-xs-12 col-sm-5">
-              <h4>Workshop</h4>
-
-              <p>
-                <b>Greg Bulmash</b>
-                <br />
-                Coding for Kids (Part 2)
-              </p>
+              <div class="workshop">
+                <h5>Workshop</h5>
+                <p>
+                  <b>Greg Bulmash</b>
+                  <br />
+                  Coding for Kids (Part 2)
+                </p>
+              </div>
             </div>
           </div>
         </td>
       </tr>
-      <tr class="success">
-        <th>12:45pm</th>
-        <td>
-          <b>Lunch</b>
+
+      <tr>
+        <td class="time">12:45</td>
+        <td colspan="2">
+          <span class="uppercase">Lunch</span>
         </td>
       </tr>
 
       <tr>
-        <th>2:15pm</th>
-        <td>
+        <td class="time">14:15</td>
+        <td colspan="2">
           <div class="row">
             <div class="col-xs-12 col-sm-7">
               <h4>Talks</h4>
@@ -143,15 +149,16 @@ function talks(arr) {
         </td>
       </tr>
 
-      <tr class="info">
-        <th>3:40pm</th>
+      <tr>
+        <td class="time">15:40</td>
         <td>
           Break
         </td>
       </tr>
+
       <tr>
-        <th>4:00pm</th>
-        <td>
+        <td class="time">16:00</td>
+        <td colspan="2">
           <div class="row">
             <div class="col-xs-12 col-sm-7">
               <h4>Talks</h4>
@@ -171,10 +178,10 @@ function talks(arr) {
         </td>
       </tr>
 
-      <tr class="success">
-        <th>6pm</th>
-        <td>
-          <b>Dinner & Party</b>
+      <tr>
+        <td class="time">18:00</td>
+        <td colspan="2">
+          <span class="uppercase">Dinner &amp; Party</span>
         </td>
       </tr>
     </tbody>
