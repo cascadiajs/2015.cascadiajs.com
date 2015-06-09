@@ -41,7 +41,7 @@
       {
         "name": "Formidable Labs",
         "url": "http://formidablelabs.com",
-        "logo": "/assets/img/sponsors/formidable/formidable-logo.svg",
+        "logo": "/assets/img/sponsors/formidable/logo-padded.svg",
         "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
         "visible": ["css"]
       },
