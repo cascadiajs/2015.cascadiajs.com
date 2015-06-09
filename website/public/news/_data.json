@@ -1,4 +1,8 @@
 {
+  "workshops": {
+    "postTitle": "Announcing the Workshop Track",
+    "abstract": "We are excited to announce that this year we are working with some wonderful companies and organizations to offer the first-ever Workshop Track at CascadiaFest."
+  },
   "intro-alan-mooiman": {
     "layout": "_layout_speaker",
     "day": "css",
