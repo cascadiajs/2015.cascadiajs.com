@@ -20,7 +20,7 @@
       {
         "name": "Groupon",
         "url": "https://jobs.groupon.com/",
-        "logo": "/assets/img/sponsors/groupon/groupon-logo.svg",
+        "logo": "/assets/img/sponsors/groupon/logo-padded.svg",
         "description": "",
         "visible": ["browser"]
       },
