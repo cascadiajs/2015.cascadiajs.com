@@ -206,12 +206,18 @@
       {
         "name": "Farrin A. Reid",
         "desc": "&nbsp;<br />&nbsp;",
-        "avatar": "/assets/img/staff/farrin.png"
+        "avatar": "/assets/img/staff/farrin.png",
+        "contact": {
+          "twitter": "blakmatrix"
+        }
       },
       {
         "name": "Scott Nonnenberg",
-        "desc": "&nbsp;<br />&nbsp;",
-        "avatar": "/assets/img/staff/scott.png"
+        "desc": "<br>",
+        "avatar": "/assets/img/staff/scott.png",
+        "contact": {
+          "twitter": "scottnonnenberg"
+        }
       }
     ],
     "website": [
