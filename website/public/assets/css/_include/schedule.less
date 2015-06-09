@@ -1,20 +1,69 @@
 #schedule {
-  table .row {
-    padding: 0;
-    margin: 0;
+
+  table {
+    font-size: 1.125em;
+    width: 100%;
+ 
+    // Reset bootstrap for layout of talk and workshop.
+    .row {
+      padding: 0;
+      margin: 0;
+    }
+
+    .presented {
+      color: #ccc;
+    }
+
+    .uppercase {
+      text-transform: uppercase;
+    }
+
+    .speaker {
+      font-family: Nanami-Rounded-Med;
+      color: #663399;
+    }
+
+    tbody {
+      border-top: solid 2px @cjs-color-gray-dark;
+    }
+
+    tr {
+      border-bottom: solid 2px @cjs-color-gray-dark;
+    }
+
+    td,
+    th {
+      padding: 0.5em 1em;
+    }
+
+    .time {
+      padding-left: 0;
+      line-height: 1.7;
+      font-family: Nanami-Rounded-Lt;
+    }
+
+    .workshop {
+      background-color: #ddd;
+      font-size: 0.85em;
+      padding: .15em .5em;
+    }
+
+    h4 {
+      margin: 0;
+      line-height: 1.4;
+      text-transform: uppercase;
+      font-family: Nanami-Rounded-Lt;
+    }
+
+    div {
+      padding-left: 0;
+    }
+
+    ul {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
   }
 
-  table h4 {
-    margin-bottom: 0;
-  }
-
-  table div {
-    padding-left: 0;
-  }
-
-  table ul {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-  }
 }
