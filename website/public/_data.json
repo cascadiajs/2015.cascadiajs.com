@@ -97,7 +97,7 @@
       {
         "name": "Twilio",
         "url": "http://twilio.com",
-        "logo": "/assets/img/sponsors/Twilio/twillo-logo.svg",
+        "logo": "/assets/img/sponsors/Twilio/logo-padded.svg",
         "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
         "visible": ["fest", "server"]
       },
