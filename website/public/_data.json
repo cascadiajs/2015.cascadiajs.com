@@ -137,6 +137,13 @@
         "visible": ["css"]
       },
       {
+        "name": "Brewhouse",
+        "url": "http://brewhouse.io",
+        "logo": "/assets/img/sponsors/brewhouse/logo-padded.svg",
+        "description": "",
+        "visible": ["css"]
+      },
+      {
         "name": "You!",
         "url": "/assets/sponsor-brochure.pdf",
         "logo": "/assets/img/sponsors/you.jpg",
