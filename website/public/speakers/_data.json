@@ -202,7 +202,7 @@
           "name": "Rebecca Murphey",
           "avatar": "/assets/img/speakers/server-02-rebecca-murphey.jpg",
           "talk": {
-            "title": "",
+            "title": "Deploying Client-Side Apps, 1,000 at a Time",
             "url": ""
           }
         },
