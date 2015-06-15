@@ -1,4 +1,4 @@
-Jeff Lembeck is a developer at [Filament Group](http://www.filamentgroup.com/) and a full-on coffee-roasting Seattleite. He'll be speaking at CascadiaCSS about using design principles to create great developer tools. Jeff kindly answered a few of our questions to help get to know him better:
+Jeff Lembeck is a developer at [npm, inc.](https://www.npmjs.com/) and a full-on coffee-roasting Seattleite. He'll be speaking at CascadiaCSS about using design principles to create great developer tools. Jeff kindly answered a few of our questions to help get to know him better:
 
 *What’s a good Twitter-length description of your talk?*
 
