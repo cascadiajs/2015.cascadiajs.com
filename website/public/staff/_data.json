@@ -71,6 +71,9 @@
     {
       "name": "Nate Goldman",
       "avatar": "/assets/img/staff/nate.png",
+      "contact": {
+        "twitter": "ungoldman"
+      },
       "day": ["browser"]
     },
     {
@@ -94,6 +97,14 @@
       "avatar": "/assets/img/staff/dusty.png",
       "contact": {
         "twitter": "dustyjewett"
+      },
+      "day": ["browser"]
+    },
+    {
+      "name": "Lydia Katsamberis",
+      "avatar": "/assets/img/staff/llkats.png",
+      "contact": {
+        "twitter": "llkats"
       },
       "day": ["browser"]
     }
