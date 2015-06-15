@@ -27,5 +27,19 @@
       </div>
       <% } %>
     </div>
+
+    <div class="row volunteers">
+      <% public.staff._data.volunteers.forEach(function (person) {
+        if(person.day.indexOf(volunteers) == -1) {
+          return;
+        }
+        %>
+        <div class="col-xs-4 col-sm-2">
+          <img alt="" src="<%- person.avatar %>" />
+          <h4><%- person.name %></h4>
+        </div>
+      <% }); %>
+    </div>
+
   </div>
 </div>

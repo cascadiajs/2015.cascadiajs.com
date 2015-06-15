@@ -1,5 +1,8 @@
 {
 	"google78afdfd3b000d037": {
+    "layout": false
+  },
+  "staff": {
 		"layout": false
 	},
 	"404": {
@@ -17,255 +20,138 @@
     "/assets/js/bootstrap.min.js"
   ],
   "sponsors": [
-      {
-        "name": "Groupon",
-        "url": "https://jobs.groupon.com/",
-        "logo": "/assets/img/sponsors/groupon/logo-padded.svg",
-        "description": "",
-        "visible": ["browser"]
-      },
-      {
-        "name": "Esri",
-        "url": "http://www.esri.com/",
-        "logo": "/assets/img/sponsors/esri/esri-logo.svg",
-        "description": "",
-        "visible": ["fest"]
-      },
-      {
-        "name": "Faithlife",
-        "url": "https://faithlife.com/about",
-        "logo": "/assets/img/sponsors/faithlife/faithlife-logo.png",
-        "description": "Since 1992, Faithlife Corporation (formerly Logos Bible Software) has grown from a couple of programmers in a basement into the largest developer of Bible study software and a worldwide leader in multilingual electronic publishing. Faithlife partners with more than 150 publishers to make more than 43,000 Bible study resources available to customers around the world.",
-        "visible": ["browser"]
-      },
-      {
-        "name": "Formidable Labs",
-        "url": "http://formidablelabs.com",
-        "logo": "/assets/img/sponsors/formidable/logo-padded.svg",
-        "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
-        "visible": ["css"]
-      },
-      {
-        "name": "Github",
-        "url": "http://www.github.com",
-        "logo": "/assets/img/sponsors/github/github-logo.svg",
-        "description": "",
-        "visible": ["fest"]
-      },
-      {
-        "name": "HBO",
-        "url": "http://www.hbo.com",
-        "logo": "/assets/img/sponsors/hbo/hbo-logo.svg",
-        "description": "",
-        "visible": ["fest", "server", "browser"]
-      },
-      {
-        "name": "Intel",
-        "url": "http://www.intel.com",
-        "logo": "/assets/img/sponsors/intel/intel-logo.svg",
-        "description": "",
-        "visible": ["fest"]
-      },
-      {
-        "name": "Mozilla",
-        "url": "https://firefox.com/developer",
-        "logo": "/assets/img/sponsors/firefox/firefox-logo.png",
-        "description": "Built for those who build the Web.Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.",
-        "visible": ["fest"]
-      },
-      {
-        "name": "Pluralsight",
-        "url": "http://www.pluralsight.com",
-        "logo": "/assets/img/sponsors/pluralsight/pluralsight-logo.svg",
-        "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
-        "visible": ["fest"]
-      },
-      {
-        "name": "Porch.com",
-        "url": "http://www.porch.com",
-        "logo": "/assets/img/sponsors/porch/porch-logo.svg",
-        "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
-        "visible": ["fest", "browser"]
-      },
-      {
-        "name": "Sauce Labs",
-        "url": "http://saucelabs.com",
-        "logo": "/assets/img/sponsors/SauceLabs/saucelabs-logo.svg",
-        "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
-        "visible": ["fest", "browser"]
-      },
-      {
-        "name": "Twilio",
-        "url": "http://twilio.com",
-        "logo": "/assets/img/sponsors/Twilio/logo-padded.svg",
-        "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
-        "visible": ["fest", "server"]
-      },
-      {
-        "name": "GoDaddy",
-        "url": "http://godaddy.com",
-        "logo": "/assets/img/sponsors/godaddy/logo-padded.svg",
-        "description": "",
-        "visible": ["fest", "server"]
-      },
-      {
-        "name": "Qualtrics",
-        "url": "http://qualtrics.com",
-        "logo": "/assets/img/sponsors/qualtrics/logo-padded.svg",
-        "description": "",
-        "visible": ["fest", "server"]
-      },
-      {
-        "name": "craigslist",
-        "url": "http://craigslist.com",
-        "logo": "/assets/img/sponsors/craigslist/logo-padded.svg",
-        "description": "",
-        "visible": ["fest"]
-      },
-      {
-        "name": "Microsoft",
-        "url": "http://microsoft.com",
-        "logo": "/assets/img/sponsors/microsoft/logo-padded.svg",
-        "description": "",
-        "visible": ["fest", "server"]
-      },
-      {
-        "name": "Steamclock Software",
-        "url": "http://steamclock.com",
-        "logo": "/assets/img/sponsors/steamclock/logo-padded.svg",
-        "description": "",
-        "visible": ["css"]
-      },
-      {
-        "name": "Brewhouse",
-        "url": "http://brewhouse.io",
-        "logo": "/assets/img/sponsors/brewhouse/logo-padded.svg",
-        "description": "Vancouver's Leading Product Development Team: We partner with businesses to bring their products and ideas to life through good conversation and a flexible, transparent process.",
-        "visible": ["css"]
-      },
-      {
-        "name": "You!",
-        "url": "/assets/sponsor-brochure.pdf",
-        "logo": "/assets/img/sponsors/you.jpg",
-        "description": "",
-        "visible": ["css", "browser", "server", "fest"]
-      }
-    ],
-  "staff": {
-    "layout": "_interior.ejs",
-    "organizers": {
-      "carter": {
-        "name": "Carter Rabasa",
-        "avatar": "/assets/img/staff/carter.png",
-        "contact": {
-          "twitter": "crtr0",
-          "email": "carter@cascadiajs.com"
-        }
-      },
-      "tracy": {
-        "name": "Tracy Hinds",
-        "avatar": "/assets/img/staff/tracy.png",
-        "contact": {
-          "twitter": "hackygolucky",
-          "email": "tracy@cascadiajs.com"
-        }
-      }
+    {
+      "name": "Groupon",
+      "url": "https://jobs.groupon.com/",
+      "logo": "/assets/img/sponsors/groupon/logo-padded.svg",
+      "description": "",
+      "visible": ["browser"]
     },
-    "curators": {
-      "alex": {
-        "name": "Alex Lande",
-        "avatar": "/assets/img/staff/alex.png",
-        "contact": {
-          "twitter": "alexlande"
-        }
-      },
-      "katie": {
-        "name": "Katie Kurkoski",
-        "avatar": "/assets/img/staff/katie.png",
-        "contact": {
-          "twitter": "KatieK2"
-        }
-      },
-      "ryan": {
-        "name": "Ryan Roemer",
-        "avatar": "/assets/img/staff/ryan.png",
-        "contact": {
-          "twitter": "ryan_roemer"
-        }
-      }
+    {
+      "name": "Esri",
+      "url": "http://www.esri.com/",
+      "logo": "/assets/img/sponsors/esri/esri-logo.svg",
+      "description": "",
+      "visible": ["fest"]
     },
-    "volunteers": [
-      {
-        "name": "Megan",
-        "desc": "Friends &amp; Family Track Organizer",
-        "avatar": "/assets/img/staff/megan.png"
-      },
-      {
-        "name": "Lana Topham",
-        "desc": "Speaker Liason &amp; Event Coordinator",
-        "avatar": "/assets/img/staff/lana.png"
-      },
-      {
-        "name": "Nate Goldman",
-        "desc": "Speaker Liason<br />&nbsp;",
-        "avatar": "/assets/img/staff/nate.png"
-      },
-      {
-        "name": "Farrin A. Reid",
-        "desc": "&nbsp;<br />&nbsp;",
-        "avatar": "/assets/img/staff/farrin.png",
-        "contact": {
-          "twitter": "blakmatrix"
-        }
-      },
-      {
-        "name": "Scott Nonnenberg",
-        "desc": "<br>",
-        "avatar": "/assets/img/staff/scott.png",
-        "contact": {
-          "twitter": "scottnonnenberg"
-        }
-      }
-    ],
-    "website": [
-      {
-        "name": "Dave",
-        "avatar": "/assets/img/staff/dave.png"
-      },
-      {
-        "name": "Zach",
-        "avatar": "/assets/img/staff/zach.png"
-      }
-    ],
-    "contributors": [
-      {
-        "username": "lizrush",
-        "avatar": "https://avatars2.githubusercontent.com/u/4978498?v=3&s=60"
-      },
-      {
-        "username": "jefflembeck",
-        "avatar": "https://avatars1.githubusercontent.com/u/109699?v=3&s=60"
-      },
-      {
-        "username": "charliepark",
-        "avatar": "https://avatars1.githubusercontent.com/u/22547?v=3&s=60"
-      },
-      {
-        "username": "Furchin",
-        "avatar": "https://avatars0.githubusercontent.com/u/1891931?v=3&s=60"
-      },
-      {
-        "username": "jlipps",
-        "avatar": "https://avatars2.githubusercontent.com/u/605053?v=3&s=60"
-      },
-      {
-        "username": "DavidBruant",
-        "avatar": "https://avatars2.githubusercontent.com/u/165829?v=3&s=60"
-      },
-      {
-        "username": "jden",
-        "avatar": "https://avatars1.githubusercontent.com/u/1106489?v=3&s=60"
-      }
-    ]
-  }
+    {
+      "name": "Faithlife",
+      "url": "https://faithlife.com/about",
+      "logo": "/assets/img/sponsors/faithlife/faithlife-logo.png",
+      "description": "Since 1992, Faithlife Corporation (formerly Logos Bible Software) has grown from a couple of programmers in a basement into the largest developer of Bible study software and a worldwide leader in multilingual electronic publishing. Faithlife partners with more than 150 publishers to make more than 43,000 Bible study resources available to customers around the world.",
+      "visible": ["browser"]
+    },
+    {
+      "name": "Formidable Labs",
+      "url": "http://formidablelabs.com",
+      "logo": "/assets/img/sponsors/formidable/logo-padded.svg",
+      "description": "Formidable Labs is a privately-held, bootstrapped firm based in Fremont, WA. Developing complete web apps, embedding experts in clients’ teams, leading technology-specific training—we tailor our offerings to our customers’ needs, be they startups or Fortune 500s. We’re pushing the bleeding edge of the modern web by advancing the open-source software we use, teaching and learning new technologies, and pursuing opportunities and growth.",
+      "visible": ["css"]
+    },
+    {
+      "name": "Github",
+      "url": "http://www.github.com",
+      "logo": "/assets/img/sponsors/github/github-logo.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "HBO",
+      "url": "http://www.hbo.com",
+      "logo": "/assets/img/sponsors/hbo/hbo-logo.svg",
+      "description": "",
+      "visible": ["fest", "server", "browser"]
+    },
+    {
+      "name": "Intel",
+      "url": "http://www.intel.com",
+      "logo": "/assets/img/sponsors/intel/intel-logo.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Mozilla",
+      "url": "https://firefox.com/developer",
+      "logo": "/assets/img/sponsors/firefox/firefox-logo.png",
+      "description": "Built for those who build the Web.Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Pluralsight",
+      "url": "http://www.pluralsight.com",
+      "logo": "/assets/img/sponsors/pluralsight/pluralsight-logo.svg",
+      "description": "Pluralsight is the global leader in online training for software developers, IT specialists and creative technologists. With 3,700+ courses, Pluralsight serves as a career catalyst, delivering hands-on learning for the most in-demand jobs of today.",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Porch.com",
+      "url": "http://www.porch.com",
+      "logo": "/assets/img/sponsors/porch/porch-logo.svg",
+      "description": "Porch.com is a data-driven home network. With insights from over 3.2 million professionals and 115 million projects, Porch empowers consumers to make smart home improvement decisions by connecting them with professionals endorsed by friends and neighbors. With a Porch proﬁle, you can showcase details and photos of projects, collect endorsements, and appear in search results on Porch.com.",
+      "visible": ["fest", "browser"]
+    },
+    {
+      "name": "Sauce Labs",
+      "url": "http://saucelabs.com",
+      "logo": "/assets/img/sponsors/SauceLabs/saucelabs-logo.svg",
+      "description": "Sauce Labs makes automated testing awesome. Our cloud-based platform helps developers test native & hybrid mobile and web applications across 450+ browser / OS platforms, including iOS, Android & Mac OS X. Sauce supports Selenium, Appium and popular JavaScript unit testing frameworks, and integrates with all of the top programming languages, test frameworks and CI systems. With built-in video recording and screenshots of every test case, debugging tools, and secure tunneling for local or firewalled testing, Sauce makes running, debugging and scaling test suites quick and easy. To get started for free, visit saucelabs.com.",
+      "visible": ["fest", "browser"]
+    },
+    {
+      "name": "Twilio",
+      "url": "http://twilio.com",
+      "logo": "/assets/img/sponsors/Twilio/logo-padded.svg",
+      "description": "Twilio makes it easy for developers to build multi-channel communication spanning SMS, voice and VOIP directly into their mobile and web applications.",
+      "visible": ["fest", "server"]
+    },
+    {
+      "name": "GoDaddy",
+      "url": "http://godaddy.com",
+      "logo": "/assets/img/sponsors/godaddy/logo-padded.svg",
+      "description": "",
+      "visible": ["fest", "server"]
+    },
+    {
+      "name": "Qualtrics",
+      "url": "http://qualtrics.com",
+      "logo": "/assets/img/sponsors/qualtrics/logo-padded.svg",
+      "description": "",
+      "visible": ["fest", "server"]
+    },
+    {
+      "name": "craigslist",
+      "url": "http://craigslist.com",
+      "logo": "/assets/img/sponsors/craigslist/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Microsoft",
+      "url": "http://microsoft.com",
+      "logo": "/assets/img/sponsors/microsoft/logo-padded.svg",
+      "description": "",
+      "visible": ["fest", "server"]
+    },
+    {
+      "name": "Steamclock Software",
+      "url": "http://steamclock.com",
+      "logo": "/assets/img/sponsors/steamclock/logo-padded.svg",
+      "description": "",
+      "visible": ["css"]
+    },
+    {
+      "name": "Brewhouse",
+      "url": "http://brewhouse.io",
+      "logo": "/assets/img/sponsors/brewhouse/logo-padded.svg",
+      "description": "Vancouver's Leading Product Development Team: We partner with businesses to bring their products and ideas to life through good conversation and a flexible, transparent process.",
+      "visible": ["css"]
+    },
+    {
+      "name": "You!",
+      "url": "/assets/sponsor-brochure.pdf",
+      "logo": "/assets/img/sponsors/you.jpg",
+      "description": "",
+      "visible": ["css", "browser", "server", "fest"]
+    }
+  ]
 }

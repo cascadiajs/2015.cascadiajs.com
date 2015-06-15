@@ -1,0 +1,123 @@
+{
+  "index": {
+    "layout": "../_interior.ejs"
+  },
+  "organizers": {
+    "carter": {
+      "name": "Carter Rabasa",
+      "avatar": "/assets/img/staff/carter.png",
+      "contact": {
+        "twitter": "crtr0",
+        "email": "carter@cascadiajs.com"
+      }
+    },
+    "tracy": {
+      "name": "Tracy Hinds",
+      "avatar": "/assets/img/staff/tracy.png",
+      "contact": {
+        "twitter": "hackygolucky",
+        "email": "tracy@cascadiajs.com"
+      }
+    }
+  },
+  "curators": {
+    "alex": {
+      "name": "Alex Lande",
+      "avatar": "/assets/img/staff/alex.png",
+      "contact": {
+        "twitter": "alexlande"
+      }
+    },
+    "katie": {
+      "name": "Katie Kurkoski",
+      "avatar": "/assets/img/staff/katie.png",
+      "contact": {
+        "twitter": "KatieK2"
+      }
+    },
+    "ryan": {
+      "name": "Ryan Roemer",
+      "avatar": "/assets/img/staff/ryan.png",
+      "contact": {
+        "twitter": "ryan_roemer"
+      }
+    }
+  },
+  "staff": [
+    {
+      "name": "Megan",
+      "desc": "Friends &amp; Family Track Organizer",
+      "avatar": "/assets/img/staff/megan.png"
+    },
+    {
+      "name": "Lana Topham",
+      "desc": "Speaker Liaison &amp; Event Coordinator",
+      "avatar": "/assets/img/staff/lana.png"
+    }
+  ],
+  "website": [
+    {
+      "name": "Dave",
+      "desc": "Web Master",
+      "avatar": "/assets/img/staff/dave.png"
+    },
+    {
+      "name": "Zach",
+      "desc": "#1 Best Designer",
+      "avatar": "/assets/img/staff/zach.png"
+    }
+  ],
+  "volunteers": [
+    {
+      "name": "Nate Goldman",
+      "avatar": "/assets/img/staff/nate.png",
+      "day": ["browser"]
+    },
+    {
+      "name": "Farrin A. Reid",
+      "avatar": "/assets/img/staff/farrin.png",
+      "contact": {
+        "twitter": "blakmatrix"
+      },
+      "day": ["server"]
+    },
+    {
+      "name": "Scott Nonnenberg",
+      "avatar": "/assets/img/staff/scott.png",
+      "contact": {
+        "twitter": "scottnonnenberg"
+      },
+      "day": ["server"]
+    }
+  ],
+  "contributors": [
+    {
+      "username": "lizrush",
+      "avatar": "https://avatars2.githubusercontent.com/u/4978498?v=3&s=60"
+    },
+    {
+      "username": "jefflembeck",
+      "avatar": "https://avatars1.githubusercontent.com/u/109699?v=3&s=60"
+    },
+    {
+      "username": "charliepark",
+      "avatar": "https://avatars1.githubusercontent.com/u/22547?v=3&s=60"
+    },
+    {
+      "username": "Furchin",
+      "avatar": "https://avatars0.githubusercontent.com/u/1891931?v=3&s=60"
+    },
+    {
+      "username": "jlipps",
+      "avatar": "https://avatars2.githubusercontent.com/u/605053?v=3&s=60"
+    },
+    {
+      "username": "DavidBruant",
+      "avatar": "https://avatars2.githubusercontent.com/u/165829?v=3&s=60"
+    },
+    {
+      "username": "jden",
+      "avatar": "https://avatars1.githubusercontent.com/u/1106489?v=3&s=60"
+    }
+  ]
+}

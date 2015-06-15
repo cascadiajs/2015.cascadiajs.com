@@ -141,28 +141,27 @@
         <h3>Organizers of Cascadia<span class="thin">FEST</span></h3>
       </div>
 
-      <% for(var key in public._data.staff.organizers) { %>
+      <% for(var key in public.staff._data.organizers) { %>
         <div class="person">
-          <%- partial('_partials/person', public._data.staff.organizers[key]) %>
+          <%- partial('_partials/person', public.staff._data.organizers[key]) %>
         </div>
       <% } %>
 
-      <% for(var key in public._data.staff.curators) { %>
+      <% for(var key in public.staff._data.curators) { %>
         <div class="person">
-          <%- partial('_partials/person', public._data.staff.curators[key]) %>
+          <%- partial('_partials/person', public.staff._data.curators[key]) %>
         </div>
       <% } %>
     </div>
 
     <div class="row volunteers">
-      <% public._data.staff.volunteers.forEach(function (person) { %>
+      <% public.staff._data.staff.forEach(function (person) { %>
         <div class="person">
           <img alt="" src="<%- person.avatar %>" />
           <h4><%- person.name %></h4>
         </div>
       <% }); %>
-
-      <% public._data.staff.website.forEach(function (person) { %>
+      <% public.staff._data.website.forEach(function (person) { %>
         <div class="person">
           <img alt="" src="<%- person.avatar %>" />
           <h4><%- person.name %></h4>
