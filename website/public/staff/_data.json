@@ -88,6 +88,14 @@
         "twitter": "scottnonnenberg"
       },
       "day": ["server"]
+    },
+    {
+      "name": "Dusty Jewett",
+      "avatar": "/assets/img/staff/dusty.png",
+      "contact": {
+        "twitter": "dustyjewett"
+      },
+      "day": ["browser"]
     }
   ],
   "contributors": [
