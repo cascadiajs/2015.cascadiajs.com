@@ -107,6 +107,14 @@
         "twitter": "llkats"
       },
       "day": ["browser"]
+    },
+    {
+      "name": "PJ Briggs",
+      "avatar": "/assets/img/staff/pj.png",
+      "contact": {
+        "twitter": "pizhay"
+      },
+      "day": ["browser"]
     }
   ],
   "contributors": [
