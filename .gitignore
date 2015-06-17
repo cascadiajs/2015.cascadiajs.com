@@ -5,6 +5,7 @@
 
 # Dependency directory
 node_modules
+reporter/node_modules
 
 # Compile directories
 dist/
