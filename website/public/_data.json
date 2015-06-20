@@ -168,6 +168,13 @@
       "visible": ["fest"]
     },
     {
+      "name": "IBM Bluemix",
+      "url": "http://www.ibm.com/cloud-computing/bluemix/",
+      "logo": "/assets/img/sponsors/ibmbluemix/logo-padded.svg",
+      "description": "",
+      "visible": ["fest", "css"]
+    },
+    {
       "name": "You!",
       "url": "/assets/sponsor-brochure.pdf",
       "logo": "/assets/img/sponsors/you.jpg",
