@@ -148,8 +148,15 @@
     },
     {
       "name": "&yet",
-      "url": "http://andyet.io",
+      "url": "http://andyet.com",
       "logo": "/assets/img/sponsors/andyet/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "hackster",
+      "url": "http://hackster.io",
+      "logo": "/assets/img/sponsors/hackster/logo-padded.svg",
       "description": "",
       "visible": ["fest"]
     },
