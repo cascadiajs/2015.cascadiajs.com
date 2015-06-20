@@ -161,6 +161,13 @@
       "visible": ["fest"]
     },
     {
+      "name": "Coder Dojo",
+      "url": "http://coderdojo.com",
+      "logo": "/assets/img/sponsors/coderdojo/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
       "name": "You!",
       "url": "/assets/sponsor-brochure.pdf",
       "logo": "/assets/img/sponsors/you.jpg",
