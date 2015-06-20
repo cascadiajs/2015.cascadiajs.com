@@ -147,6 +147,13 @@
       "visible": ["css"]
     },
     {
+      "name": "&yet",
+      "url": "http://andyet.io",
+      "logo": "/assets/img/sponsors/andyet/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
       "name": "You!",
       "url": "/assets/sponsor-brochure.pdf",
       "logo": "/assets/img/sponsors/you.jpg",
