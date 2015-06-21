@@ -115,6 +115,46 @@
         "twitter": "pizhay"
       },
       "day": ["browser"]
+    },
+    {
+      "name": "Julie Ann Horvath",
+      "avatar": "/assets/img/staff/julie.png",
+      "contact": {
+        "twitter": "nrrrdcore"
+      },
+      "day": ["css"]
+    },
+    {
+      "name": "Jason Rhodes",
+      "avatar": "/assets/img/staff/jason.png",
+      "contact": {
+        "twitter": "rhodesjason"
+      },
+      "day": ["css"]
+    },
+    {
+      "name": "Ava Collins",
+      "avatar": "/assets/img/staff/ava.png",
+      "contact": {
+        "twitter": "simplesthing"
+      },
+      "day": ["css"]
+    },
+    {
+      "name": "Kamilah Jenkins",
+      "avatar": "/assets/img/staff/kamilah.png",
+      "contact": {
+        "twitter": "kamilahjae"
+      },
+      "day": ["css"]
+    },
+    {
+      "name": "Mark Palfreeman",
+      "avatar": "/assets/img/staff/mark.jpg",
+      "contact": {
+        "twitter": "markpalfreeman"
+      },
+      "day": ["css"]
     }
   ],
   "contributors": [
