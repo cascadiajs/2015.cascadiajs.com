@@ -2,7 +2,14 @@
 
 ### Planes & Trains
 
-Blaine is a beautiful departure from some of our larger Cascadian tech city centers. The closest airport is Bellingham International Airport. If you are traveling by air,we recommend flying into Seattle's SeaTac airport, catching the light rail to the King Street Station using the [Link Light Rail](//www.soundtransit.org/schedules/central-link-light-rail), and hopping the [Hacker Train](/travel/hackertrain) with your fellow Cascadian friends. Hacker Train tickets are still available! The Link connection to Hacker Train costs less than $3. Tickets are sold from a vending machine on the rail platform that accepts cash, Visa, or Mastercard.
+Blaine is a beautiful departure from some of our larger Cascadian tech city centers. The closest airport is Bellingham International Airport. 
+
+If you are traveling by air, we recommend flying into Seattle's SeaTac airport, catching the light rail to the Intl District Station using the [Link Light Rail](//www.soundtransit.org/schedules/central-link-light-rail), [walking over to the Amtrak King Street Station](https://goo.gl/maps/ZRn8U) and hopping the [Hacker Train](/travel/hackertrain) with your fellow Cascadian friends. 
+
+![walk from Link Light Rail stop to Amtrak](/assets/img/link-amtrak-walk.png)
+
+
+Hacker Train tickets are still available! The Link connection to Hacker Train costs less than $3. Tickets are sold from a vending machine on the rail platform that accepts cash, Visa, or Mastercard.
 
 If you're unable to make the Hacker Train departure, [Amtrak](//amtrak.com) provides a few options to getting you to your destination at Bellingham Amtrak Station(BEL).
 
