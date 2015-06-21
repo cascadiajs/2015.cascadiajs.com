@@ -1,4 +1,10 @@
 {
+  "intro-tessa-thornton": {
+    "layout": "_layout_speaker",
+    "day": "browser",
+    "speakerID": "5",
+    "abstract": "Tessa is a self-taught front-end developer working at Shopify who spent 2014 having opinions about JavaScript frameworks. At Cascadia Fest: Browser Day, she'll tell us why our future with web component future is going to be OK. She has answered some questions for us:"
+  },
   "childcare": {
     "postTitle": "Child Care at Semiahmoo Resort",
     "abstract": "We are excited to provide subsidized child care for parents attending CascadiaFest."
