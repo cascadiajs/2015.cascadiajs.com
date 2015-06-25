@@ -33,8 +33,6 @@ If you feel uncomfortable, are being harassed, notice that someone else is being
 
 You can also send an email to [info@cascadiajs.com](mailto:info@cascadiajs.com).
 
-Immediate Response SMS number: [1 (206) 429-8441](tel:+12064298441)
-
 ### Enforcement
 
 If a participant is asked to stop harassing or inappropriate behavior, they are expected to do so immediately. If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate; this may include warning the participant, immediate expulsion from the conference with no refund, and/or banning from any future CascadiaJS conferences or associated events.
