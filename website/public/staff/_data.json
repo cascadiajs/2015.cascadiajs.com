@@ -90,7 +90,7 @@
       "contact": {
         "twitter": "scottnonnenberg"
       },
-      "day": ["server"]
+      "day": ["css"]
     },
     {
       "name": "Dusty Jewett",
@@ -154,7 +154,55 @@
       "contact": {
         "twitter": "markpalfreeman"
       },
+      "day": ["server"]
+    },
+    {
+      "name": "Tara Gibbs",
+      "avatar": "/assets/img/staff/tara.png",
+      "contact": {
+        "twitter": ""
+      },
+      "day": ["server"]
+    },
+    {
+      "name": "Marcy Sutton",
+      "avatar": "/assets/img/staff/marcy.png",
+      "contact": {
+        "twitter": "marcysutton"
+      },
+      "day": ["server"]
+    },
+    {
+      "name": "Joe Double",
+      "avatar": "/assets/img/staff/joe.png",
+      "contact": {
+        "twitter": "iamjoedouble"
+      },
+      "day": ["server"]
+    },
+    {
+      "name": "Marian Macapinlac",
+      "avatar": "/assets/img/staff/marian.png",
+      "contact": {
+        "twitter": "MsMarianMac"
+      },
+      "day": ["server"]
+    },
+    {
+      "name": "Tien Pham",
+      "avatar": "/assets/img/staff/tien.png",
+      "contact": {
+        "twitter": ""
+      },
       "day": ["css"]
+    },
+    {
+      "name": "Hakon Verespej",
+      "avatar": "/assets/img/staff/hakon.png",
+      "contact": {
+        "twitter": "HVerespej"
+      },
+      "day": ["browser"]
     }
   ],
   "contributors": [

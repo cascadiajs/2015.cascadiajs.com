@@ -58,7 +58,7 @@
     {
       "name": "HBO",
       "url": "http://www.hbo.com",
-      "logo": "/assets/img/sponsors/hbo/hbo-logo.svg",
+      "logo": "/assets/img/sponsors/hbo/logo-padded.svg",
       "description": "",
       "visible": ["fest", "server", "browser"]
     },
@@ -173,6 +173,34 @@
       "logo": "/assets/img/sponsors/ibmbluemix/logo-padded.svg",
       "description": "",
       "visible": ["fest", "css"]
+    },
+    {
+      "name": "Filament Group",
+      "url": "https://www.filamentgroup.com/",
+      "logo": "/assets/img/sponsors/filamentgroup/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Travis Foundation",
+      "url": "http://foundation.travis-ci.org/",
+      "logo": "/assets/img/sponsors/travisfoundation/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "Mobify",
+      "url": "http://www.mobify.com/",
+      "logo": "/assets/img/sponsors/mobify/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
+    },
+    {
+      "name": "New Relic",
+      "url": "http://newrelic.com/",
+      "logo": "/assets/img/sponsors/newrelic/logo-padded.svg",
+      "description": "",
+      "visible": ["fest"]
     },
     {
       "name": "You!",
