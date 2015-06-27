@@ -151,21 +151,21 @@
       "url": "http://andyet.com",
       "logo": "/assets/img/sponsors/andyet/logo-padded.svg",
       "description": "",
-      "visible": ["fest"]
+      "visible": ["server"]
     },
     {
-      "name": "hackster",
+      "name": "hackster.io",
       "url": "http://hackster.io",
       "logo": "/assets/img/sponsors/hackster/logo-padded.svg",
       "description": "",
-      "visible": ["fest"]
+      "visible": ["css"]
     },
     {
       "name": "Coder Dojo",
       "url": "http://coderdojo.com",
       "logo": "/assets/img/sponsors/coderdojo/logo-padded.svg",
       "description": "",
-      "visible": ["fest"]
+      "visible": ["css"]
     },
     {
       "name": "IBM Bluemix",
