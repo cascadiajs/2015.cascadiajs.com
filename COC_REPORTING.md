@@ -39,7 +39,7 @@ These are the steps you, as a staff member, should take when you receive a repor
   * are we doing anything about it?
   * who is doing those things?
   * when are they doing them?
-3. Communicate with the alleged harasser about our response. "This is our decision: {DECISION}. If you'd like to discuss this further, please email (info@cascadiajs.com)[mailto:info@cascadiajs.com], but in the meantime, you must {DO THIS}"
+3. Communicate with the alleged harasser about our response. "This is our decision: {DECISION}. If you'd like to discuss this further, please email [info@cascadiajs.com](mailto:info@cascadiajs.com), but in the meantime, you must {DO THIS}"
 
 ## When the next round of conference talks begin (where everyone is present)
 
