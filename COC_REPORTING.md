@@ -4,7 +4,7 @@ Most of this is taken from <http://geekfeminism.wikia.com/wiki/Conference_anti-h
 
 This is meant to guide how we, as a group, handle reports.
 
-These are the steps you should take when you receive a report of a Code of Conduct Abuse
+These are the steps you, as a staff member, should take when you receive a report of a Code of Conduct Abuse.
 
 ## Immediately After
 
@@ -39,7 +39,7 @@ These are the steps you should take when you receive a report of a Code of Condu
   * are we doing anything about it?
   * who is doing those things?
   * when are they doing them?
-3. Communicate with the harasser about our response. "This is our decision: {DECISION}. If you'd like to discuss this further, please contact XYZ [@TODO what is this contact method], but in the meantime, you must {DO THIS}"
+3. Communicate with the alleged harasser about our response. "This is our decision: {DECISION}. If you'd like to discuss this further, please email (info@cascadiajs.com)[mailto:info@cascadiajs.com], but in the meantime, you must {DO THIS}"
 
 ## When the next round of conference talks begin (where everyone is present)
 
