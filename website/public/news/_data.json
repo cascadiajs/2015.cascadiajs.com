@@ -1,4 +1,8 @@
 {
+  "intro-to-node": {
+    "postTitle": "Announcing the Node.js - Zero to Hero Workshop",
+    "abstract": "We are excited to announce a new workshop which will be get your ramped up on building Node.js applications and getting them deployed to the cloud."
+  },
   "intro-tessa-thornton": {
     "layout": "_layout_speaker",
     "day": "browser",
