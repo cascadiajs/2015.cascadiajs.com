@@ -71,6 +71,8 @@ var assignment = function(request, reply) {
 
 // Process incoming text messages
 var sms = function(request, reply) {
+  var twiml = new twilio.TwimlResponse();
+
   // check to see if the text is from an organizer
   if (Object.keys(organizers).indexOf(request.payload.From) >= 0) {
     var stash = organizers[request.payload.From];
@@ -104,6 +106,9 @@ var sms = function(request, reply) {
       };
       // post Task to TaskRouter
       taskRouter.workspaces(process.env.TWILIO_WORKSPACE_SID).tasks.create({workflowSid: process.env.TWILIO_WORKFLOW_SID, attributes: JSON.stringify(incomingText)});   
+      // send response to end user
+      twiml.message('We have received your request and will be in touch shortly.')
+
     }
     // else, send to active/assigned worker
     else {
@@ -112,7 +117,7 @@ var sms = function(request, reply) {
 
   }
 
-  var twiml = new twilio.TwimlResponse();
+  
   reply(twiml.toString()).type('text/xml');
 };
 
