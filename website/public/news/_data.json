@@ -1,4 +1,8 @@
 {
+  "mobile-testing-workshop": {
+    "postTitle": "New Workshop! Testing on Mobile: Automating The Pain Away",
+    "abstract": "Meet Appium, the Selenium-compatible automation server for iOS and Android. Learn how to automate testing your mobile, hybrid and native applications on these platforms, real devices or simulators, in this session."
+  },
   "intro-to-node": {
     "postTitle": "Announcing the Node.js - Zero to Hero Workshop",
     "abstract": "We are excited to announce a new workshop which will be get your ramped up on building Node.js applications and getting them deployed to the cloud."
