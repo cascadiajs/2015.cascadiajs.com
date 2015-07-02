@@ -7,7 +7,7 @@ We are excited to announce another awesome (and free) workshop!
 * When: Friday, July 10 @ 2:15pm
 * Instructor: Fil Maj featuring special guest Adam "admc" Christian
 * Maximum capacity: 50
-* Prerequisites: Android or iOS are the platforms we can work with, so coming prepared with SDKs and simulators/emulators/devices for each would make sense. Bonus points for installing and loading [appium](http://appium.io). Please clone this [repo of test scripts](github.com/filmaj/appium-test) as well.
+* Prerequisites: Android or iOS are the platforms we can work with, so coming prepared with SDKs and simulators/emulators/devices for each would make sense. Bonus points for installing and loading [appium](http://appium.io). Please clone this [repo of test scripts](http://github.com/filmaj/appium-test) as well.
 
 **[[RSVP For Free](https://ti.to/event-loop/cjsfest-2015/with/fnv-jop0xcs)]**
 
