@@ -5,9 +5,9 @@
 We are excited to announce a new workshop which will be get your ramped up on building Node.js applications and getting them deployed to the cloud.
 
 * When: Thursday, July 9 @ 2:15pm
-* Instructor: Benjamin Rondeau
+* Instructor: Ben Rondeau
 * Maximum capacity: 50
-* Prerequisites: a laptop
+* Prerequisites: A laptop with [NodeJS/NPM](http://nodejs.org) and a text editor installed.
 
 **[[RSVP For Free](https://ti.to/event-loop/cjsfest-2015/with/eugev9el9no)]**
 
