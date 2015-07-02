@@ -176,7 +176,7 @@
           "name": "Andrei Kashcha",
           "avatar": "/assets/img/speakers/browser-11-andrei-kashcha.jpg",
           "talk": {
-            "title": "I see",
+            "title": "A story of package managers, graphs, and one million vertices",
             "url": ""
           }
         },
