@@ -250,7 +250,7 @@
           "name": "Michael Lanzetta",
           "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
           "talk": {
-            "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Saas and Containerization",
+            "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Paas and Containerization",
             "url": ""
           }
         },
