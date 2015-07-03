@@ -49,12 +49,26 @@ function talks(arr) {
         <td class="time">8:30am</td>
         <td>
           <p><span class="uppercase">Registration &amp; Breakfast</span></p>
+          <p>
+            Registration:
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+              Semiahmoo Ballroom
+            </button>
+
+            Breakfast:
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+              Deck
+            </button>
+          </p>
         </td>
       </tr>
       <tr class="info">
         <td class="time">9:15am</td>
         <td>
           <span class="uppercase">Opening Ceremony</span>
+          <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+            Semiahmoo Ballroom
+          </button>
         </td>
       </tr>
       <tr>
@@ -62,7 +76,12 @@ function talks(arr) {
         <td>
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
+              <h4>
+                Talks
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  Semiahmoo Ballroom
+                </button>
+              </h4>
 
               <ul>
                 <% talks([{"last": "beck"}, {"last": "holmes"}, {"last": "justice"}]); %>
@@ -70,11 +89,16 @@ function talks(arr) {
             </div>
 
             <div class="col-xs-12 col-sm-5">
-              <h4>Workshop</h4>
+              <h4>
+                Workshop
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  San Juan Ballroom
+                </button>
+              </h4>
 
               <p>
                 <span class="speaker uppercase">Internet All The Things With Node.js + Intel Edison</span><br/>
-                  <a class="btn btn-primary btn-lg" href="https://ti.to/event-loop/cjsfest-2015/with/8ocmkfgtr8y">RSVP</a>
+                <a class="btn btn-primary btn-lg" href="https://ti.to/event-loop/cjsfest-2015/with/8ocmkfgtr8y">RSVP</a>
               </p>
             </div>
           </div>
@@ -83,7 +107,7 @@ function talks(arr) {
       <tr class="info">
         <td class="time">11am</td>
         <td>
-          <span class="uppercase">Coffee &amp; Snack Break</span>
+          <span class="uppercase">Coffee Break</span>
         </td>
       </tr>
       <tr>
@@ -91,7 +115,12 @@ function talks(arr) {
         <td>
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
+              <h4>
+                Talks
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  Semiahmoo Ballroom
+                </button>
+              </h4>
 
               <ul>
                 <%
@@ -105,6 +134,9 @@ function talks(arr) {
             <div class="col-xs-12 col-sm-5">
               <p>
                 Internet All The Things With Node.js + Intel Edison (continued)
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  San Juan Ballroom
+                </button>
               </p>
             </div>
           </div>
@@ -117,6 +149,9 @@ function talks(arr) {
             <span class="uppercase">Lunch</span> presented by
 
             <img src="/assets/img/sponsors/SauceLabs/200.jpg" height="50" />
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+              Deck
+            </button>
           </p>
         </td>
       </tr>
@@ -126,7 +161,12 @@ function talks(arr) {
         <td>
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
+              <h4>
+                Talks
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  Semiahmoo Ballroom
+                </button>
+              </h4>
 
               <ul>
                 <%
@@ -139,6 +179,12 @@ function talks(arr) {
 
             <div class="col-xs-12 col-sm-5">
               <div class="workshop">
+                <h4>
+                  Workshop
+                  <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                    San Juan Ballroom
+                  </button>
+                </h4>
                 <p>
                   <span class="speaker uppercase">Building Node.js apps - IBM BlueMix</span><br/>
                   <a class="btn btn-primary btn-lg" href="https://ti.to/event-loop/cjsfest-2015/with/eugev9el9no">RSVP</a>
@@ -161,7 +207,12 @@ function talks(arr) {
         <td>
           <div class="row">
             <div class="col-xs-12 col-sm-7">
-              <h4>Talks</h4>
+              <h4>
+                Talks
+                <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                  Semiahmoo Ballroom
+                </button>
+              </h4>
 
               <ul>
                 <%
@@ -176,6 +227,9 @@ function talks(arr) {
               <div class="workshop">
                 <p>
                   Building Node.js apps - IBM BlueMix
+                  <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+                    San Juan Ballroom
+                  </button>
                 </p>
               </div>
             </div>
@@ -190,6 +244,13 @@ function talks(arr) {
             <span class="uppercase">Dinner &amp; Party</span> with
 
             <img src="/assets/img/sponsors/hbo/logo.svg" height="50" />
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+              Deck
+            </button>
+            and
+            <button type="button" class="btn btn-info btn-sm" data-toggle="modal" data-target="#semiahmoo-map">
+              Pool
+            </button>
           </p>
         </td>
       </tr>
