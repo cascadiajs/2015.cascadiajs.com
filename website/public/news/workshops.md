@@ -6,7 +6,7 @@ Unless otherwise noted, all of the workshops are FREE and are included in your c
 
 ### Wednesday, July 8
 
-#### Morning: Coding for Kids
+#### <a id="coding-for-kids"></a>Morning: Coding for Kids
 
 ![Seattle CoderDojo](/assets/img/dojologo.png)
 
@@ -18,7 +18,7 @@ This workshop provides parents and their children with an opportunity to play wi
 * Maximum capacity: 30
 * Prerequisites: a laptop
 
-#### Afternoon: Learn Cool Tricks Using Internet Connected Hardware
+#### <a id="connected-hardware"></a>Afternoon: Learn Cool Tricks Using Internet Connected Hardware
 
 ![Hackster.io](/assets/img/hackster.png)
 
@@ -32,7 +32,7 @@ Participate in our mini-IoT Hackathon and learn how to hack and operate open-sou
 
 ### Thursday, July 9
 
-#### Morning: Internet All The Things With Node.js + Intel Edison
+#### Morning: <a id="hacking-with-edison"></a>Internet All The Things With Node.js + Intel Edison
 
 ![Intel Hardware Hacking](/assets/img/intel-logo.png)
 
@@ -50,13 +50,13 @@ We will be learning how to use Node.js to control a variety of sensors including
 
 ### Friday, July 10
 
-#### Morning: WebRTC for Everyone
+#### <a id="webrtc"></a>Morning: WebRTC for Everyone
 
 ![&yet](/assets/img/and-yeti.gif)
 
 WebRTC workshop led by Talky team developer Philipp “Fippo” Hancke. Show your support for moving WebRTC forward and get upfront with one of the leading WebRTC developers in the industry.
 
-**[[Donate $75 to the Talky Kickstarter to RSVP](https://www.kickstarter.com/projects/talky/talky-the-first-truly-simple-video-chat/pledge/new)]**
+**[[RSVP for Free](https://ti.to/event-loop/cjsfest-2015/with/pvtpzvobk-8)]**
 
 * Instructor: Philipp Hancke
 * Maximum capacity: 50

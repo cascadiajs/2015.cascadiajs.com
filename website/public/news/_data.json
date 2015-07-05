@@ -1,4 +1,8 @@
 {
+  "get-excited": {
+    "postTitle": "Pack Your Bags! It's Time For CascadiaFest 2015!",
+    "abstract": "What to pack, how to get here and more."
+  },
   "mobile-testing-workshop": {
     "postTitle": "New Workshop! Testing on Mobile: Automating The Pain Away",
     "abstract": "Meet Appium, the Selenium-compatible automation server for iOS and Android. Learn how to automate testing your mobile, hybrid and native applications on these platforms, real devices or simulators, in this session."
