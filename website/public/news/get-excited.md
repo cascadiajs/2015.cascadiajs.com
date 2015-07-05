@@ -22,6 +22,9 @@ If you're interested in carpooling (either as a driver or rider) definitely [hea
 
 We are arranging for shuttle service to pick people up from the Bellingham Amtrak and bring them either to the Bellingham Best Western or Semiahmoo. When you disembark from the train **please proceed directly outside and board the shuttle**. The shuttles will be departing on-time. More information on shuttle departure times in the [CascadiaFest Travel Guide](http://2015.cascadiajs.com/travel/).
 
+### Note on Tuesday Night at Semiahmoo
+
+Having second thoughts about driving up to Semiahmoo first thing Wednesday? We still have some rooms available for Tuesday night and would like to put them to good use. If you'd like to book a Tuesday night room at the heavily discounted rate of $100/night, please email info@cascadiajs.com.
 
 ## MOAR Workshops!
 
