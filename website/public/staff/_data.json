@@ -189,14 +189,6 @@
       "day": ["server"]
     },
     {
-      "name": "Tien Pham",
-      "avatar": "/assets/img/staff/tien.png",
-      "contact": {
-        "twitter": ""
-      },
-      "day": ["css"]
-    },
-    {
       "name": "Hakon Verespej",
       "avatar": "/assets/img/staff/hakon.png",
       "contact": {
