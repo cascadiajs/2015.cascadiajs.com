@@ -14,7 +14,7 @@
         "title": "Breakfast",
         "location": "Deck",
         "description": "",
-        "sponsor": "Formidable Labs"
+        "sponsor": ""
       },
       {
         "start": "20150708T091500",
@@ -62,7 +62,7 @@
         "title": "Lunch",
         "location": "Deck",
         "description": "",
-        "sponsor": ""
+        "sponsor": "Formidable Labs"
       },
       {
         "start": "20150708T134500",
@@ -110,7 +110,7 @@
         "title": "Dinner",
         "location": "Deck",
         "description": "",
-        "sponsor": ""
+        "sponsor": "IBM BlueMix"
       },
       {
         "start": "20150708T190000",
@@ -118,7 +118,7 @@
         "title": "Party",
         "location": "Deck",
         "description": "",
-        "sponsor": ""
+        "sponsor": "IBM BlueMix"
       },
       {
         "start": "20150708T220000",
@@ -256,7 +256,7 @@
         "title": "Breakfast",
         "location": "Deck",
         "description": "",
-        "sponsor": "GoDaddy"
+        "sponsor": ""
       },
       {
         "start": "20150710T091500",
@@ -304,7 +304,7 @@
         "title": "Lunch",
         "location": "Deck",
         "description": "",
-        "sponsor": ""
+        "sponsor": "GoDaddy"
       },
       {
         "start": "20150710T141500",
