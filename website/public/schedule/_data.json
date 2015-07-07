@@ -1,0 +1,367 @@
+{
+  "index": {
+
+  },
+  "fest": {
+    "layout": false
+  },
+  "css": {
+    "layout": false,
+    "events": [
+      {
+        "start": "20150708T083000",
+        "end": "20150708T091500",
+        "title": "Breakfast",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "Formidable Labs"
+      },
+      {
+        "start": "20150708T091500",
+        "end": "20150708T093000",
+        "title": "Opening Ceremony",
+        "location": "Semiahmoo Ballroom",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T093000",
+        "end": "20150708T110000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Alan Mooiman: CSS is dead, long live CSS\nJeff Lembeck: The Design of Developing\nAmy Lynn Taylor: Remote and better for it",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T093000",
+        "end": "20150708T110000",
+        "title": "Workshop Coding For Kids",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015",
+        "sponsor": "Seattle Coder Dojo"
+      },
+      {
+        "start": "20150708T112000",
+        "end": "20150708T124500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Gregor Adams: Exploring Fractals in CSS\nRicardo Vazquez: The Power of Emotion and Delight: Microinteractions, Clarissa Peterson: Responsive Color",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T112000",
+        "end": "20150708T124500",
+        "title": " Coding for Kids (part 2)",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T124500",
+        "end": "20150708T134500",
+        "title": "Lunch",
+        "location": "Deck",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T134500",
+        "end": "20150708T144500",
+        "title": "CSS Layer Tennis",
+        "location": "Semiahmoo Ballroom",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T141500",
+        "end": "20150708T154500",
+        "title": "Workshop Learn Cool Tricks Using Internet Connected Hardware",
+        "location": "San Juan Ballroom ",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/mnuh-tffgqe",
+        "sponsor": "Hackster.io"
+      },
+      {
+        "start": "20150708T144500",
+        "end": "20150708T154500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Shay Howe: CSS as a Service: Maintaining Style\nKenneth Ormandy Efficient Web Type, c. 1556",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T160000",
+        "end": "20150708T173000",
+        "title": " Workshop Learn Cool Tricks Using Internet Connected Hardware (part 2)",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/mnuh-tffgqe",
+        "sponsor": "Hackster.io"
+      },
+      {
+        "start": "20150708T160000",
+        "end": "20150708T173000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "John Brown: Spare the art, spoil the nth-child()\nSeth Vincent: css via npm\nUna Kravets Open Source Design: A Call to Arms",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T180000",
+        "end": "20150708T190000",
+        "title": "Dinner",
+        "location": "Deck",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T190000",
+        "end": "20150708T220000",
+        "title": "Party",
+        "location": "Deck",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150708T220000",
+        "end": "20150708T235900",
+        "title": "Mystery Movie Night",
+        "location": "Discovery Theater",
+        "description": "",
+        "sponsor": ""
+      }
+    ]
+  },
+  "browser": {
+    "layout": false,
+    "events": [
+      {
+        "start": "20150709T083000",
+        "end": "20150709T091500",
+        "title": "Breakfast",
+        "location": "Deck",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T091500",
+        "end": "20150709T093000",
+        "title": "Opening Ceremony",
+        "location": "Semiahmoo Ballroom",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T093000",
+        "end": "20150709T110000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Jana Beck Power: Tools for Powerful Visualization\nHelen V. Holmes: JavaScript and Prototypal Inheritance: Why Is It So Complicated?\nDave Justice: Making Waves with DSP on the net",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T093000",
+        "end": "20150709T110000",
+        "title": "Workshop Internet All The Things With Node.js + Intel Edison",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/8ocmkfgtr8y",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T112000",
+        "end": "20150709T124500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Martin Gontovnikas: Death to Cookies, Long Live JSON Web Tokens\nDavid Catuhe: 3D everywhere with WebGL and Babylon.js\nMyles Borins: It's not me it's you: on the fallibility of large systems",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T112000",
+        "end": "20150709T124500",
+        "title": "Workshop Internet All The Things With Node.js + Intel Edison (part 2)",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/8ocmkfgtr8y",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T124500",
+        "end": "20150709T134500",
+        "title": "Lunch",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "Sauce Labs"
+      },
+      {
+        "start": "20150709T141500",
+        "end": "20150709T154500",
+        "title": "Workshop Building Node.js apps",
+        "location": "San Juan Ballroom ",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/eugev9el9no",
+        "sponsor": "IBM BlueMix"
+      },
+      {
+        "start": "20150709T144500",
+        "end": "20150709T154500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Courtney Hemphill: Algorithms for Animation - Simple formulas to activate your UI\nAllen Pike: A JS Framework on Every Table: Todo Examples All the Way Down\nBen Straub: Hacking Culture with Javascript",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T160000",
+        "end": "20150709T173000",
+        "title": "Workshop Building Node.js apps (part 2)",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/eugev9el9no",
+        "sponsor": "IBM BlueMix"
+      },
+      {
+        "start": "20150709T160000",
+        "end": "20150709T173000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Tessa Thornton: Components are the future of the web: it's going to be okay\nAndrei Kashcha: A story of package managers, graphs, and one million vertices\nAshley Williams: If you wish to learn ES6/2015 from scratch, you must first invent the universe",
+        "sponsor": ""
+      },
+      {
+        "start": "20150709T180000",
+        "end": "20150709T190000",
+        "title": "Dinner",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "HBO"
+      },
+      {
+        "start": "20150709T190000",
+        "end": "20150709T220000",
+        "title": "Party",
+        "location": "Pool",
+        "description": "",
+        "sponsor": "HBO"
+      },
+      {
+        "start": "20150709T220000",
+        "end": "20150709T235900",
+        "title": "Mystery Movie Night",
+        "location": "Discovery Theater",
+        "description": "",
+        "sponsor": ""
+      }
+    ]
+  },
+  "server": {
+    "layout": false,
+    "events": [
+      {
+        "start": "20150710T083000",
+        "end": "20150710T091500",
+        "title": "Breakfast",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "GoDaddy"
+      },
+      {
+        "start": "20150710T091500",
+        "end": "20150710T093000",
+        "title": "Opening Ceremony",
+        "location": "Semiahmoo Ballroom",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T093000",
+        "end": "20150710T110000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Jennifer Wong: I Think I Know What You're Talking About, But I'm Not Sure\nWill Scott: Scanning the internet with Node.js\nKevin Dela Rosa: Adding intelligence to your JS applications",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T093000",
+        "end": "20150710T110000",
+        "title": "Workshop Deep Dive into WebRTC",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/pvtpzvobk-8",
+        "sponsor": "&yet"
+      },
+      {
+        "start": "20150710T112000",
+        "end": "20150710T124500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Greg Bulmash: Kids, JS, and Minecraft: A 'Dynamite' Combo\nAdam Baldwin: The Art of Identifying Vulnerabilities\nParashuram N: Automating Web Performance Measurement",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T112000",
+        "end": "20150710T124500",
+        "title": "Workshop Deep Dive into WebRTC (part 2)",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/pvtpzvobk-8",
+        "sponsor": "&yet"
+      },
+      {
+        "start": "20150710T124500",
+        "end": "20150710T134500",
+        "title": "Lunch",
+        "location": "Deck",
+        "description": "",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T141500",
+        "end": "20150710T154500",
+        "title": "Workshop Testing on Mobile: Automating The Pain Away",
+        "location": "San Juan Ballroom ",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/fnv-jop0xcs",
+        "sponsor": "Sauce Labs"
+      },
+      {
+        "start": "20150710T144500",
+        "end": "20150710T154500",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Rebecca Murphey: Deploying Client-Side Apps, 1,000 at a Time\nPotch: Scratch That Itch - Node on the command line for fun and profit\nDonovan Buck: These Bots are Made for Walkin'",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T160000",
+        "end": "20150710T173000",
+        "title": "Workshop Testing on Mobile: Automating The Pain Away",
+        "location": "San Juan Ballroom",
+        "description": "RSVP at https://ti.to/event-loop/cjsfest-2015/with/fnv-jop0xcs",
+        "sponsor": "Sauce Labs"
+      },
+      {
+        "start": "20150710T160000",
+        "end": "20150710T173000",
+        "title": "Talks",
+        "location": "Semiahmoo Ballroom",
+        "description": "Michael Lanzetta: Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Paas and Containerization\nJohn Feminella: A Matter of Time",
+        "sponsor": ""
+      },
+      {
+        "start": "20150710T180000",
+        "end": "20150710T190000",
+        "title": "Dinner",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "twilio"
+      },
+      {
+        "start": "20150710T190000",
+        "end": "20150710T220000",
+        "title": "Party",
+        "location": "Deck",
+        "description": "",
+        "sponsor": "twilio"
+      },
+      {
+        "start": "20150710T220000",
+        "end": "20150710T235900",
+        "title": "Mystery Movie Night",
+        "location": "Discovery Theater",
+        "description": "",
+        "sponsor": ""
+      }
+    ]
+  }
+}

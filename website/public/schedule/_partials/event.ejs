@@ -1,0 +1,8 @@
+BEGIN:VEVENT
+DTSTAMP:<%- start %>
+DTSTART:<%- start %>
+DTEND:<%- end %>
+LOCATION:<%- location %>
+SUMMARY:<%- title %><% if(sponsor) { %> Presented by <%- sponsor %><% } %>
+DESCRIPTION:<%- description.replace(/\n/g, "\\n") %>
+END:VEVENT

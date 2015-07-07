@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CascadiaFest 2015//CSS Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CascadiaCSS 2015 Calendar
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Events for CascadiaCSS 2015, part of CascadiaFest, in Semiahmoo, WA
+<% public.schedule._data.css.events.forEach(function (event) { %>
+<%- partial("_partials/event", event) %>
+<% }); %>
+END:VCALENDAR

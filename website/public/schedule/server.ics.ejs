@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CascadiaFest 2015//CascadiaJS Server Day Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CascadiaJS 2015 Server Day
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Events for CascadiaJS Server Day, part of CascadiaFest 2015, in Semiahmoo, WA
+<% public.schedule._data.server.events.forEach(function (event) { %>
+<%- partial("_partials/event", event) %>
+<% }); %>
+END:VCALENDAR
