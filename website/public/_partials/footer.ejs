@@ -89,6 +89,72 @@ scripts.forEach(function (script) { %>
     var $img = $(elem).find('img');
     $img.attr('src', $img.data('src'));
   });
+
+  function startCaptions() {
+    $('#caption').each(function () {
+      var defaults = {
+          "ff": "Verdana,sans-serif",
+          "fs": "18",
+          "fgc": "ffffff",
+          "bgc": "1C2E4C",
+          "header": true,
+          "controls": false,
+          "footer": false,
+          "chat": false
+        },
+        options = $.extend({}, defaults, JSON.parse(localStorage['captionOptions'] || '{}')),
+        queryString = 'event=CascadiaFest&' + (function (params) {
+          var chunks = [];
+          for(var key in params) {
+            chunks.push(key + '=' + params[key]);
+          }
+          return chunks.join('&');
+        })(options),
+        url = 'http://www.streamtext.net/player?' + queryString;
+
+      localStorage['captionOptions'] = JSON.stringify(options);
+
+      queryString = queryString
+
+      console.log('Current captioning options')
+      console.log(options);
+
+      $(this).attr('src', url);
+    });
+  }
+
+  console.log('You can customize captions by setting an object `localStorage["captionOptions"]`.')
+  console.log('Make sure to json encode it and then run startCaptions()');
+  startCaptions();
+
+  function toggleCaptionHeader() {
+    var options = JSON.parse(localStorage['captionOptions'] || '{}');
+
+    options.header = !options.header;
+
+    localStorage['captionOptions'] = JSON.stringify(options);
+    console.log(localStorage['captionOptions']);
+
+    startCaptions();
+  }
+
+  function toggleCaptionColors() {
+    var options = JSON.parse(localStorage['captionOptions'] || '{}');
+
+    var temp = options.bgc;
+
+    options.bgc = options.fgc;
+    options.fgc = temp;
+
+    localStorage['captionOptions'] = JSON.stringify(options);
+
+    startCaptions();
+  }
+
+  function resetCaptions() {
+    localStorage['captionOptions'] = JSON.stringify('{}');
+    startCaptions();
+  }
 </script>
 
 <script>
