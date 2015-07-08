@@ -1,4 +1,12 @@
 {
+  "welcome-to-cascadiafest": {
+    "postTitle": "Welcome to CascadiaFest",
+    "abstract": "Kicking things off with the first ever CascadiaCSS! "
+  },
+  "css-layer-tennis": {
+    "postTitle": "CSS Layer Tennis",
+    "abstract": "Get ready for CSS Layer Tennis at CascadiaCSS, a game and collaborative art project to explore creative coding with CSS."
+  },
   "ics-calendars": {
     "postTitle": "ICS Calendars for CascadiaFest",
     "abstract": "ICS calendars for all of CascadiaFest 2015"
