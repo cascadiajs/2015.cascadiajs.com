@@ -8,7 +8,7 @@ var commands = ['ACCEPT', 'DECLINE', 'CLOSE'];
 var server = new Hapi.Server();
 server.connection({
     host: 'localhost',
-    port: 8000
+    port: process.env.PORT
 });
 
 var organizers = {};
@@ -30,6 +30,7 @@ var getActiveOrganizer = function(number) {
       activeOrganizer = key;
     }
   });
+  console.log("Worker for ", number, " is ", activeOrganizer);
   return activeOrganizer;
 }
 
@@ -47,6 +48,10 @@ var processCommand = function(command, from) {
     taskRouter.workspaces(process.env.TWILIO_WORKSPACE_SID).workers(stash.workerSid).post({ActivitySid: process.env.TWILIO_ACTIVITY_IDLE_SID}, function(err, res) { console.log(err, res); })
     organizers[from] = {};
   }
+};
+
+var events = function(request, reply) {
+   console.log("TaskRouter Event: ", request.payload);
 };
 
 var assignment = function(request, reply) {
@@ -90,7 +95,7 @@ var sms = function(request, reply) {
     else {
       Object.keys(organizers).forEach(function(num) {
         if (num != request.payload.From) {
-          restClient.messages.create({from: request.payload.To, to: num, body: organizers[num].worker.name + ": " + request.payload.Body});
+          restClient.messages.create({from: request.payload.To, to: num, body: organizers[request.payload.From].worker.name + ": " + request.payload.Body});
         }
       });
     }
@@ -105,7 +110,8 @@ var sms = function(request, reply) {
         body: request.payload.Body
       };
       // post Task to TaskRouter
-      taskRouter.workspaces(process.env.TWILIO_WORKSPACE_SID).tasks.create({workflowSid: process.env.TWILIO_WORKFLOW_SID, attributes: JSON.stringify(incomingText)});   
+      console.log("Posting Task to TaskRouter");
+      taskRouter.workspaces(process.env.TWILIO_WORKSPACE_SID).tasks.create({workflowSid: process.env.TWILIO_WORKFLOW_SID, attributes: JSON.stringify(incomingText)}, function(err, res) {console.log(err, res);});   
       // send response to end user
       twiml.message('We have received your request and will be in touch shortly.')
 
@@ -122,6 +128,10 @@ var sms = function(request, reply) {
 };
 
 server.route({
+    method: 'POST', path:'/events', handler: events
+});
+
+server.route({
     method: 'POST', path:'/assignment', handler: assignment
 });
 
@@ -131,4 +141,4 @@ server.route({
 
 // Start the server
 server.start();
-console.log("Server started on port 8000");
+console.log("Server started on port ", process.env.PORT);
