@@ -41,13 +41,13 @@ Please make sure you [RSVP](https://docs.google.com/forms/d/14VeFG2yDQav3hDXYDmK
         <th>Departure</th><th>Time</th><th>Arrival</th><th>Time</th>
       </tr>
       <tr>
-        <td>Bellingham Amtrak</td><td>7:45 PM</td><td>Bellingham Best Western</td><td>8:00 PM</td>
+        <td>Bellingham Amtrak</td><td>7:45 PM</td><td>Bellingham Best Western Heritage Inn</td><td>8:00 PM</td>
       </tr>
       <tr>
         <td>Bellingham Amtrak</td><td>7:45 PM</td><td>Semiahmoo Resort</td><td>8:30 PM</td>
       </tr>
       <tr>
-        <td>Bellingham Amtrak</td><td>9:15 PM</td><td>Bellingham Best Western</td><td>9:45 PM</td>
+        <td>Bellingham Amtrak</td><td>9:15 PM</td><td>Bellingham Best Western Heritage Inn</td><td>9:45 PM</td>
       </tr>
       <tr>
         <td>Bellingham Amtrak</td><td>9:15 PM</td><td>Semiahmoo Resort</td><td>10:00 PM</td>
@@ -63,22 +63,22 @@ Please make sure you [RSVP](https://docs.google.com/forms/d/14VeFG2yDQav3hDXYDmK
         <th>Departure</th><th>Time</th><th>Arrival</th><th>Time</th>
       </tr>
       <tr>
-        <td>Bellingham Best Western</td><td>7:30 AM</td><td>Semiahmoo Resort</td><td>8:05 AM</td>
+        <td>Bellingham Best Western Heritage Inn</td><td>7:30 AM</td><td>Semiahmoo Resort</td><td>8:05 AM</td>
       </tr>
       <tr>
-        <td>Bellingham Best Western</td><td>8:30 AM</td><td>Semiahmoo Resort</td><td>9:05 AM</td>
+        <td>Bellingham Best Western Heritage Inn</td><td>8:30 AM</td><td>Semiahmoo Resort</td><td>9:05 AM</td>
       </tr>
       <tr>
-        <td>Bellingham Best Western</td><td>9:30 AM</td><td>Semiahmoo Resort</td><td>10:05 AM</td>
+        <td>Bellingham Best Western Heritage Inn</td><td>9:30 AM</td><td>Semiahmoo Resort</td><td>10:05 AM</td>
       </tr>
       <tr>
-        <td>Semiahmoo Resort</td><td>8:00 PM</td><td>Bellingham Best Western</td><td>8:35 PM</td>
+        <td>Semiahmoo Resort</td><td>8:00 PM</td><td>Bellingham Best Western Heritage Inn</td><td>8:35 PM</td>
       </tr>
       <tr>
-        <td>Semiahmoo Resort</td><td>9:30 PM</td><td>Bellingham Best Western</td><td>10:05 PM</td>
+        <td>Semiahmoo Resort</td><td>9:30 PM</td><td>Bellingham Best Western Heritage Inn</td><td>10:05 PM</td>
       </tr>
       <tr>
-        <td>Semiahmoo Resort</td><td>11:00 PM</td><td>Bellingham Best Western</td><td>11:35 PM</td>
+        <td>Semiahmoo Resort</td><td>11:00 PM</td><td>Bellingham Best Western Heritage Inn</td><td>11:35 PM</td>
       </tr>
     </tbody>
     <thead>
@@ -94,13 +94,13 @@ Please make sure you [RSVP](https://docs.google.com/forms/d/14VeFG2yDQav3hDXYDmK
         <td>Semiahmoo Resort</td><td>7:15 AM</td><td>Bellingham Amtrak</td><td>8:00 AM</td>
       </tr>
       <tr>
-        <td>Bellingham Best Western</td><td>7:45 AM</td><td>Bellingham Amtrak</td><td>8:00 AM</td>
+        <td>Bellingham Best Western Heritage Inn</td><td>7:45 AM</td><td>Bellingham Amtrak</td><td>8:00 AM</td>
       </tr>
       <tr>
         <td>Semiahmoo Resort</td><td>8:40 AM</td><td>Bellingham Amtrak</td><td>9:25 AM</td>
       </tr>
       <tr>
-        <td>Bellingham Best Western</td><td>9:10 AM</td><td>Bellingham Amtrak</td><td>9:25 AM</td>
+        <td>Bellingham Best Western Heritage Inn</td><td>9:10 AM</td><td>Bellingham Amtrak</td><td>9:25 AM</td>
       </tr>
     </tbody>
   </table>
