@@ -1,4 +1,8 @@
 {
+  "welcome-to-browser-day": {
+    "postTitle": "Welcome to CascadiaJS - Browser Day",
+    "abstract": "On Day Two we dive into the Browser and related technologies."
+  },
   "welcome-to-cascadiafest": {
     "postTitle": "Welcome to CascadiaFest",
     "abstract": "Kicking things off with the first ever CascadiaCSS! "
