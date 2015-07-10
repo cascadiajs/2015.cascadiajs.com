@@ -134,7 +134,7 @@
       "url": "http://microsoft.com",
       "logo": "/assets/img/sponsors/microsoft/logo-padded.svg",
       "description": "",
-      "visible": ["fest", "server"]
+      "visible": ["fest"]
     },
     {
       "name": "Steamclock Software",
