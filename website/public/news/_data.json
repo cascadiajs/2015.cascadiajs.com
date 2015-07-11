@@ -1,4 +1,8 @@
 {
+  "welcome-to-server-day": {
+    "postTitle": "Welcome to CascadiaJS - Server Day",
+    "abstract": "On the final day we dive into the Server: Node, Hardware and more!"
+  },
   "welcome-to-browser-day": {
     "postTitle": "Welcome to CascadiaJS - Browser Day",
     "abstract": "On Day Two we dive into the Browser and related technologies."
