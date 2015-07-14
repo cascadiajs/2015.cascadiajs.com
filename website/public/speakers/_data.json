@@ -1,4 +1,4 @@
-{
+  {
   "index": {
     "speakers": {
       "css": [
@@ -7,7 +7,9 @@
           "avatar": "/assets/img/speakers/css-01-kenneth-ormandy.jpg",
           "talk": {
             "title": "Efficient Web Type, c. 1556",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-08-kenneth-ormandy.txt"
           }
         },
         {
@@ -15,7 +17,9 @@
           "avatar": "/assets/img/speakers/css-02-ricardo-vazquez.jpg",
           "talk": {
             "title": "The Power of Emotion and Delight: Microinteractions",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-05-ricardo-vazquez.txt"
           }
         },
         {
@@ -23,7 +27,9 @@
           "avatar": "/assets/img/speakers/css-03-shay-howe.jpg",
           "talk": {
             "title": "CSS as a Service: Maintaining Style",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-07-shay-howe.txt"
           }
         },
         {
@@ -31,7 +37,9 @@
           "avatar": "/assets/img/speakers/css-04-alan-mooiman.jpg",
           "talk": {
             "title": "CSS is dead, long live CSS",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-01-alan-mooiman.txt"
           }
         },
         {
@@ -39,7 +47,9 @@
           "avatar": "/assets/img/speakers/css-05-seth-vincent.jpg",
           "talk": {
             "title": "css via npm",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-10-seth-vincent.txt"
           }
         },
         {
@@ -47,7 +57,9 @@
           "avatar": "/assets/img/speakers/css-06-una-kravets.jpg",
           "talk": {
             "title": "Open Source Design: A Call to Arms",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-11-una-kravets.txt"
           }
         },
         {
@@ -55,7 +67,9 @@
           "avatar": "/assets/img/speakers/css-08-john-brown.jpg",
           "talk": {
             "title": "Spare the art, spoil the nth-child()",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-06-john-brown.txt"
           }
         },
         {
@@ -63,7 +77,9 @@
           "avatar": "/assets/img/speakers/css-09-clarissa-peterson.jpg",
           "talk": {
             "title": "Responsive Color",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-09-clarissa-peterson.txt"
           }
         },
         {
@@ -71,7 +87,9 @@
           "avatar": "/assets/img/speakers/css-10-gregor-adams.jpg",
           "talk": {
             "title": "Exploring Fractals in CSS",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-04-gregor-adams.txt"
           }
         },
         {
@@ -79,7 +97,9 @@
           "avatar": "/assets/img/speakers/css-11-jeff-lembeck.jpg",
           "talk": {
             "title": "The Design of Developing",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-02-jeff-lembeck.txt"
           }
         },
         {
@@ -87,7 +107,9 @@
           "avatar": "/assets/img/speakers/css-12-amy-lynn-taylor.jpg",
           "talk": {
             "title": "Remote and better for it",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/01-03-amy-lynn-taylor.txt"
           }
         }
       ],
@@ -97,7 +119,9 @@
           "avatar": "/assets/img/speakers/browser-01-myles-borins.jpg",
           "talk": {
             "title": "It's not me it's you: on the fallibility of large systems",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-06-myles-borins.txt"
           }
         },
         {
@@ -105,7 +129,9 @@
           "avatar": "/assets/img/speakers/browser-02-allen-pike.jpg",
           "talk": {
             "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-08-allen-pike.txt"
           }
         },
         {
@@ -113,7 +139,9 @@
           "avatar": "/assets/img/speakers/browser-03-ashley-williams.jpg",
           "talk": {
             "title": "If you wish to learn ES6/2015 from scratch, you must first invent the universe",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-12-ashley-williams.txt"
           }
         },
         {
@@ -121,7 +149,9 @@
           "avatar": "/assets/img/speakers/browser-04-jana-beck.jpg",
           "talk": {
             "title": "Power Tools for Powerful Visualization",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-01-jana-beck.txt"
           }
         },
         {
@@ -129,7 +159,9 @@
           "avatar": "/assets/img/speakers/browser-05-martin-gontovnikas.jpg",
           "talk": {
             "title": "Death to Cookies, Long Live JSON Web Tokens",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-04-martin-gontovnikas.txt"
           }
         },
         {
@@ -137,7 +169,9 @@
           "avatar": "/assets/img/speakers/browser-06-tessa-thorton.jpg",
           "talk": {
             "title": "Components are the future of the web: it's going to be okay",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-10-tessa-thornton.txt"
           }
         },
         {
@@ -145,7 +179,9 @@
           "avatar": "/assets/img/speakers/browser-07-helen-v-holmes.jpg",
           "talk": {
             "title": "JavaScript and Prototypal Inheritance: Why Is It So Complicated?",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-02-helen-v-holmes.txt"
           }
         },
         {
@@ -153,7 +189,9 @@
           "avatar": "/assets/img/speakers/browser-08-courtney-hemphill.jpg",
           "talk": {
             "title": "Algorithms for Animation - Simple formulas to activate your UI",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-07-courtney-hemphill.txt"
           }
         },
         {
@@ -161,7 +199,9 @@
           "avatar": "/assets/img/speakers/browser-09-david-catuhe.jpg",
           "talk": {
             "title": "3D everywhere with WebGL and Babylon.js",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-05-david-catuhe.txt"
           }
         },
         {
@@ -169,7 +209,9 @@
           "avatar": "/assets/img/speakers/browser-10-dave-justice.jpg",
           "talk": {
             "title": "Making Waves with DSP on the net",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-03-dave-justice.txt"
           }
         },
         {
@@ -177,7 +219,9 @@
           "avatar": "/assets/img/speakers/browser-11-andrei-kashcha.jpg",
           "talk": {
             "title": "A story of package managers, graphs, and one million vertices",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-11-andrei-kashcha.txt"
           }
         },
         {
@@ -185,7 +229,9 @@
           "avatar": "/assets/img/speakers/browser-12-ben-straub.jpg",
           "talk": {
             "title": "Hacking Culture with Javascript",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/02-09-ben-straub.txt"
           }
         }
       ],
@@ -195,7 +241,9 @@
           "avatar": "/assets/img/speakers/server-01-parashuram-n.jpg",
           "talk": {
             "title": "Automating Web Performance Measurement",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-06-parashuram-n.txt"
           }
         },
         {
@@ -203,7 +251,9 @@
           "avatar": "/assets/img/speakers/server-02-rebecca-murphey.jpg",
           "talk": {
             "title": "Deploying Client-Side Apps, 1,000 at a Time",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-07-rebecca-murphey.txt"
           }
         },
         {
@@ -211,7 +261,9 @@
           "avatar": "/assets/img/speakers/server-04-jennifer-wong.jpg",
           "talk": {
             "title": "I Think I Know What You're Talking About, But I'm Not Sure",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-01-jennifer-wong.txt"
           }
         },
         {
@@ -219,7 +271,9 @@
           "avatar": "/assets/img/speakers/server-05-potch.jpg",
           "talk": {
             "title": "Scratch That Itch - Node on the command line for fun and profit",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-08-potch.txt"
           }
         },
         {
@@ -227,7 +281,9 @@
           "avatar": "/assets/img/speakers/server-06-john-feminella.jpg",
           "talk": {
             "title": "A Matter of Time",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-11-john-feminella.txt"
           }
         },
         {
@@ -235,23 +291,29 @@
           "avatar": "/assets/img/speakers/server-07-adam-baldwin.jpg",
           "talk": {
             "title": "The Art of Identifying Vulnerabilities",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-05-adam-baldwin.txt"
           }
         },
         {
           "name": "Kevin Dela Rosa",
           "avatar": "/assets/img/speakers/server-08-kevin-dela-rosa.jpg",
           "talk": {
-            "title": "Adding intelligence to your JS applications",
-            "url": ""
+            "title": "Adding Intelligence to Your JS Applications",
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-03-kevin-dela-rosa.txt"
           }
         },
         {
           "name": "Michael Lanzetta",
           "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
           "talk": {
-            "title": "Containing the Chaos: Building and Scaling IoT Node Services on Azure Using Paas and Containerization",
-            "url": ""
+            "title": "Containing the Chaos",
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-10-michael-lanzetta.txt"
           }
         },
         {
@@ -259,7 +321,9 @@
           "avatar": "/assets/img/speakers/server-10-greg-bulmash.jpg",
           "talk": {
             "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-04-greg-bulmash.txt"
           }
         },
         {
@@ -267,7 +331,9 @@
           "avatar": "/assets/img/speakers/server-11-will-scott.jpg",
           "talk": {
             "title": "Scanning the internet with Node.js",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-02-will-scott.txt"
           }
         },
         {
@@ -275,7 +341,9 @@
           "avatar": "/assets/img/speakers/server-12-donovan-buck.jpg",
           "talk": {
             "title": "These Bots are Made for Walkin'",
-            "url": ""
+            "url": "",
+            "slides": "",
+            "transcript": "/assets/transcripts/03-09-donovan-buck.txt"
           }
         }
       ]

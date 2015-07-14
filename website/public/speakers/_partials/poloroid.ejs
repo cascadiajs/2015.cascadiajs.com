@@ -17,6 +17,11 @@
       <% if(talk.url) { %>
       </a>
       <% } %>
+
+      <% if(talk.transcript) { %>
+        <br>
+        <a href="<%- talk.transcript %>">Transcript</a>
+      <% } %>
     </p>
     <% } %>
   </div>

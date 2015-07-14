@@ -1,0 +1,74 @@
+      >> Good idea.  Make some extra money.
+      >> Nice.
+      >> Thank you so much.
+      >> Thank you.
+      >> Appreciate it.
+      [clapping]
+      >> You don't have a microphone?  Well, we'll do this for a second.  I'm just going to introduce you.  So this is Seth, and Seth is going to talk about CSS with MPM.  He's an independent developer -- is there anything else you want to say?  Other than your entire talk you're about to give?
+      >> I'm just going to do the talk.
+      >> Okay.  Cool.  Join me in welcoming Seth to the stage.
+      [clapping]
+      "CSS via NPM."
+      By: Seth Vincent.
+      >> Can you hear me?  Sort of?  Wow.  This is an awkward device to have wrapped around my head.  Okay.  I think I'm good.  Good.  I'm here to talk about CSS and NPM combined.  Together.  It's probably going to be kind of quick.  I'm okay with that.
+      [Laughter]
+      So I guess to accept that NPM is for CSS, you have to accept that NPM is great for JavaScript, you can do it.  It's a nice time.  And it's nice for CSS as well.  So that's what I'm here to tell you about.  Excuse these awful line breaks.
+      So the workflow is pretty simple.  You're going to do NPM install the CSS module, and then in your, like, entry point CSS file, pretty much, like, Sass, import your CSS module and then run your bundle script.  So you can do this with things, like, bootstrap, networks, it's possible.  It exists.  It's not super exciting to import that whole bootstrap file.
+      What would really be useful is if I could have, say -- oh, wait.  No.  Go back.
+      It would be really useful --
+      [Laughter]
+      >> To just input something like buttons.  And I don't know even what the order of my slides are, and I'm just going to keep talking, and it will be fine.  Oh, yeah, so you may have noticed that there's that bundle CSS line.  What even is that?  So there's at least three tools that are -- that look for those import statements in your CSS files and compile all of the dependences.  Sheetify is the one I've been using recently, if you use browserify, it's basically the same interface.  And rework NPM is the same rework, but there's also a rework dash that is the same thing.  And then it's a little bit different, it piggybacks on browserify and kind of produces a CSS file as a side effect.
+      But the thing that they all have in common, is that in package dot JSON is you can import it to your file, and they recognize this, and this is what they're all based on.  And there's a few others that will work similarly.
+      So that bundled CSS script is pretty easy, using sheetify.  Take your entry file, the one with all the import statements, and write it to the bundle dot CSS file -- oh, yeah.  I got out of order.  A little bit.  So bootstrap is nice if you want to have all the things that bootstrap has, but I don't really want wells.  Sometimes all I really want is, like, button styles.  Just some really nice button styles, and that's all I really want from other people, and I can write the rest of the, you know, styles myself.
+      So there's -- these are the main CSS projects that I've found so far that each one of those you can NPM install that name, and it will give you all the different styles for each project.  But also, you know, you can do base assess dash grid, and it will give you the grid styles in there.  Or you can do CSS dash button, and it will give you all the button styles in there.  So it's really nice.  You can mix and match, grab from each project the things you like best, as long as they go together.  And you can do this with preprocessors, that's fine, you can do it.  I often use -- so Alan was talking about CSS preprocessors a lot this morning.  I don't have much to say about it.  But I like using of these ones because you can, you know, pretend you're in the future or at least, you know, I like the idea of using what functionality will exist in the future and ditching these tools when they're not necessary, presumably.
+      So here's an example of using sheetify with CSS next, type in the output into sheetify, and then write to that bundle CSS file.
+      Publishing the CSS modules are pretty easy.  You want that style property, and if you're using a preprocessor, it's really nice to have that style property point to the thing that's been processed; right?  Don't force somebody to use Sass or stylist or CSS next, just give us a thing that's ready to use.  But make those source files available so that if somebody is using Sass, they can quickly grab that and then use Sass to compile things after its been bundled.
+      With all those tools you can do relative paths to get your local files.  So what's sort of a real world example?  I often do something like this.  Normalize CSS and then get base CSS grid and then CSS kit is a thing that I made, which is lying to you.  It's not really a kit, its got button styles and form styles.  Just the things that I need.
+      And then install the couple of DEV dependences and file structure might look something like this, and it has importing the dependences, importing the local files, and then this looks really similar to what I already showed you.  Just bundle it all together.
+      I made a really small module, you know, just hand crafted from Seattle just for you.  So right now you could do NPM install pizza background, and then import the pizza background and then, you know, run your bundle script and make sure you have pizza on the element that you want to use it on as a class.  And then you'll get something like that.  That's all it does.
+      [Laughter]
+      >> One thing well.
+      [Laughter]
+      >> This was, like, eight minutes.  We're done.
+      So hopefully I -- you know, there's only a few people that are doing these really -- this approach on NPM with CSS, and I would like for you of you to do it because then I could use them that would be great.
+      [Laughter]
+      [clapping]
+      >> Huh-uh.  Where do you think you're going?  I love that voice.  We're having fun.  Look at us having fun.  Let's just -- like I'm tired.  Are you tired?  It's been a really long day; right?
+      >> Yeah.  I'm done.
+      >> Done?  Completely done?
+      >> You can just stand here in silence, and I'll read some of the last haikus of the day.  Is that cool.  Maybe you can, like, react emotionally to them.  And I'll read them.
+      >> Yeah.
+      >> So we'll be our own theater troop.
+      >> That sounds awful.  Let's do it.
+      [Laughter]
+      >> Let's do it.  Let's do it.  Kind of wish we had, like, some drums or something, you know?  Anyone want to hook me up with that?  No?  Probably not.  Okay.  Oh, there's some really good ones.  You ready?
+      Maybe you can mime them.
+      [Laughter]
+      >> No.  I really don't think I'm going to do that.
+      [Laughter]
+      >> He's not fucking around.
+      Float, flex, box and grid all walk into a foo bar.  DIV, how'd you get there?
+      [Laughter]
+      I think we make a great team.  I don't know.  That's cool.  I'll just fix without testing locally.
+      [Laughter]
+      Push -- push code.  Oh, god why?  That seems appropriate.
+      I want to do at least one more.  Give people some -- okay.  I'll try -- oh, sorry that's not part of the haiku.  We're almost done, folks, you won't have to listen to me anymore after this.
+      White space is hyphenated, yet no rap is not.  Baffles all the DEVs.
+      You're such a great sport.  Thank you.
+      >> Thank you.
+      >> We've done it, team.  It's our last talk of the day.  How are you all feeling?  Oh, okay.  Hello.
+      >> Hello.
+      >> How are you?
+      >> Hello, friend.
+      >> So I'm totally -- I have said your name so many times in real life.
+      >> This is the real test now.
+      >> But it's the real test.
+      [Laughter]
+      >> Una.
+      >> No.  God so close.
+      >> You do it.
+      >> It's Una.
+      >> I feel like I let you down.
+      >> It's okay.  It happens all the time.  At least you'll remember.
+      >> I would love to be that person.  I will happily be that person.  So you're going to talk about design in open source.
+      >> I'm going to try my best.  And call to arms if you will for all of designers in the crowd.  
