@@ -60,6 +60,10 @@ address {
 
 .navbar > .container-fluid .navbar-brand {}
 
+.container-fluid {
+  position: relative;
+}
+
 @media (min-width: @screen-md-min) {
   .container-fluid {
     max-width: 60em;
@@ -678,7 +682,7 @@ table.schedule {
     .inner {
       padding: 1em;
       border: 1px solid #ddd;
-      min-height: 363px;
+      min-height: 364px;
       p {
         font-size: 1.4rem;
         margin: 0;
@@ -761,4 +765,39 @@ iframe#caption {
   border: 2px solid #ccc;
   width: 100%;
   min-height: 20em;
+}
+
+.video-player {
+  border: 4px solid @cjs-color-primary;
+  position: absolute;
+  width: 100%;
+  height: auto;
+
+  padding: 1em;
+
+  text-align: left;
+
+  h4 {
+    margin-top: 0;
+  }
+
+  .sizer {
+    max-width: 860px;
+  }
+
+  .video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+
+    iframe,
+    object,
+    embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  }
 }

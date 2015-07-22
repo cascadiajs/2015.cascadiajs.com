@@ -5,22 +5,18 @@
       <img alt="" src="" data-src="<%- avatar %>" class="profile-image" />
     <% } %>
 
-    <h4><%- name %></h4>
+    <h4 class="name"><%- name %></h4>
     <% if(typeof talk !== "undefined") { %>
     <p>
-      <% if(talk.url) { %>
-      <a href="<%- talk.url %>">
-      <% } %>
-
-        <%- talk.title %>
-
-      <% if(talk.url) { %>
-      </a>
-      <% } %>
+      <span class="talk-title"><%- talk.title %></span>
 
       <% if(talk.transcript) { %>
         <br>
         <a href="<%- talk.transcript %>">Transcript</a>
+      <% } %>
+
+      <% if(talk.video) { %>
+        &bull; <a href="<%- talk.video %>" class="video">Video</a>
       <% } %>
     </p>
     <% } %>

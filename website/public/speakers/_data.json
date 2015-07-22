@@ -8,7 +8,7 @@
           "talk": {
             "title": "Efficient Web Type, c. 1556",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=z0O9zR_3uYI&index=8&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-08-kenneth-ormandy.txt"
           }
         },
@@ -18,7 +18,7 @@
           "talk": {
             "title": "The Power of Emotion and Delight: Microinteractions",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=P4wKPe7LQAI&index=5&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-05-ricardo-vazquez.txt"
           }
         },
@@ -28,7 +28,7 @@
           "talk": {
             "title": "CSS as a Service: Maintaining Style",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=LnPToSft1QM&index=7&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-07-shay-howe.txt"
           }
         },
@@ -38,7 +38,7 @@
           "talk": {
             "title": "CSS is dead, long live CSS",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=jWDZP8twWDg&index=1&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-01-alan-mooiman.txt"
           }
         },
@@ -48,7 +48,7 @@
           "talk": {
             "title": "css via npm",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=4tfXd4CKgWk&index=9&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-10-seth-vincent.txt"
           }
         },
@@ -58,7 +58,7 @@
           "talk": {
             "title": "Open Source Design: A Call to Arms",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=hBp6nP_hqBM&index=10&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-11-una-kravets.txt"
           }
         },
@@ -68,7 +68,7 @@
           "talk": {
             "title": "Spare the art, spoil the nth-child()",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=7naT-woTCWg&index=6&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-06-john-brown.txt"
           }
         },
@@ -78,7 +78,7 @@
           "talk": {
             "title": "Responsive Color",
             "url": "",
-            "slides": "",
+            "video": "",
             "transcript": "/assets/transcripts/01-09-clarissa-peterson.txt"
           }
         },
@@ -88,7 +88,7 @@
           "talk": {
             "title": "Exploring Fractals in CSS",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=Y2G4nhkBYkc&index=4&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-04-gregor-adams.txt"
           }
         },
@@ -98,7 +98,7 @@
           "talk": {
             "title": "The Design of Developing",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=Mh8R3AtWYQk&index=2&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-02-jeff-lembeck.txt"
           }
         },
@@ -108,7 +108,7 @@
           "talk": {
             "title": "Remote and better for it",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=_NPLqrVMHFw&index=3&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/01-03-amy-lynn-taylor.txt"
           }
         }
@@ -120,7 +120,7 @@
           "talk": {
             "title": "It's not me it's you: on the fallibility of large systems",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=47XMs6pcf7w&index=16&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-06-myles-borins.txt"
           }
         },
@@ -130,7 +130,7 @@
           "talk": {
             "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=xO8QonDtFJQ&index=18&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-08-allen-pike.txt"
           }
         },
@@ -140,7 +140,7 @@
           "talk": {
             "title": "If you wish to learn ES6/2015 from scratch, you must first invent the universe",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=yWeAZEqNCXM&index=22&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-12-ashley-williams.txt"
           }
         },
@@ -150,7 +150,7 @@
           "talk": {
             "title": "Power Tools for Powerful Visualization",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=X7MnW1_5NaY&index=11&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-01-jana-beck.txt"
           }
         },
@@ -160,7 +160,7 @@
           "talk": {
             "title": "Death to Cookies, Long Live JSON Web Tokens",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=mvS4oxHFXxM&index=14&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-04-martin-gontovnikas.txt"
           }
         },
@@ -170,7 +170,7 @@
           "talk": {
             "title": "Components are the future of the web: it's going to be okay",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=uJSW8H-ASME&index=20&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-10-tessa-thornton.txt"
           }
         },
@@ -180,7 +180,7 @@
           "talk": {
             "title": "JavaScript and Prototypal Inheritance: Why Is It So Complicated?",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=sqCgXTzn_ok&index=12&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-02-helen-v-holmes.txt"
           }
         },
@@ -190,7 +190,7 @@
           "talk": {
             "title": "Algorithms for Animation - Simple formulas to activate your UI",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=Q5NbUS6n0yw&index=17&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-07-courtney-hemphill.txt"
           }
         },
@@ -200,7 +200,7 @@
           "talk": {
             "title": "3D everywhere with WebGL and Babylon.js",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=ZE-HRoaN4YE&index=15&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-05-david-catuhe.txt"
           }
         },
@@ -210,7 +210,7 @@
           "talk": {
             "title": "Making Waves with DSP on the net",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=o4DQyehSw-U&index=13&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-03-dave-justice.txt"
           }
         },
@@ -220,7 +220,7 @@
           "talk": {
             "title": "A story of package managers, graphs, and one million vertices",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=vZ6Yhlxv7Os&index=21&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-11-andrei-kashcha.txt"
           }
         },
@@ -230,7 +230,7 @@
           "talk": {
             "title": "Hacking Culture with Javascript",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=0wJxgYfqwHo&index=19&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/02-09-ben-straub.txt"
           }
         }
@@ -242,7 +242,7 @@
           "talk": {
             "title": "Automating Web Performance Measurement",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=86LwhTD_rkM&index=28&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-06-parashuram-n.txt"
           }
         },
@@ -252,7 +252,7 @@
           "talk": {
             "title": "Deploying Client-Side Apps, 1,000 at a Time",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=ZXlZTcv743Y&index=29&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-07-rebecca-murphey.txt"
           }
         },
@@ -262,7 +262,7 @@
           "talk": {
             "title": "I Think I Know What You're Talking About, But I'm Not Sure",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=iDz3FebXMPc&index=23&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-01-jennifer-wong.txt"
           }
         },
@@ -272,7 +272,7 @@
           "talk": {
             "title": "Scratch That Itch - Node on the command line for fun and profit",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=-6wDYFdnk7A&index=30&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-08-potch.txt"
           }
         },
@@ -282,7 +282,7 @@
           "talk": {
             "title": "A Matter of Time",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=aJz-NnomTmE&index=33&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-11-john-feminella.txt"
           }
         },
@@ -292,7 +292,7 @@
           "talk": {
             "title": "The Art of Identifying Vulnerabilities",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=ePPbjaFLN88&index=27&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-05-adam-baldwin.txt"
           }
         },
@@ -302,7 +302,7 @@
           "talk": {
             "title": "Adding Intelligence to Your JS Applications",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=CcSo_9Gwb9I&index=25&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-03-kevin-dela-rosa.txt"
           }
         },
@@ -312,7 +312,7 @@
           "talk": {
             "title": "Containing the Chaos",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=99zXI6CZNGM&index=32&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-10-michael-lanzetta.txt"
           }
         },
@@ -322,7 +322,7 @@
           "talk": {
             "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=Iwj5j7H_YCk&index=26&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-04-greg-bulmash.txt"
           }
         },
@@ -332,7 +332,7 @@
           "talk": {
             "title": "Scanning the internet with Node.js",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=BXfsXJg2Rzg&index=24&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-02-will-scott.txt"
           }
         },
@@ -342,7 +342,7 @@
           "talk": {
             "title": "These Bots are Made for Walkin'",
             "url": "",
-            "slides": "",
+            "video": "https://www.youtube.com/watch?v=yYEHplYlTQc&index=31&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
             "transcript": "/assets/transcripts/03-09-donovan-buck.txt"
           }
         }
