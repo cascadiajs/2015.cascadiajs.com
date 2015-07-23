@@ -1,0 +1,42 @@
+<div class="speaker-page">
+  <div class="header">
+    <img
+      class="speaker-avatar"
+      src="<%- speaker.avatar %>"
+      alt="" />
+
+    <h1 class="speaker-title"><%- speaker.talk.title %></h1>
+    <h2 class="speaker-subtitle"><%- speaker.name %></h2>
+
+    <h2 class="speaker-subtitle">
+      <% if (day === 'browser') { %>
+        CascadiaJS Browser Day,
+      <% } %>
+
+      <% if (day === 'server') { %>
+        CascadiaJS Server Day,
+      <% } %>
+
+      <% if (day === 'css') { %>
+        CascadiaCSS,
+      <% } %>
+
+      CascadiaFest 2015
+    </h2>
+  </div>
+
+  <p>
+    <a href="<%- speaker.talk.transcript %>">Transcript</a>
+    &bull;
+    <a href="https://www.youtube.com/watch?v=<%- speaker.talk.videoID %>&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7">Watch on YouTube</a>
+  </p>
+
+  <div class="speaker-video-player">
+    <div class="sizer">
+      <div class="video-container">
+        <iframe src="http://www.youtube.com/embed/<%- speaker.talk.videoID %>" frameborder="0" width="560" height="315"></iframe>
+      </div>
+    </div>
+  </div>
+
+</div>

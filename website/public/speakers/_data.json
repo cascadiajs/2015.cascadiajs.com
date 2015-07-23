@@ -7,8 +7,8 @@
           "avatar": "/assets/img/speakers/css-01-kenneth-ormandy.jpg",
           "talk": {
             "title": "Efficient Web Type, c. 1556",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=z0O9zR_3uYI&index=8&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/kenneth-ormandy",
+            "videoID": "z0O9zR_3uYI",
             "transcript": "/assets/transcripts/01-08-kenneth-ormandy.txt"
           }
         },
@@ -17,8 +17,8 @@
           "avatar": "/assets/img/speakers/css-02-ricardo-vazquez.jpg",
           "talk": {
             "title": "The Power of Emotion and Delight: Microinteractions",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=P4wKPe7LQAI&index=5&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/ricardo-vazquez",
+            "videoID": "P4wKPe7LQAI",
             "transcript": "/assets/transcripts/01-05-ricardo-vazquez.txt"
           }
         },
@@ -27,8 +27,8 @@
           "avatar": "/assets/img/speakers/css-03-shay-howe.jpg",
           "talk": {
             "title": "CSS as a Service: Maintaining Style",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=LnPToSft1QM&index=7&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/shay-howe",
+            "videoID": "LnPToSft1QM",
             "transcript": "/assets/transcripts/01-07-shay-howe.txt"
           }
         },
@@ -37,8 +37,8 @@
           "avatar": "/assets/img/speakers/css-04-alan-mooiman.jpg",
           "talk": {
             "title": "CSS is dead, long live CSS",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=jWDZP8twWDg&index=1&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/alan-mooiman",
+            "videoID": "jWDZP8twWDg",
             "transcript": "/assets/transcripts/01-01-alan-mooiman.txt"
           }
         },
@@ -47,8 +47,8 @@
           "avatar": "/assets/img/speakers/css-05-seth-vincent.jpg",
           "talk": {
             "title": "css via npm",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=4tfXd4CKgWk&index=9&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/seth-vincent",
+            "videoID": "4tfXd4CKgWk",
             "transcript": "/assets/transcripts/01-10-seth-vincent.txt"
           }
         },
@@ -57,8 +57,8 @@
           "avatar": "/assets/img/speakers/css-06-una-kravets.jpg",
           "talk": {
             "title": "Open Source Design: A Call to Arms",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=hBp6nP_hqBM&index=10&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/una-kravets",
+            "videoID": "hBp6nP_hqBM",
             "transcript": "/assets/transcripts/01-11-una-kravets.txt"
           }
         },
@@ -67,8 +67,8 @@
           "avatar": "/assets/img/speakers/css-08-john-brown.jpg",
           "talk": {
             "title": "Spare the art, spoil the nth-child()",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=7naT-woTCWg&index=6&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/john-brown",
+            "videoID": "7naT-woTCWg",
             "transcript": "/assets/transcripts/01-06-john-brown.txt"
           }
         },
@@ -77,8 +77,8 @@
           "avatar": "/assets/img/speakers/css-09-clarissa-peterson.jpg",
           "talk": {
             "title": "Responsive Color",
-            "url": "",
-            "video": "",
+            "url": "/speakers/clarissa-peterson",
+            "videoID": "xlmaNtDQkEc",
             "transcript": "/assets/transcripts/01-09-clarissa-peterson.txt"
           }
         },
@@ -87,8 +87,8 @@
           "avatar": "/assets/img/speakers/css-10-gregor-adams.jpg",
           "talk": {
             "title": "Exploring Fractals in CSS",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=Y2G4nhkBYkc&index=4&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/gregor-adams",
+            "videoID": "Y2G4nhkBYkc",
             "transcript": "/assets/transcripts/01-04-gregor-adams.txt"
           }
         },
@@ -97,8 +97,8 @@
           "avatar": "/assets/img/speakers/css-11-jeff-lembeck.jpg",
           "talk": {
             "title": "The Design of Developing",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=Mh8R3AtWYQk&index=2&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/jeff-lembeck",
+            "videoID": "Mh8R3AtWYQk",
             "transcript": "/assets/transcripts/01-02-jeff-lembeck.txt"
           }
         },
@@ -107,8 +107,8 @@
           "avatar": "/assets/img/speakers/css-12-amy-lynn-taylor.jpg",
           "talk": {
             "title": "Remote and better for it",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=_NPLqrVMHFw&index=3&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/amy-lynn-taylor",
+            "videoID": "_NPLqrVMHFw",
             "transcript": "/assets/transcripts/01-03-amy-lynn-taylor.txt"
           }
         }
@@ -119,8 +119,8 @@
           "avatar": "/assets/img/speakers/browser-01-myles-borins.jpg",
           "talk": {
             "title": "It's not me it's you: on the fallibility of large systems",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=47XMs6pcf7w&index=16&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/myles-borins",
+            "videoID": "47XMs6pcf7w",
             "transcript": "/assets/transcripts/02-06-myles-borins.txt"
           }
         },
@@ -129,8 +129,8 @@
           "avatar": "/assets/img/speakers/browser-02-allen-pike.jpg",
           "talk": {
             "title": "A JS Framework on Every Table: Todo Examples All the Way Down",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=xO8QonDtFJQ&index=18&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/allen-pike",
+            "videoID": "xO8QonDtFJQ",
             "transcript": "/assets/transcripts/02-08-allen-pike.txt"
           }
         },
@@ -139,8 +139,8 @@
           "avatar": "/assets/img/speakers/browser-03-ashley-williams.jpg",
           "talk": {
             "title": "If you wish to learn ES6/2015 from scratch, you must first invent the universe",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=yWeAZEqNCXM&index=22&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/ashley-williams",
+            "videoID": "yWeAZEqNCXM",
             "transcript": "/assets/transcripts/02-12-ashley-williams.txt"
           }
         },
@@ -149,8 +149,8 @@
           "avatar": "/assets/img/speakers/browser-04-jana-beck.jpg",
           "talk": {
             "title": "Power Tools for Powerful Visualization",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=X7MnW1_5NaY&index=11&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/jana-beck",
+            "videoID": "X7MnW1_5NaY",
             "transcript": "/assets/transcripts/02-01-jana-beck.txt"
           }
         },
@@ -159,8 +159,8 @@
           "avatar": "/assets/img/speakers/browser-05-martin-gontovnikas.jpg",
           "talk": {
             "title": "Death to Cookies, Long Live JSON Web Tokens",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=mvS4oxHFXxM&index=14&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/martin-gontovnikas",
+            "videoID": "mvS4oxHFXxM",
             "transcript": "/assets/transcripts/02-04-martin-gontovnikas.txt"
           }
         },
@@ -169,8 +169,8 @@
           "avatar": "/assets/img/speakers/browser-06-tessa-thorton.jpg",
           "talk": {
             "title": "Components are the future of the web: it's going to be okay",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=uJSW8H-ASME&index=20&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/tessa-thorton",
+            "videoID": "uJSW8H-ASME",
             "transcript": "/assets/transcripts/02-10-tessa-thornton.txt"
           }
         },
@@ -179,8 +179,8 @@
           "avatar": "/assets/img/speakers/browser-07-helen-v-holmes.jpg",
           "talk": {
             "title": "JavaScript and Prototypal Inheritance: Why Is It So Complicated?",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=sqCgXTzn_ok&index=12&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/helen-v-holmes",
+            "videoID": "sqCgXTzn_ok",
             "transcript": "/assets/transcripts/02-02-helen-v-holmes.txt"
           }
         },
@@ -189,8 +189,8 @@
           "avatar": "/assets/img/speakers/browser-08-courtney-hemphill.jpg",
           "talk": {
             "title": "Algorithms for Animation - Simple formulas to activate your UI",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=Q5NbUS6n0yw&index=17&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/courtney-hemphill",
+            "videoID": "Q5NbUS6n0yw",
             "transcript": "/assets/transcripts/02-07-courtney-hemphill.txt"
           }
         },
@@ -199,8 +199,8 @@
           "avatar": "/assets/img/speakers/browser-09-david-catuhe.jpg",
           "talk": {
             "title": "3D everywhere with WebGL and Babylon.js",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=ZE-HRoaN4YE&index=15&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/david-catuhe",
+            "videoID": "ZE-HRoaN4YE",
             "transcript": "/assets/transcripts/02-05-david-catuhe.txt"
           }
         },
@@ -209,8 +209,8 @@
           "avatar": "/assets/img/speakers/browser-10-dave-justice.jpg",
           "talk": {
             "title": "Making Waves with DSP on the net",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=o4DQyehSw-U&index=13&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/dave-justice",
+            "videoID": "o4DQyehSw-U",
             "transcript": "/assets/transcripts/02-03-dave-justice.txt"
           }
         },
@@ -219,8 +219,8 @@
           "avatar": "/assets/img/speakers/browser-11-andrei-kashcha.jpg",
           "talk": {
             "title": "A story of package managers, graphs, and one million vertices",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=vZ6Yhlxv7Os&index=21&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/andrei-kashcha",
+            "videoID": "vZ6Yhlxv7Os",
             "transcript": "/assets/transcripts/02-11-andrei-kashcha.txt"
           }
         },
@@ -229,8 +229,8 @@
           "avatar": "/assets/img/speakers/browser-12-ben-straub.jpg",
           "talk": {
             "title": "Hacking Culture with Javascript",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=0wJxgYfqwHo&index=19&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/ben-straub",
+            "videoID": "0wJxgYfqwHo",
             "transcript": "/assets/transcripts/02-09-ben-straub.txt"
           }
         }
@@ -241,8 +241,8 @@
           "avatar": "/assets/img/speakers/server-01-parashuram-n.jpg",
           "talk": {
             "title": "Automating Web Performance Measurement",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=86LwhTD_rkM&index=28&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/parashuram-n",
+            "videoID": "86LwhTD_rkM",
             "transcript": "/assets/transcripts/03-06-parashuram-n.txt"
           }
         },
@@ -251,8 +251,8 @@
           "avatar": "/assets/img/speakers/server-02-rebecca-murphey.jpg",
           "talk": {
             "title": "Deploying Client-Side Apps, 1,000 at a Time",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=ZXlZTcv743Y&index=29&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/rebecca-murphey",
+            "videoID": "ZXlZTcv743Y",
             "transcript": "/assets/transcripts/03-07-rebecca-murphey.txt"
           }
         },
@@ -261,8 +261,8 @@
           "avatar": "/assets/img/speakers/server-04-jennifer-wong.jpg",
           "talk": {
             "title": "I Think I Know What You're Talking About, But I'm Not Sure",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=iDz3FebXMPc&index=23&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/jennifer-wong",
+            "videoID": "iDz3FebXMPc",
             "transcript": "/assets/transcripts/03-01-jennifer-wong.txt"
           }
         },
@@ -271,8 +271,8 @@
           "avatar": "/assets/img/speakers/server-05-potch.jpg",
           "talk": {
             "title": "Scratch That Itch - Node on the command line for fun and profit",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=-6wDYFdnk7A&index=30&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/potch",
+            "videoID": "-6wDYFdnk7A",
             "transcript": "/assets/transcripts/03-08-potch.txt"
           }
         },
@@ -281,8 +281,8 @@
           "avatar": "/assets/img/speakers/server-06-john-feminella.jpg",
           "talk": {
             "title": "A Matter of Time",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=aJz-NnomTmE&index=33&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/john-feminella",
+            "videoID": "aJz-NnomTmE",
             "transcript": "/assets/transcripts/03-11-john-feminella.txt"
           }
         },
@@ -291,8 +291,8 @@
           "avatar": "/assets/img/speakers/server-07-adam-baldwin.jpg",
           "talk": {
             "title": "The Art of Identifying Vulnerabilities",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=ePPbjaFLN88&index=27&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/adam-baldwin",
+            "videoID": "ePPbjaFLN88",
             "transcript": "/assets/transcripts/03-05-adam-baldwin.txt"
           }
         },
@@ -301,8 +301,8 @@
           "avatar": "/assets/img/speakers/server-08-kevin-dela-rosa.jpg",
           "talk": {
             "title": "Adding Intelligence to Your JS Applications",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=CcSo_9Gwb9I&index=25&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/kevin-dela-rosa",
+            "videoID": "CcSo_9Gwb9I",
             "transcript": "/assets/transcripts/03-03-kevin-dela-rosa.txt"
           }
         },
@@ -311,8 +311,8 @@
           "avatar": "/assets/img/speakers/server-09-michael-lanzetta.jpg",
           "talk": {
             "title": "Containing the Chaos",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=99zXI6CZNGM&index=32&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/michael-lanzetta",
+            "videoID": "99zXI6CZNGM",
             "transcript": "/assets/transcripts/03-10-michael-lanzetta.txt"
           }
         },
@@ -321,8 +321,8 @@
           "avatar": "/assets/img/speakers/server-10-greg-bulmash.jpg",
           "talk": {
             "title": "Kids, JS, and Minecraft: A 'Dynamite' Combo",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=Iwj5j7H_YCk&index=26&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/greg-bulmash",
+            "videoID": "Iwj5j7H_YCk",
             "transcript": "/assets/transcripts/03-04-greg-bulmash.txt"
           }
         },
@@ -331,8 +331,8 @@
           "avatar": "/assets/img/speakers/server-11-will-scott.jpg",
           "talk": {
             "title": "Scanning the internet with Node.js",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=BXfsXJg2Rzg&index=24&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/will-scott",
+            "videoID": "BXfsXJg2Rzg",
             "transcript": "/assets/transcripts/03-02-will-scott.txt"
           }
         },
@@ -341,8 +341,8 @@
           "avatar": "/assets/img/speakers/server-12-donovan-buck.jpg",
           "talk": {
             "title": "These Bots are Made for Walkin'",
-            "url": "",
-            "video": "https://www.youtube.com/watch?v=yYEHplYlTQc&index=31&list=PLLiioAbFTbKNpjG_yNpNfhAmQ9KsxFzX7",
+            "url": "/speakers/donovan-buck",
+            "videoID": "yYEHplYlTQc",
             "transcript": "/assets/transcripts/03-09-donovan-buck.txt"
           }
         }

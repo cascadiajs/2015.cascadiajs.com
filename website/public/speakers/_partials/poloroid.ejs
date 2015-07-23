@@ -8,16 +8,7 @@
     <h4 class="name"><%- name %></h4>
     <% if(typeof talk !== "undefined") { %>
     <p>
-      <span class="talk-title"><%- talk.title %></span>
-
-      <% if(talk.transcript) { %>
-        <br>
-        <a href="<%- talk.transcript %>">Transcript</a>
-      <% } %>
-
-      <% if(talk.video) { %>
-        &bull; <a href="<%- talk.video %>" class="video">Video</a>
-      <% } %>
+      <a href="<%- talk.url %>" class="talk-title"><%- talk.title %></a>
     </p>
     <% } %>
   </div>
